@@ -1,0 +1,693 @@
+{
+  "sourceOnly": true,
+  "frames": [
+    {
+      "frame": 6606,
+      "sha256": "b1ee655c721a11b4a718b8f0dc4ad56a3000acc89134bdf427ace9e61ae447f3",
+      "flying": true,
+      "parts": [
+        {
+          "slot": 26,
+          "rawX": 70,
+          "rawY": 216,
+          "active": true,
+          "image": 354568
+        },
+        {
+          "slot": 27,
+          "rawX": 102,
+          "rawY": 216,
+          "active": true,
+          "image": 355048
+        },
+        {
+          "slot": 28,
+          "rawX": 86,
+          "rawY": 264,
+          "active": false,
+          "image": 356488
+        },
+        {
+          "slot": 29,
+          "rawX": 70,
+          "rawY": 240,
+          "active": false,
+          "image": 356968
+        },
+        {
+          "slot": 30,
+          "rawX": 102,
+          "rawY": 240,
+          "active": false,
+          "image": 357448
+        }
+      ],
+      "camera": 6908
+    },
+    {
+      "frame": 6607,
+      "sha256": "fc9b26c134135adcc297ea7c09536fa862e132148d6c93742a29508093f88b52",
+      "flying": true,
+      "parts": [
+        {
+          "slot": 26,
+          "rawX": 70,
+          "rawY": 218,
+          "active": true,
+          "image": 354088
+        },
+        {
+          "slot": 27,
+          "rawX": 102,
+          "rawY": 218,
+          "active": true,
+          "image": 352648
+        },
+        {
+          "slot": 28,
+          "rawX": 86,
+          "rawY": 266,
+          "active": false,
+          "image": 356008
+        },
+        {
+          "slot": 29,
+          "rawX": 70,
+          "rawY": 242,
+          "active": false,
+          "image": 353128
+        },
+        {
+          "slot": 30,
+          "rawX": 102,
+          "rawY": 242,
+          "active": false,
+          "image": 355528
+        }
+      ],
+      "camera": 6908
+    },
+    {
+      "frame": 6608,
+      "sha256": "fcc8edd241dbb2764f6dd4d298b16a5c6b13ec4b89bf0d5a55b3fbcc65f0e853",
+      "flying": true,
+      "parts": [
+        {
+          "slot": 26,
+          "rawX": 70,
+          "rawY": 220,
+          "active": true,
+          "image": 351688
+        },
+        {
+          "slot": 27,
+          "rawX": 102,
+          "rawY": 220,
+          "active": true,
+          "image": 352168
+        },
+        {
+          "slot": 28,
+          "rawX": 86,
+          "rawY": 268,
+          "active": false,
+          "image": 353608
+        },
+        {
+          "slot": 29,
+          "rawX": 70,
+          "rawY": 244,
+          "active": false,
+          "image": 350728
+        },
+        {
+          "slot": 30,
+          "rawX": 102,
+          "rawY": 244,
+          "active": false,
+          "image": 351208
+        }
+      ],
+      "camera": 6908
+    },
+    {
+      "frame": 6609,
+      "sha256": "175d162e0fc21d05f8b2d554bac8088acd3ad2c032040d18bda5cc04b583e88e",
+      "flying": true,
+      "parts": [
+        {
+          "slot": 26,
+          "rawX": 70,
+          "rawY": 222,
+          "active": true,
+          "image": 354568
+        },
+        {
+          "slot": 27,
+          "rawX": 102,
+          "rawY": 222,
+          "active": true,
+          "image": 355048
+        },
+        {
+          "slot": 28,
+          "rawX": 86,
+          "rawY": 270,
+          "active": false,
+          "image": 356488
+        },
+        {
+          "slot": 29,
+          "rawX": 70,
+          "rawY": 246,
+          "active": false,
+          "image": 356968
+        },
+        {
+          "slot": 30,
+          "rawX": 102,
+          "rawY": 246,
+          "active": false,
+          "image": 357448
+        }
+      ],
+      "camera": 6908
+    },
+    {
+      "frame": 6610,
+      "sha256": "befb06ad4da6c319d669e4ebad6941d53bd0e34a293267524b6a494d434de11c",
+      "flying": true,
+      "parts": [
+        {
+          "slot": 26,
+          "rawX": 70,
+          "rawY": 224,
+          "active": true,
+          "image": 354088
+        },
+        {
+          "slot": 27,
+          "rawX": 102,
+          "rawY": 224,
+          "active": true,
+          "image": 352648
+        },
+        {
+          "slot": 28,
+          "rawX": 86,
+          "rawY": 272,
+          "active": false,
+          "image": 356008
+        },
+        {
+          "slot": 29,
+          "rawX": 70,
+          "rawY": 248,
+          "active": false,
+          "image": 353128
+        },
+        {
+          "slot": 30,
+          "rawX": 102,
+          "rawY": 248,
+          "active": false,
+          "image": 355528
+        }
+      ],
+      "camera": 6908
+    },
+    {
+      "frame": 6611,
+      "sha256": "3d8253c3bc527db24f47216ada4f1778f752a9aa50f616f70591fdedd1a5b382",
+      "flying": true,
+      "parts": [
+        {
+          "slot": 26,
+          "rawX": 70,
+          "rawY": 226,
+          "active": true,
+          "image": 351688
+        },
+        {
+          "slot": 27,
+          "rawX": 102,
+          "rawY": 226,
+          "active": true,
+          "image": 352168
+        },
+        {
+          "slot": 28,
+          "rawX": 86,
+          "rawY": 274,
+          "active": false,
+          "image": 353608
+        },
+        {
+          "slot": 29,
+          "rawX": 70,
+          "rawY": 250,
+          "active": false,
+          "image": 350728
+        },
+        {
+          "slot": 30,
+          "rawX": 102,
+          "rawY": 250,
+          "active": false,
+          "image": 351208
+        }
+      ],
+      "camera": 6908
+    },
+    {
+      "frame": 6612,
+      "sha256": "ff3be04b784f9d567e4a023fdb1149d3f808f33a4406a4ccfc1b7b6063849311",
+      "flying": true,
+      "parts": [
+        {
+          "slot": 26,
+          "rawX": 70,
+          "rawY": 228,
+          "active": true,
+          "image": 354568
+        },
+        {
+          "slot": 27,
+          "rawX": 102,
+          "rawY": 228,
+          "active": true,
+          "image": 355048
+        },
+        {
+          "slot": 28,
+          "rawX": 86,
+          "rawY": 276,
+          "active": false,
+          "image": 356488
+        },
+        {
+          "slot": 29,
+          "rawX": 70,
+          "rawY": 252,
+          "active": false,
+          "image": 356968
+        },
+        {
+          "slot": 30,
+          "rawX": 102,
+          "rawY": 252,
+          "active": false,
+          "image": 357448
+        }
+      ],
+      "camera": 6908
+    },
+    {
+      "frame": 6613,
+      "sha256": "e725ff8dfe4e40c710d73bb061a5bc5cf45f677c3c0422cf115d1eb73605b358",
+      "flying": true,
+      "parts": [
+        {
+          "slot": 26,
+          "rawX": 70,
+          "rawY": 230,
+          "active": true,
+          "image": 354088
+        },
+        {
+          "slot": 27,
+          "rawX": 102,
+          "rawY": 230,
+          "active": true,
+          "image": 352648
+        },
+        {
+          "slot": 28,
+          "rawX": 86,
+          "rawY": 278,
+          "active": false,
+          "image": 356008
+        },
+        {
+          "slot": 29,
+          "rawX": 70,
+          "rawY": 254,
+          "active": false,
+          "image": 353128
+        },
+        {
+          "slot": 30,
+          "rawX": 102,
+          "rawY": 254,
+          "active": false,
+          "image": 355528
+        }
+      ],
+      "camera": 6908
+    },
+    {
+      "frame": 6614,
+      "sha256": "55ae5da3e216860b1398d955d53e84502cbaf6cbc8a9769e424490ea8aed41f2",
+      "flying": true,
+      "parts": [
+        {
+          "slot": 26,
+          "rawX": 70,
+          "rawY": 232,
+          "active": true,
+          "image": 351688
+        },
+        {
+          "slot": 27,
+          "rawX": 102,
+          "rawY": 232,
+          "active": true,
+          "image": 352168
+        },
+        {
+          "slot": 28,
+          "rawX": 86,
+          "rawY": 280,
+          "active": false,
+          "image": 353608
+        },
+        {
+          "slot": 29,
+          "rawX": 70,
+          "rawY": 256,
+          "active": false,
+          "image": 350728
+        },
+        {
+          "slot": 30,
+          "rawX": 102,
+          "rawY": 256,
+          "active": false,
+          "image": 351208
+        }
+      ],
+      "camera": 6908
+    },
+    {
+      "frame": 6615,
+      "sha256": "b88e0028a8fab59c6f64d23ed43ae0085c44458e90e1175e714d101742555280",
+      "flying": true,
+      "parts": [
+        {
+          "slot": 26,
+          "rawX": 70,
+          "rawY": 234,
+          "active": true,
+          "image": 354568
+        },
+        {
+          "slot": 27,
+          "rawX": 102,
+          "rawY": 234,
+          "active": true,
+          "image": 355048
+        },
+        {
+          "slot": 28,
+          "rawX": 86,
+          "rawY": 282,
+          "active": false,
+          "image": 356488
+        },
+        {
+          "slot": 29,
+          "rawX": 70,
+          "rawY": 258,
+          "active": false,
+          "image": 356968
+        },
+        {
+          "slot": 30,
+          "rawX": 102,
+          "rawY": 258,
+          "active": false,
+          "image": 357448
+        }
+      ],
+      "camera": 6908
+    },
+    {
+      "frame": 6616,
+      "sha256": "567fcab10fedccff3f53f5809db9479a3dda53b07bd5652e0113e1361b9ec379",
+      "flying": true,
+      "parts": [
+        {
+          "slot": 26,
+          "rawX": 70,
+          "rawY": 236,
+          "active": true,
+          "image": 354088
+        },
+        {
+          "slot": 27,
+          "rawX": 102,
+          "rawY": 236,
+          "active": true,
+          "image": 352648
+        },
+        {
+          "slot": 28,
+          "rawX": 86,
+          "rawY": 284,
+          "active": false,
+          "image": 356008
+        },
+        {
+          "slot": 29,
+          "rawX": 70,
+          "rawY": 260,
+          "active": false,
+          "image": 353128
+        },
+        {
+          "slot": 30,
+          "rawX": 102,
+          "rawY": 260,
+          "active": false,
+          "image": 355528
+        }
+      ],
+      "camera": 6908
+    },
+    {
+      "frame": 6617,
+      "sha256": "ff7133d3b54b65dfc17c5794aeba4d7971839ee4e84876789a589d2596ab5b4d",
+      "flying": true,
+      "parts": [
+        {
+          "slot": 26,
+          "rawX": 70,
+          "rawY": 238,
+          "active": true,
+          "image": 351688
+        },
+        {
+          "slot": 27,
+          "rawX": 102,
+          "rawY": 238,
+          "active": true,
+          "image": 352168
+        },
+        {
+          "slot": 28,
+          "rawX": 86,
+          "rawY": 286,
+          "active": false,
+          "image": 353608
+        },
+        {
+          "slot": 29,
+          "rawX": 70,
+          "rawY": 262,
+          "active": false,
+          "image": 350728
+        },
+        {
+          "slot": 30,
+          "rawX": 102,
+          "rawY": 262,
+          "active": false,
+          "image": 351208
+        }
+      ],
+      "camera": 6908
+    },
+    {
+      "frame": 6618,
+      "sha256": "170ed65c3230943a2948a7f2658c1446a22ec426f4071f4f52c377b7659ed0d3",
+      "flying": true,
+      "parts": [
+        {
+          "slot": 26,
+          "rawX": 70,
+          "rawY": 240,
+          "active": false,
+          "image": 354568
+        },
+        {
+          "slot": 27,
+          "rawX": 102,
+          "rawY": 240,
+          "active": false,
+          "image": 355048
+        },
+        {
+          "slot": 28,
+          "rawX": 86,
+          "rawY": 288,
+          "active": false,
+          "image": 356488
+        },
+        {
+          "slot": 29,
+          "rawX": 70,
+          "rawY": 264,
+          "active": false,
+          "image": 356968
+        },
+        {
+          "slot": 30,
+          "rawX": 102,
+          "rawY": 264,
+          "active": false,
+          "image": 357448
+        }
+      ],
+      "camera": 6908
+    },
+    {
+      "frame": 6619,
+      "sha256": "d7a9dad831f71d31391e29a2d8c5ceb722bd040943a3b6967990b07735f28788",
+      "flying": false,
+      "parts": [
+        {
+          "slot": 26,
+          "rawX": 70,
+          "rawY": 242,
+          "active": false,
+          "image": 354088
+        },
+        {
+          "slot": 27,
+          "rawX": 102,
+          "rawY": 242,
+          "active": false,
+          "image": 352648
+        },
+        {
+          "slot": 28,
+          "rawX": 86,
+          "rawY": 290,
+          "active": false,
+          "image": 356008
+        },
+        {
+          "slot": 29,
+          "rawX": 70,
+          "rawY": 266,
+          "active": false,
+          "image": 353128
+        },
+        {
+          "slot": 30,
+          "rawX": 102,
+          "rawY": 266,
+          "active": false,
+          "image": 355528
+        }
+      ],
+      "camera": 6908
+    },
+    {
+      "frame": 6620,
+      "sha256": "b37fcc83090ebe655d7096c653f7eff03856572330bcd94e7164a6eecd2e0160",
+      "flying": false,
+      "parts": [
+        {
+          "slot": 26,
+          "rawX": 70,
+          "rawY": 242,
+          "active": false,
+          "image": 354088
+        },
+        {
+          "slot": 27,
+          "rawX": 102,
+          "rawY": 242,
+          "active": false,
+          "image": 352648
+        },
+        {
+          "slot": 28,
+          "rawX": 86,
+          "rawY": 290,
+          "active": false,
+          "image": 356008
+        },
+        {
+          "slot": 29,
+          "rawX": 70,
+          "rawY": 266,
+          "active": false,
+          "image": 353128
+        },
+        {
+          "slot": 30,
+          "rawX": 102,
+          "rawY": 266,
+          "active": false,
+          "image": 355528
+        }
+      ],
+      "camera": 6908
+    },
+    {
+      "frame": 6621,
+      "sha256": "4d90e411a69a1d8de57e7850cf9b18447b524588a89e18861b57e1ddf0c052d2",
+      "flying": false,
+      "parts": [
+        {
+          "slot": 26,
+          "rawX": 70,
+          "rawY": 242,
+          "active": false,
+          "image": 354088
+        },
+        {
+          "slot": 27,
+          "rawX": 102,
+          "rawY": 242,
+          "active": false,
+          "image": 352648
+        },
+        {
+          "slot": 28,
+          "rawX": 86,
+          "rawY": 290,
+          "active": false,
+          "image": 356008
+        },
+        {
+          "slot": 29,
+          "rawX": 70,
+          "rawY": 266,
+          "active": false,
+          "image": 353128
+        },
+        {
+          "slot": 30,
+          "rawX": 102,
+          "rawY": 266,
+          "active": false,
+          "image": 355528
+        }
+      ],
+      "camera": 6908
+    }
+  ]
+}

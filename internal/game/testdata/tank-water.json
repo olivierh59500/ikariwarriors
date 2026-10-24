@@ -1,0 +1,926 @@
+[
+  {
+    "Player": 0,
+    "Code": 138,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 139,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 0,
+    "Code": 140,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 0,
+    "Code": 141,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 0,
+    "Code": 142,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 0,
+    "Code": 143,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 0,
+    "Code": 144,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 0,
+    "Code": 145,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 0,
+    "Code": 146,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 0,
+    "Code": 147,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 0,
+    "Code": 148,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 0,
+    "Code": 149,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 0,
+    "Code": 150,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 0,
+    "Code": 151,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 0,
+    "Code": 152,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 0,
+    "Code": 153,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 0,
+    "Code": 154,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 0,
+    "Code": 155,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 0,
+    "Code": 156,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 0,
+    "Code": 157,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 0,
+    "Code": 158,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 0,
+    "Code": 159,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 0,
+    "Code": 138,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 139,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 140,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 141,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 142,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 143,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 144,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 145,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 146,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 147,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 148,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 149,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 150,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 151,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 152,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 153,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 154,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 155,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 156,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 157,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 158,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 159,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 0,
+    "Code": 138,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 139,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 140,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 141,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 142,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 143,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 144,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 145,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 146,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 147,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 148,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 149,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 150,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 151,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 152,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 153,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 154,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 155,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 156,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 157,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 158,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": false
+  },
+  {
+    "Player": 0,
+    "Code": 159,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": true
+  },
+  {
+    "Player": 1,
+    "Code": 138,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 139,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 1,
+    "Code": 140,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 1,
+    "Code": 141,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 1,
+    "Code": 142,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 1,
+    "Code": 143,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 1,
+    "Code": 144,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 1,
+    "Code": 145,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 1,
+    "Code": 146,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 1,
+    "Code": 147,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 1,
+    "Code": 148,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 1,
+    "Code": 149,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 1,
+    "Code": 150,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 1,
+    "Code": 151,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 1,
+    "Code": 152,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 1,
+    "Code": 153,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 1,
+    "Code": 154,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 1,
+    "Code": 155,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 1,
+    "Code": 156,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 1,
+    "Code": 157,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 1,
+    "Code": 158,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 1,
+    "Code": 159,
+    "Boarded": false,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 1,
+    "Code": 138,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 139,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 140,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 141,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 142,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 143,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 144,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 145,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 146,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 147,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 148,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 149,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 150,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 151,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 152,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 153,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 154,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 155,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 156,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 157,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 158,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 159,
+    "Boarded": true,
+    "Burning": false,
+    "Allowed": true
+  },
+  {
+    "Player": 1,
+    "Code": 138,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 139,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 140,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 141,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 142,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 143,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 144,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 145,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 146,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 147,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 148,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 149,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 150,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 151,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 152,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 153,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 154,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 155,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 156,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 157,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 158,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": false
+  },
+  {
+    "Player": 1,
+    "Code": 159,
+    "Boarded": true,
+    "Burning": true,
+    "Allowed": true
+  }
+]

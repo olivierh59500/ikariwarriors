@@ -1,0 +1,582 @@
+{
+  "Description": "One normally played adjacent-frame original P1 mine contact. Horizontal wet movement enters its inclusive edge before vertical movement leaves it. Expected player fall/protection, mine flags and all burst positions come only from original RAM. No future random-generator state is read or serialized.",
+  "Cases": [
+    {
+      "Name": "observed-event-18-tick4966",
+      "BeforeTick": 4965,
+      "AfterTick": 4966,
+      "BeforeSHA256": "2595cebc5086e464670602d5f0fb309d1966f1c95a18d5877c4d1fe2f262e1db",
+      "AfterSHA256": "380237c7489bd6011a49d8ce2054f643e67d80844c1c7ad8d05247f724cfc429",
+      "Player": {
+        "X": 96,
+        "Y": 9025,
+        "Direction": 0,
+        "Health": 1,
+        "DeadTicks": 0,
+        "Invulnerable": 0,
+        "InTank": false,
+        "TankBurning": false,
+        "TankBurn": 151,
+        "TankFuel": 1,
+        "TankSlot": 0
+      },
+      "CameraY": 8906,
+      "CameraBackY": 8928,
+      "Lives": 0,
+      "Ammunition": 99,
+      "Grenades": 50,
+      "BulletPower": 1,
+      "GrenadePower": 1,
+      "RangeBonus": 0,
+      "DirectionLock": false,
+      "TankFuelPhase": [
+        5,
+        20
+      ],
+      "CannonReservation": 0,
+      "IdleArtilleryTicks": 11,
+      "Enemies": [
+        {
+          "X": 92,
+          "Y": 8890,
+          "Health": 1,
+          "Slot": 3,
+          "Kind": 2
+        }
+      ],
+      "Projectiles": [],
+      "Pickups": [
+        {
+          "X": 168,
+          "Y": 9008,
+          "Kind": 1
+        },
+        {
+          "X": 104,
+          "Y": 8994,
+          "Kind": 2
+        }
+      ],
+      "Mines": [
+        {
+          "X": 112,
+          "Y": 9048,
+          "Slot": 84,
+          "Kind": 18
+        }
+      ],
+      "FanTraps": [
+        {
+          "X": 76,
+          "Y": 13832,
+          "Active": true,
+          "Cooldown": 10
+        },
+        {
+          "X": 106,
+          "Y": 3784,
+          "Active": true,
+          "Cooldown": 1
+        },
+        {
+          "X": 42,
+          "Y": 3688,
+          "Active": true,
+          "Cooldown": 1
+        },
+        {
+          "X": 186,
+          "Y": 3688,
+          "Active": true,
+          "Cooldown": 1
+        },
+        {
+          "X": 106,
+          "Y": 3592,
+          "Active": true,
+          "Cooldown": 1
+        }
+      ],
+      "SceneryBurst": {
+        "Active": false,
+        "Remaining": 0,
+        "Phase": 0,
+        "Frame": 45,
+        "Owner": -1,
+        "Origin": {
+          "X": 135,
+          "Y": 9928
+        },
+        "Center": {
+          "X": 151,
+          "Y": 9952
+        },
+        "Enabled": 0,
+        "Parts": [
+          {
+            "X": 54,
+            "Y": 8986
+          },
+          {
+            "X": 102,
+            "Y": 8986
+          },
+          {
+            "X": 150,
+            "Y": 8986
+          },
+          {
+            "X": 54,
+            "Y": 9034
+          },
+          {
+            "X": 150,
+            "Y": 9034
+          },
+          {
+            "X": 54,
+            "Y": 9082
+          },
+          {
+            "X": 102,
+            "Y": 9082
+          },
+          {
+            "X": 150,
+            "Y": 9082
+          }
+        ]
+      },
+      "DestroyedCells": [
+        [
+          620,
+          8
+        ],
+        [
+          620,
+          9
+        ],
+        [
+          620,
+          10
+        ],
+        [
+          621,
+          8
+        ],
+        [
+          621,
+          9
+        ],
+        [
+          621,
+          10
+        ],
+        [
+          622,
+          8
+        ],
+        [
+          622,
+          9
+        ],
+        [
+          622,
+          10
+        ],
+        [
+          623,
+          8
+        ],
+        [
+          623,
+          9
+        ],
+        [
+          623,
+          10
+        ],
+        [
+          656,
+          5
+        ],
+        [
+          656,
+          6
+        ],
+        [
+          656,
+          7
+        ],
+        [
+          657,
+          5
+        ],
+        [
+          657,
+          6
+        ],
+        [
+          657,
+          7
+        ],
+        [
+          658,
+          5
+        ],
+        [
+          658,
+          6
+        ],
+        [
+          658,
+          7
+        ],
+        [
+          659,
+          5
+        ],
+        [
+          659,
+          6
+        ],
+        [
+          659,
+          7
+        ],
+        [
+          667,
+          5
+        ],
+        [
+          667,
+          6
+        ],
+        [
+          667,
+          7
+        ],
+        [
+          668,
+          5
+        ],
+        [
+          668,
+          6
+        ],
+        [
+          668,
+          7
+        ],
+        [
+          669,
+          5
+        ],
+        [
+          669,
+          6
+        ],
+        [
+          669,
+          7
+        ],
+        [
+          670,
+          5
+        ],
+        [
+          670,
+          6
+        ],
+        [
+          670,
+          7
+        ],
+        [
+          748,
+          5
+        ],
+        [
+          748,
+          6
+        ],
+        [
+          748,
+          7
+        ],
+        [
+          749,
+          5
+        ],
+        [
+          749,
+          6
+        ],
+        [
+          749,
+          7
+        ],
+        [
+          750,
+          5
+        ],
+        [
+          750,
+          6
+        ],
+        [
+          750,
+          7
+        ],
+        [
+          751,
+          5
+        ],
+        [
+          751,
+          6
+        ],
+        [
+          751,
+          7
+        ],
+        [
+          771,
+          5
+        ],
+        [
+          771,
+          6
+        ],
+        [
+          771,
+          7
+        ],
+        [
+          772,
+          5
+        ],
+        [
+          772,
+          6
+        ],
+        [
+          772,
+          7
+        ],
+        [
+          773,
+          5
+        ],
+        [
+          773,
+          6
+        ],
+        [
+          773,
+          7
+        ],
+        [
+          774,
+          5
+        ],
+        [
+          774,
+          6
+        ],
+        [
+          774,
+          7
+        ],
+        [
+          803,
+          4
+        ],
+        [
+          803,
+          5
+        ],
+        [
+          803,
+          6
+        ],
+        [
+          803,
+          7
+        ],
+        [
+          803,
+          8
+        ],
+        [
+          804,
+          4
+        ],
+        [
+          804,
+          5
+        ],
+        [
+          804,
+          6
+        ],
+        [
+          804,
+          7
+        ],
+        [
+          804,
+          8
+        ],
+        [
+          805,
+          4
+        ],
+        [
+          805,
+          5
+        ],
+        [
+          805,
+          6
+        ],
+        [
+          805,
+          7
+        ],
+        [
+          805,
+          8
+        ],
+        [
+          831,
+          0
+        ],
+        [
+          831,
+          1
+        ],
+        [
+          831,
+          2
+        ],
+        [
+          831,
+          3
+        ],
+        [
+          832,
+          0
+        ],
+        [
+          832,
+          1
+        ],
+        [
+          832,
+          2
+        ],
+        [
+          832,
+          3
+        ],
+        [
+          833,
+          0
+        ],
+        [
+          833,
+          1
+        ],
+        [
+          833,
+          2
+        ],
+        [
+          833,
+          3
+        ],
+        [
+          834,
+          0
+        ],
+        [
+          834,
+          1
+        ],
+        [
+          834,
+          2
+        ],
+        [
+          834,
+          3
+        ]
+      ],
+      "OwnedQuad": {
+        "X": 119,
+        "Y": 9288,
+        "Owner": 0,
+        "Grenade": false,
+        "Cannon": true,
+        "Impact": 0
+      },
+      "Control": {
+        "X": 1,
+        "Y": -1,
+        "Fire": false,
+        "Action": false
+      },
+      "Expected": {
+        "Active": true,
+        "Remaining": 5,
+        "Owner": -1,
+        "Parts": [
+          {
+            "X": 104,
+            "Y": 9040
+          },
+          {
+            "X": 112,
+            "Y": 9040
+          },
+          {
+            "X": 120,
+            "Y": 9040
+          },
+          {
+            "X": 104,
+            "Y": 9048
+          },
+          {
+            "X": 120,
+            "Y": 9048
+          },
+          {
+            "X": 104,
+            "Y": 9056
+          },
+          {
+            "X": 112,
+            "Y": 9056
+          },
+          {
+            "X": 120,
+            "Y": 9056
+          }
+        ],
+        "Player": {
+          "X": 97,
+          "Y": 9024,
+          "Health": 0,
+          "DeadTicks": 23,
+          "Invulnerable": 99,
+          "Lives": 0,
+          "Ammunition": 99,
+          "Grenades": 50
+        },
+        "MineSlots": []
+      }
+    }
+  ]
+}

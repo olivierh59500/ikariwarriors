@@ -1,0 +1,3502 @@
+[
+  {
+    "kind": "enemy",
+    "tick": 0,
+    "bossHealth": 6,
+    "bossActive": 1,
+    "quadActive": 0,
+    "quadPhase": 0,
+    "actors": [
+      {
+        "slot": 77,
+        "x": 120,
+        "y": 487,
+        "bob": "0x4cb88",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 78,
+        "x": 136,
+        "y": 487,
+        "bob": "0x4c9a8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 79,
+        "x": 120,
+        "y": 503,
+        "bob": "0x4ca48",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 80,
+        "x": 136,
+        "y": 503,
+        "bob": "0x4cae8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 0,
+    "burst": [
+      {
+        "slot": 49,
+        "x": 92,
+        "y": 456,
+        "bob": "0x4bf08",
+        "active": 0,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 50,
+        "x": 140,
+        "y": 456,
+        "bob": "0x4bc88",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 51,
+        "x": 188,
+        "y": 456,
+        "bob": "0x4bfa8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 52,
+        "x": 92,
+        "y": 504,
+        "bob": "0x4bdc8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 53,
+        "x": 188,
+        "y": 504,
+        "bob": "0x4be68",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 54,
+        "x": 92,
+        "y": 552,
+        "bob": "0x4c048",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 55,
+        "x": 140,
+        "y": 552,
+        "bob": "0x4bd28",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 56,
+        "x": 188,
+        "y": 552,
+        "bob": "0x4c0e8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "owner": 0,
+    "score": 2000,
+    "cameraY": 14336
+  },
+  {
+    "kind": "enemy",
+    "tick": 1,
+    "bossHealth": 5,
+    "bossActive": 1,
+    "quadActive": 1,
+    "quadPhase": 0,
+    "actors": [
+      {
+        "slot": 77,
+        "x": 142,
+        "y": 56,
+        "bob": "0x4c408",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 78,
+        "x": 158,
+        "y": 56,
+        "bob": "0x4c4a8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 79,
+        "x": 142,
+        "y": 72,
+        "bob": "0x4c548",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 80,
+        "x": 158,
+        "y": 72,
+        "bob": "0x4c5e8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 0,
+    "burst": [
+      {
+        "slot": 49,
+        "x": 92,
+        "y": 456,
+        "bob": "0x4bf08",
+        "active": 0,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 50,
+        "x": 140,
+        "y": 456,
+        "bob": "0x4bc88",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 51,
+        "x": 188,
+        "y": 456,
+        "bob": "0x4bfa8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 52,
+        "x": 92,
+        "y": 504,
+        "bob": "0x4bdc8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 53,
+        "x": 188,
+        "y": 504,
+        "bob": "0x4be68",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 54,
+        "x": 92,
+        "y": 552,
+        "bob": "0x4c048",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 55,
+        "x": 140,
+        "y": 552,
+        "bob": "0x4bd28",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 56,
+        "x": 188,
+        "y": 552,
+        "bob": "0x4c0e8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "owner": 0,
+    "score": 2000,
+    "cameraY": 14336
+  },
+  {
+    "kind": "enemy",
+    "tick": 2,
+    "bossHealth": 4,
+    "bossActive": 1,
+    "quadActive": 1,
+    "quadPhase": 0,
+    "actors": [
+      {
+        "slot": 77,
+        "x": 142,
+        "y": 56,
+        "bob": "0x4c688",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 78,
+        "x": 158,
+        "y": 56,
+        "bob": "0x4c728",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 79,
+        "x": 142,
+        "y": 72,
+        "bob": "0x4c7c8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 80,
+        "x": 158,
+        "y": 72,
+        "bob": "0x4c868",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 0,
+    "burst": [
+      {
+        "slot": 49,
+        "x": 92,
+        "y": 456,
+        "bob": "0x4bf08",
+        "active": 0,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 50,
+        "x": 140,
+        "y": 456,
+        "bob": "0x4bc88",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 51,
+        "x": 188,
+        "y": 456,
+        "bob": "0x4bfa8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 52,
+        "x": 92,
+        "y": 504,
+        "bob": "0x4bdc8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 53,
+        "x": 188,
+        "y": 504,
+        "bob": "0x4be68",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 54,
+        "x": 92,
+        "y": 552,
+        "bob": "0x4c048",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 55,
+        "x": 140,
+        "y": 552,
+        "bob": "0x4bd28",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 56,
+        "x": 188,
+        "y": 552,
+        "bob": "0x4c0e8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "owner": 0,
+    "score": 2000,
+    "cameraY": 14336
+  },
+  {
+    "kind": "enemy",
+    "tick": 3,
+    "bossHealth": 3,
+    "bossActive": 1,
+    "quadActive": 1,
+    "quadPhase": 0,
+    "actors": [
+      {
+        "slot": 77,
+        "x": 142,
+        "y": 56,
+        "bob": "0x4c908",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 78,
+        "x": 158,
+        "y": 56,
+        "bob": "0x4c9a8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 79,
+        "x": 142,
+        "y": 72,
+        "bob": "0x4ca48",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 80,
+        "x": 158,
+        "y": 72,
+        "bob": "0x4cae8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 0,
+    "burst": [
+      {
+        "slot": 49,
+        "x": 92,
+        "y": 456,
+        "bob": "0x4bf08",
+        "active": 0,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 50,
+        "x": 140,
+        "y": 456,
+        "bob": "0x4bc88",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 51,
+        "x": 188,
+        "y": 456,
+        "bob": "0x4bfa8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 52,
+        "x": 92,
+        "y": 504,
+        "bob": "0x4bdc8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 53,
+        "x": 188,
+        "y": 504,
+        "bob": "0x4be68",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 54,
+        "x": 92,
+        "y": 552,
+        "bob": "0x4c048",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 55,
+        "x": 140,
+        "y": 552,
+        "bob": "0x4bd28",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 56,
+        "x": 188,
+        "y": 552,
+        "bob": "0x4c0e8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "owner": 0,
+    "score": 2000,
+    "cameraY": 14336
+  },
+  {
+    "kind": "enemy",
+    "tick": 4,
+    "bossHealth": 3,
+    "bossActive": 1,
+    "quadActive": 0,
+    "quadPhase": 0,
+    "actors": [
+      {
+        "slot": 77,
+        "x": 142,
+        "y": 56,
+        "bob": "0x4cb88",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 78,
+        "x": 158,
+        "y": 56,
+        "bob": "0x4c9a8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 79,
+        "x": 142,
+        "y": 72,
+        "bob": "0x4ca48",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 80,
+        "x": 158,
+        "y": 72,
+        "bob": "0x4cae8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 0,
+    "burst": [
+      {
+        "slot": 49,
+        "x": 92,
+        "y": 456,
+        "bob": "0x4bf08",
+        "active": 0,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 50,
+        "x": 140,
+        "y": 456,
+        "bob": "0x4bc88",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 51,
+        "x": 188,
+        "y": 456,
+        "bob": "0x4bfa8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 52,
+        "x": 92,
+        "y": 504,
+        "bob": "0x4bdc8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 53,
+        "x": 188,
+        "y": 504,
+        "bob": "0x4be68",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 54,
+        "x": 92,
+        "y": 552,
+        "bob": "0x4c048",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 55,
+        "x": 140,
+        "y": 552,
+        "bob": "0x4bd28",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 56,
+        "x": 188,
+        "y": 552,
+        "bob": "0x4c0e8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "owner": 0,
+    "score": 2000,
+    "cameraY": 14336
+  },
+  {
+    "kind": "enemy",
+    "tick": 5,
+    "bossHealth": 3,
+    "bossActive": 1,
+    "quadActive": 0,
+    "quadPhase": 0,
+    "actors": [
+      {
+        "slot": 77,
+        "x": 142,
+        "y": 56,
+        "bob": "0x4cb88",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 78,
+        "x": 158,
+        "y": 56,
+        "bob": "0x4c9a8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 79,
+        "x": 142,
+        "y": 72,
+        "bob": "0x4ca48",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 80,
+        "x": 158,
+        "y": 72,
+        "bob": "0x4cae8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 0,
+    "burst": [
+      {
+        "slot": 49,
+        "x": 92,
+        "y": 456,
+        "bob": "0x4bf08",
+        "active": 0,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 50,
+        "x": 140,
+        "y": 456,
+        "bob": "0x4bc88",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 51,
+        "x": 188,
+        "y": 456,
+        "bob": "0x4bfa8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 52,
+        "x": 92,
+        "y": 504,
+        "bob": "0x4bdc8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 53,
+        "x": 188,
+        "y": 504,
+        "bob": "0x4be68",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 54,
+        "x": 92,
+        "y": 552,
+        "bob": "0x4c048",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 55,
+        "x": 140,
+        "y": 552,
+        "bob": "0x4bd28",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 56,
+        "x": 188,
+        "y": 552,
+        "bob": "0x4c0e8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "owner": 0,
+    "score": 2000,
+    "cameraY": 14336
+  },
+  {
+    "kind": "enemy",
+    "tick": 6,
+    "bossHealth": 3,
+    "bossActive": 1,
+    "quadActive": 0,
+    "quadPhase": 0,
+    "actors": [
+      {
+        "slot": 77,
+        "x": 142,
+        "y": 56,
+        "bob": "0x4cb88",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 78,
+        "x": 158,
+        "y": 56,
+        "bob": "0x4c9a8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 79,
+        "x": 142,
+        "y": 72,
+        "bob": "0x4ca48",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 80,
+        "x": 158,
+        "y": 72,
+        "bob": "0x4cae8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 0,
+    "burst": [
+      {
+        "slot": 49,
+        "x": 92,
+        "y": 456,
+        "bob": "0x4bf08",
+        "active": 0,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 50,
+        "x": 140,
+        "y": 456,
+        "bob": "0x4bc88",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 51,
+        "x": 188,
+        "y": 456,
+        "bob": "0x4bfa8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 52,
+        "x": 92,
+        "y": 504,
+        "bob": "0x4bdc8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 53,
+        "x": 188,
+        "y": 504,
+        "bob": "0x4be68",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 54,
+        "x": 92,
+        "y": 552,
+        "bob": "0x4c048",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 55,
+        "x": 140,
+        "y": 552,
+        "bob": "0x4bd28",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 56,
+        "x": 188,
+        "y": 552,
+        "bob": "0x4c0e8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "owner": 0,
+    "score": 2000,
+    "cameraY": 14336
+  },
+  {
+    "kind": "heavy",
+    "tick": 0,
+    "bossHealth": 6,
+    "bossActive": 1,
+    "quadActive": 0,
+    "quadPhase": 0,
+    "actors": [
+      {
+        "slot": 77,
+        "x": 142,
+        "y": 56,
+        "bob": "0x4cb88",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 78,
+        "x": 158,
+        "y": 56,
+        "bob": "0x4c9a8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 79,
+        "x": 142,
+        "y": 72,
+        "bob": "0x4ca48",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 80,
+        "x": 158,
+        "y": 72,
+        "bob": "0x4cae8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 0,
+    "burst": [
+      {
+        "slot": 49,
+        "x": 92,
+        "y": 456,
+        "bob": "0x4bf08",
+        "active": 0,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 50,
+        "x": 140,
+        "y": 456,
+        "bob": "0x4bc88",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 51,
+        "x": 188,
+        "y": 456,
+        "bob": "0x4bfa8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 52,
+        "x": 92,
+        "y": 504,
+        "bob": "0x4bdc8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 53,
+        "x": 188,
+        "y": 504,
+        "bob": "0x4be68",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 54,
+        "x": 92,
+        "y": 552,
+        "bob": "0x4c048",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 55,
+        "x": 140,
+        "y": 552,
+        "bob": "0x4bd28",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 56,
+        "x": 188,
+        "y": 552,
+        "bob": "0x4c0e8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "owner": 0,
+    "score": 2000,
+    "cameraY": 14336
+  },
+  {
+    "kind": "heavy",
+    "tick": 1,
+    "bossHealth": 5,
+    "bossActive": 1,
+    "quadActive": 1,
+    "quadPhase": 0,
+    "actors": [
+      {
+        "slot": 77,
+        "x": 142,
+        "y": 56,
+        "bob": "0x4c408",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 78,
+        "x": 158,
+        "y": 56,
+        "bob": "0x4c4a8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 79,
+        "x": 142,
+        "y": 72,
+        "bob": "0x4c548",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 80,
+        "x": 158,
+        "y": 72,
+        "bob": "0x4c5e8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 0,
+    "burst": [
+      {
+        "slot": 49,
+        "x": 92,
+        "y": 456,
+        "bob": "0x4bf08",
+        "active": 0,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 50,
+        "x": 140,
+        "y": 456,
+        "bob": "0x4bc88",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 51,
+        "x": 188,
+        "y": 456,
+        "bob": "0x4bfa8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 52,
+        "x": 92,
+        "y": 504,
+        "bob": "0x4bdc8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 53,
+        "x": 188,
+        "y": 504,
+        "bob": "0x4be68",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 54,
+        "x": 92,
+        "y": 552,
+        "bob": "0x4c048",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 55,
+        "x": 140,
+        "y": 552,
+        "bob": "0x4bd28",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 56,
+        "x": 188,
+        "y": 552,
+        "bob": "0x4c0e8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "owner": 0,
+    "score": 2000,
+    "cameraY": 14336
+  },
+  {
+    "kind": "heavy",
+    "tick": 2,
+    "bossHealth": 4,
+    "bossActive": 1,
+    "quadActive": 1,
+    "quadPhase": 0,
+    "actors": [
+      {
+        "slot": 77,
+        "x": 142,
+        "y": 56,
+        "bob": "0x4c688",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 78,
+        "x": 158,
+        "y": 56,
+        "bob": "0x4c728",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 79,
+        "x": 142,
+        "y": 72,
+        "bob": "0x4c7c8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 80,
+        "x": 158,
+        "y": 72,
+        "bob": "0x4c868",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 0,
+    "burst": [
+      {
+        "slot": 49,
+        "x": 92,
+        "y": 456,
+        "bob": "0x4bf08",
+        "active": 0,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 50,
+        "x": 140,
+        "y": 456,
+        "bob": "0x4bc88",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 51,
+        "x": 188,
+        "y": 456,
+        "bob": "0x4bfa8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 52,
+        "x": 92,
+        "y": 504,
+        "bob": "0x4bdc8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 53,
+        "x": 188,
+        "y": 504,
+        "bob": "0x4be68",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 54,
+        "x": 92,
+        "y": 552,
+        "bob": "0x4c048",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 55,
+        "x": 140,
+        "y": 552,
+        "bob": "0x4bd28",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 56,
+        "x": 188,
+        "y": 552,
+        "bob": "0x4c0e8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "owner": 0,
+    "score": 2000,
+    "cameraY": 14336
+  },
+  {
+    "kind": "heavy",
+    "tick": 3,
+    "bossHealth": 3,
+    "bossActive": 1,
+    "quadActive": 1,
+    "quadPhase": 0,
+    "actors": [
+      {
+        "slot": 77,
+        "x": 142,
+        "y": 56,
+        "bob": "0x4c908",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 78,
+        "x": 158,
+        "y": 56,
+        "bob": "0x4c9a8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 79,
+        "x": 142,
+        "y": 72,
+        "bob": "0x4ca48",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 80,
+        "x": 158,
+        "y": 72,
+        "bob": "0x4cae8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 0,
+    "burst": [
+      {
+        "slot": 49,
+        "x": 92,
+        "y": 456,
+        "bob": "0x4bf08",
+        "active": 0,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 50,
+        "x": 140,
+        "y": 456,
+        "bob": "0x4bc88",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 51,
+        "x": 188,
+        "y": 456,
+        "bob": "0x4bfa8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 52,
+        "x": 92,
+        "y": 504,
+        "bob": "0x4bdc8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 53,
+        "x": 188,
+        "y": 504,
+        "bob": "0x4be68",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 54,
+        "x": 92,
+        "y": 552,
+        "bob": "0x4c048",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 55,
+        "x": 140,
+        "y": 552,
+        "bob": "0x4bd28",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 56,
+        "x": 188,
+        "y": 552,
+        "bob": "0x4c0e8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "owner": 0,
+    "score": 2000,
+    "cameraY": 14336
+  },
+  {
+    "kind": "heavy",
+    "tick": 4,
+    "bossHealth": 3,
+    "bossActive": 1,
+    "quadActive": 0,
+    "quadPhase": 0,
+    "actors": [
+      {
+        "slot": 77,
+        "x": 142,
+        "y": 56,
+        "bob": "0x4cb88",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 78,
+        "x": 158,
+        "y": 56,
+        "bob": "0x4c9a8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 79,
+        "x": 142,
+        "y": 72,
+        "bob": "0x4ca48",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 80,
+        "x": 158,
+        "y": 72,
+        "bob": "0x4cae8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "burstActive": 1,
+    "burstRemaining": 6,
+    "burst": [
+      {
+        "slot": 49,
+        "x": 150,
+        "y": 64,
+        "bob": "0x4bf08",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 50,
+        "x": 150,
+        "y": 64,
+        "bob": "0x4bc88",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 51,
+        "x": 150,
+        "y": 64,
+        "bob": "0x4bfa8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 52,
+        "x": 150,
+        "y": 64,
+        "bob": "0x4bdc8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 53,
+        "x": 150,
+        "y": 64,
+        "bob": "0x4be68",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 54,
+        "x": 150,
+        "y": 64,
+        "bob": "0x4c048",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 55,
+        "x": 150,
+        "y": 64,
+        "bob": "0x4bd28",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 56,
+        "x": 150,
+        "y": 64,
+        "bob": "0x4c0e8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "owner": 0,
+    "score": 2000,
+    "cameraY": 14336
+  },
+  {
+    "kind": "heavy",
+    "tick": 5,
+    "bossHealth": 2,
+    "bossActive": 1,
+    "quadActive": 0,
+    "quadPhase": 0,
+    "actors": [
+      {
+        "slot": 77,
+        "x": 142,
+        "y": 56,
+        "bob": "0x4cb88",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 78,
+        "x": 158,
+        "y": 56,
+        "bob": "0x4c9a8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 79,
+        "x": 142,
+        "y": 72,
+        "bob": "0x4ca48",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 80,
+        "x": 158,
+        "y": 72,
+        "bob": "0x4cae8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "burstActive": 1,
+    "burstRemaining": 5,
+    "burst": [
+      {
+        "slot": 49,
+        "x": 142,
+        "y": 56,
+        "bob": "0x4bf08",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 50,
+        "x": 150,
+        "y": 56,
+        "bob": "0x4bc88",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 51,
+        "x": 158,
+        "y": 56,
+        "bob": "0x4bfa8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 52,
+        "x": 142,
+        "y": 64,
+        "bob": "0x4bdc8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 53,
+        "x": 158,
+        "y": 64,
+        "bob": "0x4be68",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 54,
+        "x": 142,
+        "y": 72,
+        "bob": "0x4c048",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 55,
+        "x": 150,
+        "y": 72,
+        "bob": "0x4bd28",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 56,
+        "x": 158,
+        "y": 72,
+        "bob": "0x4c0e8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "owner": 0,
+    "score": 2000,
+    "cameraY": 14336
+  },
+  {
+    "kind": "heavy",
+    "tick": 6,
+    "bossHealth": 1,
+    "bossActive": 1,
+    "quadActive": 0,
+    "quadPhase": 0,
+    "actors": [
+      {
+        "slot": 77,
+        "x": 142,
+        "y": 56,
+        "bob": "0x4cb88",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 78,
+        "x": 158,
+        "y": 56,
+        "bob": "0x4c9a8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 79,
+        "x": 142,
+        "y": 72,
+        "bob": "0x4ca48",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 80,
+        "x": 158,
+        "y": 72,
+        "bob": "0x4cae8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "burstActive": 1,
+    "burstRemaining": 4,
+    "burst": [
+      {
+        "slot": 49,
+        "x": 134,
+        "y": 48,
+        "bob": "0x4bf08",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 50,
+        "x": 150,
+        "y": 48,
+        "bob": "0x4bc88",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 51,
+        "x": 166,
+        "y": 48,
+        "bob": "0x4bfa8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 52,
+        "x": 134,
+        "y": 64,
+        "bob": "0x4bdc8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 53,
+        "x": 166,
+        "y": 64,
+        "bob": "0x4be68",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 54,
+        "x": 134,
+        "y": 80,
+        "bob": "0x4c048",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 55,
+        "x": 150,
+        "y": 80,
+        "bob": "0x4bd28",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 56,
+        "x": 166,
+        "y": 80,
+        "bob": "0x4c0e8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "owner": 0,
+    "score": 2000,
+    "cameraY": 14336
+  },
+  {
+    "kind": "player",
+    "tick": 0,
+    "bossHealth": 6,
+    "bossActive": 1,
+    "quadActive": 0,
+    "quadPhase": 0,
+    "actors": [
+      {
+        "slot": 41,
+        "x": 106,
+        "y": 8,
+        "bob": "0x4c908",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 42,
+        "x": 122,
+        "y": 8,
+        "bob": "0x4c9a8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 43,
+        "x": 106,
+        "y": 24,
+        "bob": "0x4ca48",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 44,
+        "x": 122,
+        "y": 24,
+        "bob": "0x4cae8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 4,
+    "burst": [
+      {
+        "slot": 49,
+        "x": 134,
+        "y": 48,
+        "bob": "0x4bf08",
+        "active": 0,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 50,
+        "x": 150,
+        "y": 48,
+        "bob": "0x4bc88",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 51,
+        "x": 166,
+        "y": 48,
+        "bob": "0x4bfa8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 52,
+        "x": 134,
+        "y": 64,
+        "bob": "0x4bdc8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 53,
+        "x": 166,
+        "y": 64,
+        "bob": "0x4be68",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 54,
+        "x": 134,
+        "y": 80,
+        "bob": "0x4c048",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 55,
+        "x": 150,
+        "y": 80,
+        "bob": "0x4bd28",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 56,
+        "x": 166,
+        "y": 80,
+        "bob": "0x4c0e8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "owner": 0,
+    "score": 2000,
+    "cameraY": 14336
+  },
+  {
+    "kind": "player",
+    "tick": 1,
+    "bossHealth": 5,
+    "bossActive": 1,
+    "quadActive": 1,
+    "quadPhase": 1,
+    "actors": [
+      {
+        "slot": 41,
+        "x": 142,
+        "y": 56,
+        "bob": "0x4c408",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 42,
+        "x": 158,
+        "y": 56,
+        "bob": "0x4c4a8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 43,
+        "x": 142,
+        "y": 72,
+        "bob": "0x4c548",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 44,
+        "x": 158,
+        "y": 72,
+        "bob": "0x4c5e8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 4,
+    "burst": [
+      {
+        "slot": 49,
+        "x": 134,
+        "y": 48,
+        "bob": "0x4bf08",
+        "active": 0,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 50,
+        "x": 150,
+        "y": 48,
+        "bob": "0x4bc88",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 51,
+        "x": 166,
+        "y": 48,
+        "bob": "0x4bfa8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 52,
+        "x": 134,
+        "y": 64,
+        "bob": "0x4bdc8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 53,
+        "x": 166,
+        "y": 64,
+        "bob": "0x4be68",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 54,
+        "x": 134,
+        "y": 80,
+        "bob": "0x4c048",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 55,
+        "x": 150,
+        "y": 80,
+        "bob": "0x4bd28",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 56,
+        "x": 166,
+        "y": 80,
+        "bob": "0x4c0e8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "owner": 0,
+    "score": 2300,
+    "cameraY": 14336
+  },
+  {
+    "kind": "player",
+    "tick": 2,
+    "bossHealth": 5,
+    "bossActive": 1,
+    "quadActive": 1,
+    "quadPhase": 2,
+    "actors": [
+      {
+        "slot": 41,
+        "x": 142,
+        "y": 56,
+        "bob": "0x4c688",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 42,
+        "x": 158,
+        "y": 56,
+        "bob": "0x4c728",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 43,
+        "x": 142,
+        "y": 72,
+        "bob": "0x4c7c8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 44,
+        "x": 158,
+        "y": 72,
+        "bob": "0x4c868",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 4,
+    "burst": [
+      {
+        "slot": 49,
+        "x": 134,
+        "y": 48,
+        "bob": "0x4bf08",
+        "active": 0,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 50,
+        "x": 150,
+        "y": 48,
+        "bob": "0x4bc88",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 51,
+        "x": 166,
+        "y": 48,
+        "bob": "0x4bfa8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 52,
+        "x": 134,
+        "y": 64,
+        "bob": "0x4bdc8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 53,
+        "x": 166,
+        "y": 64,
+        "bob": "0x4be68",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 54,
+        "x": 134,
+        "y": 80,
+        "bob": "0x4c048",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 55,
+        "x": 150,
+        "y": 80,
+        "bob": "0x4bd28",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 56,
+        "x": 166,
+        "y": 80,
+        "bob": "0x4c0e8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "owner": 0,
+    "score": 2300,
+    "cameraY": 14336
+  },
+  {
+    "kind": "player",
+    "tick": 3,
+    "bossHealth": 5,
+    "bossActive": 1,
+    "quadActive": 1,
+    "quadPhase": 3,
+    "actors": [
+      {
+        "slot": 41,
+        "x": 142,
+        "y": 56,
+        "bob": "0x4c908",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 42,
+        "x": 158,
+        "y": 56,
+        "bob": "0x4c9a8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 43,
+        "x": 142,
+        "y": 72,
+        "bob": "0x4ca48",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 44,
+        "x": 158,
+        "y": 72,
+        "bob": "0x4cae8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 4,
+    "burst": [
+      {
+        "slot": 49,
+        "x": 134,
+        "y": 48,
+        "bob": "0x4bf08",
+        "active": 0,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 50,
+        "x": 150,
+        "y": 48,
+        "bob": "0x4bc88",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 51,
+        "x": 166,
+        "y": 48,
+        "bob": "0x4bfa8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 52,
+        "x": 134,
+        "y": 64,
+        "bob": "0x4bdc8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 53,
+        "x": 166,
+        "y": 64,
+        "bob": "0x4be68",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 54,
+        "x": 134,
+        "y": 80,
+        "bob": "0x4c048",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 55,
+        "x": 150,
+        "y": 80,
+        "bob": "0x4bd28",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 56,
+        "x": 166,
+        "y": 80,
+        "bob": "0x4c0e8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "owner": 0,
+    "score": 2300,
+    "cameraY": 14336
+  },
+  {
+    "kind": "player",
+    "tick": 4,
+    "bossHealth": 5,
+    "bossActive": 1,
+    "quadActive": 0,
+    "quadPhase": 3,
+    "actors": [
+      {
+        "slot": 41,
+        "x": 142,
+        "y": 56,
+        "bob": "0x4c908",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 42,
+        "x": 158,
+        "y": 56,
+        "bob": "0x4c9a8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 43,
+        "x": 142,
+        "y": 72,
+        "bob": "0x4ca48",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 44,
+        "x": 158,
+        "y": 72,
+        "bob": "0x4cae8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 4,
+    "burst": [
+      {
+        "slot": 49,
+        "x": 134,
+        "y": 48,
+        "bob": "0x4bf08",
+        "active": 0,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 50,
+        "x": 150,
+        "y": 48,
+        "bob": "0x4bc88",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 51,
+        "x": 166,
+        "y": 48,
+        "bob": "0x4bfa8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 52,
+        "x": 134,
+        "y": 64,
+        "bob": "0x4bdc8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 53,
+        "x": 166,
+        "y": 64,
+        "bob": "0x4be68",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 54,
+        "x": 134,
+        "y": 80,
+        "bob": "0x4c048",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 55,
+        "x": 150,
+        "y": 80,
+        "bob": "0x4bd28",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 56,
+        "x": 166,
+        "y": 80,
+        "bob": "0x4c0e8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "owner": 0,
+    "score": 2300,
+    "cameraY": 14336
+  },
+  {
+    "kind": "player",
+    "tick": 5,
+    "bossHealth": 5,
+    "bossActive": 1,
+    "quadActive": 0,
+    "quadPhase": 3,
+    "actors": [
+      {
+        "slot": 41,
+        "x": 142,
+        "y": 56,
+        "bob": "0x4c908",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 42,
+        "x": 158,
+        "y": 56,
+        "bob": "0x4c9a8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 43,
+        "x": 142,
+        "y": 72,
+        "bob": "0x4ca48",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 44,
+        "x": 158,
+        "y": 72,
+        "bob": "0x4cae8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 4,
+    "burst": [
+      {
+        "slot": 49,
+        "x": 134,
+        "y": 48,
+        "bob": "0x4bf08",
+        "active": 0,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 50,
+        "x": 150,
+        "y": 48,
+        "bob": "0x4bc88",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 51,
+        "x": 166,
+        "y": 48,
+        "bob": "0x4bfa8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 52,
+        "x": 134,
+        "y": 64,
+        "bob": "0x4bdc8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 53,
+        "x": 166,
+        "y": 64,
+        "bob": "0x4be68",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 54,
+        "x": 134,
+        "y": 80,
+        "bob": "0x4c048",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 55,
+        "x": 150,
+        "y": 80,
+        "bob": "0x4bd28",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 56,
+        "x": 166,
+        "y": 80,
+        "bob": "0x4c0e8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "owner": 0,
+    "score": 2300,
+    "cameraY": 14336
+  },
+  {
+    "kind": "player",
+    "tick": 6,
+    "bossHealth": 5,
+    "bossActive": 1,
+    "quadActive": 0,
+    "quadPhase": 3,
+    "actors": [
+      {
+        "slot": 41,
+        "x": 142,
+        "y": 56,
+        "bob": "0x4c908",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 42,
+        "x": 158,
+        "y": 56,
+        "bob": "0x4c9a8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 43,
+        "x": 142,
+        "y": 72,
+        "bob": "0x4ca48",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 44,
+        "x": 158,
+        "y": 72,
+        "bob": "0x4cae8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 4,
+    "burst": [
+      {
+        "slot": 49,
+        "x": 134,
+        "y": 48,
+        "bob": "0x4bf08",
+        "active": 0,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 50,
+        "x": 150,
+        "y": 48,
+        "bob": "0x4bc88",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 51,
+        "x": 166,
+        "y": 48,
+        "bob": "0x4bfa8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 52,
+        "x": 134,
+        "y": 64,
+        "bob": "0x4bdc8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 53,
+        "x": 166,
+        "y": 64,
+        "bob": "0x4be68",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 54,
+        "x": 134,
+        "y": 80,
+        "bob": "0x4c048",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 55,
+        "x": 150,
+        "y": 80,
+        "bob": "0x4bd28",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 56,
+        "x": 166,
+        "y": 80,
+        "bob": "0x4c0e8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "owner": 0,
+    "score": 2300,
+    "cameraY": 14336
+  },
+  {
+    "kind": "super",
+    "tick": 0,
+    "bossHealth": 6,
+    "bossActive": 1,
+    "quadActive": 0,
+    "quadPhase": 0,
+    "actors": [
+      {
+        "slot": 41,
+        "x": 142,
+        "y": 56,
+        "bob": "0x4c908",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 42,
+        "x": 158,
+        "y": 56,
+        "bob": "0x4c9a8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 43,
+        "x": 142,
+        "y": 72,
+        "bob": "0x4ca48",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 44,
+        "x": 158,
+        "y": 72,
+        "bob": "0x4cae8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 4,
+    "burst": [
+      {
+        "slot": 49,
+        "x": 134,
+        "y": 48,
+        "bob": "0x4bf08",
+        "active": 0,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 50,
+        "x": 150,
+        "y": 48,
+        "bob": "0x4bc88",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 51,
+        "x": 166,
+        "y": 48,
+        "bob": "0x4bfa8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 52,
+        "x": 134,
+        "y": 64,
+        "bob": "0x4bdc8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 53,
+        "x": 166,
+        "y": 64,
+        "bob": "0x4be68",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 54,
+        "x": 134,
+        "y": 80,
+        "bob": "0x4c048",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 55,
+        "x": 150,
+        "y": 80,
+        "bob": "0x4bd28",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 56,
+        "x": 166,
+        "y": 80,
+        "bob": "0x4c0e8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "owner": 0,
+    "score": 2300,
+    "cameraY": 14336
+  },
+  {
+    "kind": "super",
+    "tick": 1,
+    "bossHealth": 5,
+    "bossActive": 1,
+    "quadActive": 1,
+    "quadPhase": 1,
+    "actors": [
+      {
+        "slot": 41,
+        "x": 142,
+        "y": 56,
+        "bob": "0x4c408",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 42,
+        "x": 158,
+        "y": 56,
+        "bob": "0x4c4a8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 43,
+        "x": 142,
+        "y": 72,
+        "bob": "0x4c548",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 44,
+        "x": 158,
+        "y": 72,
+        "bob": "0x4c5e8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 4,
+    "burst": [
+      {
+        "slot": 49,
+        "x": 134,
+        "y": 48,
+        "bob": "0x4bf08",
+        "active": 0,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 50,
+        "x": 150,
+        "y": 48,
+        "bob": "0x4bc88",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 51,
+        "x": 166,
+        "y": 48,
+        "bob": "0x4bfa8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 52,
+        "x": 134,
+        "y": 64,
+        "bob": "0x4bdc8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 53,
+        "x": 166,
+        "y": 64,
+        "bob": "0x4be68",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 54,
+        "x": 134,
+        "y": 80,
+        "bob": "0x4c048",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 55,
+        "x": 150,
+        "y": 80,
+        "bob": "0x4bd28",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 56,
+        "x": 166,
+        "y": 80,
+        "bob": "0x4c0e8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "owner": 0,
+    "score": 2600,
+    "cameraY": 14336
+  },
+  {
+    "kind": "super",
+    "tick": 2,
+    "bossHealth": 5,
+    "bossActive": 1,
+    "quadActive": 1,
+    "quadPhase": 2,
+    "actors": [
+      {
+        "slot": 41,
+        "x": 142,
+        "y": 56,
+        "bob": "0x4c688",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 42,
+        "x": 158,
+        "y": 56,
+        "bob": "0x4c728",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 43,
+        "x": 142,
+        "y": 72,
+        "bob": "0x4c7c8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 44,
+        "x": 158,
+        "y": 72,
+        "bob": "0x4c868",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 4,
+    "burst": [
+      {
+        "slot": 49,
+        "x": 134,
+        "y": 48,
+        "bob": "0x4bf08",
+        "active": 0,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 50,
+        "x": 150,
+        "y": 48,
+        "bob": "0x4bc88",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 51,
+        "x": 166,
+        "y": 48,
+        "bob": "0x4bfa8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 52,
+        "x": 134,
+        "y": 64,
+        "bob": "0x4bdc8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 53,
+        "x": 166,
+        "y": 64,
+        "bob": "0x4be68",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 54,
+        "x": 134,
+        "y": 80,
+        "bob": "0x4c048",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 55,
+        "x": 150,
+        "y": 80,
+        "bob": "0x4bd28",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 56,
+        "x": 166,
+        "y": 80,
+        "bob": "0x4c0e8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "owner": 0,
+    "score": 2600,
+    "cameraY": 14336
+  },
+  {
+    "kind": "super",
+    "tick": 3,
+    "bossHealth": 5,
+    "bossActive": 1,
+    "quadActive": 1,
+    "quadPhase": 3,
+    "actors": [
+      {
+        "slot": 41,
+        "x": 142,
+        "y": 56,
+        "bob": "0x4c908",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 42,
+        "x": 158,
+        "y": 56,
+        "bob": "0x4c9a8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 43,
+        "x": 142,
+        "y": 72,
+        "bob": "0x4ca48",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 44,
+        "x": 158,
+        "y": 72,
+        "bob": "0x4cae8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 4,
+    "burst": [
+      {
+        "slot": 49,
+        "x": 134,
+        "y": 48,
+        "bob": "0x4bf08",
+        "active": 0,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 50,
+        "x": 150,
+        "y": 48,
+        "bob": "0x4bc88",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 51,
+        "x": 166,
+        "y": 48,
+        "bob": "0x4bfa8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 52,
+        "x": 134,
+        "y": 64,
+        "bob": "0x4bdc8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 53,
+        "x": 166,
+        "y": 64,
+        "bob": "0x4be68",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 54,
+        "x": 134,
+        "y": 80,
+        "bob": "0x4c048",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 55,
+        "x": 150,
+        "y": 80,
+        "bob": "0x4bd28",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 56,
+        "x": 166,
+        "y": 80,
+        "bob": "0x4c0e8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "owner": 0,
+    "score": 2600,
+    "cameraY": 14336
+  },
+  {
+    "kind": "super",
+    "tick": 4,
+    "bossHealth": 4,
+    "bossActive": 1,
+    "quadActive": 0,
+    "quadPhase": 3,
+    "actors": [
+      {
+        "slot": 41,
+        "x": 142,
+        "y": 56,
+        "bob": "0x4c908",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 42,
+        "x": 158,
+        "y": 56,
+        "bob": "0x4c9a8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 43,
+        "x": 142,
+        "y": 72,
+        "bob": "0x4ca48",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 44,
+        "x": 158,
+        "y": 72,
+        "bob": "0x4cae8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "burstActive": 1,
+    "burstRemaining": 5,
+    "burst": [
+      {
+        "slot": 49,
+        "x": 142,
+        "y": 56,
+        "bob": "0x4bf08",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 50,
+        "x": 150,
+        "y": 56,
+        "bob": "0x4bc88",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 51,
+        "x": 158,
+        "y": 56,
+        "bob": "0x4bfa8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 52,
+        "x": 142,
+        "y": 64,
+        "bob": "0x4bdc8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 53,
+        "x": 158,
+        "y": 64,
+        "bob": "0x4be68",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 54,
+        "x": 142,
+        "y": 72,
+        "bob": "0x4c048",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 55,
+        "x": 150,
+        "y": 72,
+        "bob": "0x4bd28",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 56,
+        "x": 158,
+        "y": 72,
+        "bob": "0x4c0e8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "owner": 0,
+    "score": 2600,
+    "cameraY": 14336
+  },
+  {
+    "kind": "super",
+    "tick": 5,
+    "bossHealth": 3,
+    "bossActive": 1,
+    "quadActive": 0,
+    "quadPhase": 3,
+    "actors": [
+      {
+        "slot": 41,
+        "x": 142,
+        "y": 56,
+        "bob": "0x4c908",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 42,
+        "x": 158,
+        "y": 56,
+        "bob": "0x4c9a8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 43,
+        "x": 142,
+        "y": 72,
+        "bob": "0x4ca48",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 44,
+        "x": 158,
+        "y": 72,
+        "bob": "0x4cae8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "burstActive": 1,
+    "burstRemaining": 4,
+    "burst": [
+      {
+        "slot": 49,
+        "x": 134,
+        "y": 48,
+        "bob": "0x4bf08",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 50,
+        "x": 150,
+        "y": 48,
+        "bob": "0x4bc88",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 51,
+        "x": 166,
+        "y": 48,
+        "bob": "0x4bfa8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 52,
+        "x": 134,
+        "y": 64,
+        "bob": "0x4bdc8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 53,
+        "x": 166,
+        "y": 64,
+        "bob": "0x4be68",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 54,
+        "x": 134,
+        "y": 80,
+        "bob": "0x4c048",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 55,
+        "x": 150,
+        "y": 80,
+        "bob": "0x4bd28",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 56,
+        "x": 166,
+        "y": 80,
+        "bob": "0x4c0e8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "owner": 0,
+    "score": 2600,
+    "cameraY": 14336
+  },
+  {
+    "kind": "super",
+    "tick": 6,
+    "bossHealth": 2,
+    "bossActive": 1,
+    "quadActive": 0,
+    "quadPhase": 3,
+    "actors": [
+      {
+        "slot": 41,
+        "x": 142,
+        "y": 56,
+        "bob": "0x4c908",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 42,
+        "x": 158,
+        "y": 56,
+        "bob": "0x4c9a8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 43,
+        "x": 142,
+        "y": 72,
+        "bob": "0x4ca48",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 44,
+        "x": 158,
+        "y": 72,
+        "bob": "0x4cae8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "burstActive": 1,
+    "burstRemaining": 3,
+    "burst": [
+      {
+        "slot": 49,
+        "x": 126,
+        "y": 40,
+        "bob": "0x4bf08",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 50,
+        "x": 150,
+        "y": 40,
+        "bob": "0x4bc88",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 51,
+        "x": 174,
+        "y": 40,
+        "bob": "0x4bfa8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 52,
+        "x": 126,
+        "y": 64,
+        "bob": "0x4bdc8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 53,
+        "x": 174,
+        "y": 64,
+        "bob": "0x4be68",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 54,
+        "x": 126,
+        "y": 88,
+        "bob": "0x4c048",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 55,
+        "x": 150,
+        "y": 88,
+        "bob": "0x4bd28",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 56,
+        "x": 174,
+        "y": 88,
+        "bob": "0x4c0e8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ],
+    "owner": 0,
+    "score": 2600,
+    "cameraY": 14336
+  }
+]

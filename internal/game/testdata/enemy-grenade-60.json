@@ -1,0 +1,322 @@
+[
+  {
+    "tick": 0,
+    "control": [
+      0,
+      4,
+      60,
+      1
+    ],
+    "objects": [
+      {
+        "slot": 65,
+        "x": 150,
+        "y": 50,
+        "bob": "0x4a888",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "tick": 1,
+    "control": [
+      0,
+      4,
+      56,
+      1
+    ],
+    "objects": [
+      {
+        "slot": 65,
+        "x": 150,
+        "y": 54,
+        "bob": "0x4a888",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "tick": 2,
+    "control": [
+      0,
+      4,
+      52,
+      1
+    ],
+    "objects": [
+      {
+        "slot": 65,
+        "x": 150,
+        "y": 58,
+        "bob": "0x4a888",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "tick": 3,
+    "control": [
+      0,
+      4,
+      48,
+      1
+    ],
+    "objects": [
+      {
+        "slot": 65,
+        "x": 150,
+        "y": 62,
+        "bob": "0x4a888",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "tick": 4,
+    "control": [
+      0,
+      4,
+      44,
+      1
+    ],
+    "objects": [
+      {
+        "slot": 65,
+        "x": 150,
+        "y": 66,
+        "bob": "0x4a888",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "tick": 5,
+    "control": [
+      0,
+      4,
+      40,
+      1
+    ],
+    "objects": [
+      {
+        "slot": 65,
+        "x": 150,
+        "y": 70,
+        "bob": "0x4a888",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "tick": 6,
+    "control": [
+      0,
+      4,
+      36,
+      1
+    ],
+    "objects": [
+      {
+        "slot": 65,
+        "x": 150,
+        "y": 74,
+        "bob": "0x4a888",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "tick": 7,
+    "control": [
+      0,
+      4,
+      32,
+      1
+    ],
+    "objects": [
+      {
+        "slot": 65,
+        "x": 150,
+        "y": 78,
+        "bob": "0x4a888",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "tick": 8,
+    "control": [
+      0,
+      4,
+      28,
+      1
+    ],
+    "objects": [
+      {
+        "slot": 65,
+        "x": 150,
+        "y": 82,
+        "bob": "0x4a888",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "tick": 9,
+    "control": [
+      0,
+      4,
+      24,
+      1
+    ],
+    "objects": [
+      {
+        "slot": 65,
+        "x": 150,
+        "y": 86,
+        "bob": "0x4a888",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "tick": 10,
+    "control": [
+      0,
+      4,
+      20,
+      1
+    ],
+    "objects": [
+      {
+        "slot": 65,
+        "x": 150,
+        "y": 90,
+        "bob": "0x4a888",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "tick": 11,
+    "control": [
+      0,
+      4,
+      16,
+      1
+    ],
+    "objects": [
+      {
+        "slot": 65,
+        "x": 150,
+        "y": 94,
+        "bob": "0x4a888",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "tick": 12,
+    "control": [
+      0,
+      4,
+      12,
+      1
+    ],
+    "objects": [
+      {
+        "slot": 65,
+        "x": 150,
+        "y": 98,
+        "bob": "0x4a888",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "tick": 13,
+    "control": [
+      0,
+      4,
+      8,
+      1
+    ],
+    "objects": [
+      {
+        "slot": 65,
+        "x": 150,
+        "y": 102,
+        "bob": "0x4a888",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "tick": 14,
+    "control": [
+      0,
+      4,
+      4,
+      1
+    ],
+    "objects": [
+      {
+        "slot": 65,
+        "x": 150,
+        "y": 106,
+        "bob": "0x4a888",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "tick": 15,
+    "control": [
+      0,
+      4,
+      0,
+      1
+    ],
+    "objects": [
+      {
+        "slot": 65,
+        "x": 150,
+        "y": 110,
+        "bob": "0x4a888",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  }
+]

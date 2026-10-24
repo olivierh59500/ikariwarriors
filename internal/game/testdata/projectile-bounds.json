@@ -1,0 +1,797 @@
+[
+  {
+    "kind": "right",
+    "tick": 0,
+    "shot": {
+      "slot": 65,
+      "x": 264,
+      "y": 60,
+      "bob": "0x4a888",
+      "active": 1,
+      "step": 0,
+      "delay": 0
+    },
+    "range": 8,
+    "quadActive": 0,
+    "quad": [
+      {
+        "slot": 77,
+        "x": 120,
+        "y": 487,
+        "bob": "0x4cb88",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 78,
+        "x": 136,
+        "y": 487,
+        "bob": "0x4c9a8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 79,
+        "x": 120,
+        "y": 503,
+        "bob": "0x4ca48",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 80,
+        "x": 136,
+        "y": 503,
+        "bob": "0x4cae8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "kind": "right",
+    "tick": 1,
+    "shot": {
+      "slot": 65,
+      "x": 268,
+      "y": 60,
+      "bob": "0x4a888",
+      "active": 1,
+      "step": 0,
+      "delay": 0
+    },
+    "range": 4,
+    "quadActive": 0,
+    "quad": [
+      {
+        "slot": 77,
+        "x": 120,
+        "y": 487,
+        "bob": "0x4cb88",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 78,
+        "x": 136,
+        "y": 487,
+        "bob": "0x4c9a8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 79,
+        "x": 120,
+        "y": 503,
+        "bob": "0x4ca48",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 80,
+        "x": 136,
+        "y": 503,
+        "bob": "0x4cae8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "kind": "right",
+    "tick": 2,
+    "shot": {
+      "slot": 65,
+      "x": 272,
+      "y": 60,
+      "bob": "0x4a888",
+      "active": 0,
+      "step": 0,
+      "delay": 0
+    },
+    "range": 0,
+    "quadActive": 1,
+    "quad": [
+      {
+        "slot": 77,
+        "x": 264,
+        "y": 52,
+        "bob": "0x4c408",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 78,
+        "x": 280,
+        "y": 52,
+        "bob": "0x4c4a8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 79,
+        "x": 264,
+        "y": 68,
+        "bob": "0x4c548",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 80,
+        "x": 280,
+        "y": 68,
+        "bob": "0x4c5e8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "kind": "right",
+    "tick": 3,
+    "shot": {
+      "slot": 65,
+      "x": 272,
+      "y": 60,
+      "bob": "0x4a888",
+      "active": 0,
+      "step": 0,
+      "delay": 0
+    },
+    "range": 0,
+    "quadActive": 1,
+    "quad": [
+      {
+        "slot": 77,
+        "x": 264,
+        "y": 52,
+        "bob": "0x4c688",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 78,
+        "x": 280,
+        "y": 52,
+        "bob": "0x4c728",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 79,
+        "x": 264,
+        "y": 68,
+        "bob": "0x4c7c8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 80,
+        "x": 280,
+        "y": 68,
+        "bob": "0x4c868",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "kind": "right",
+    "tick": 4,
+    "shot": {
+      "slot": 65,
+      "x": 272,
+      "y": 60,
+      "bob": "0x4a888",
+      "active": 0,
+      "step": 0,
+      "delay": 0
+    },
+    "range": 0,
+    "quadActive": 1,
+    "quad": [
+      {
+        "slot": 77,
+        "x": 264,
+        "y": 52,
+        "bob": "0x4c908",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 78,
+        "x": 280,
+        "y": 52,
+        "bob": "0x4c9a8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 79,
+        "x": 264,
+        "y": 68,
+        "bob": "0x4ca48",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 80,
+        "x": 280,
+        "y": 68,
+        "bob": "0x4cae8",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "kind": "far_right",
+    "tick": 0,
+    "shot": {
+      "slot": 65,
+      "x": 316,
+      "y": 60,
+      "bob": "0x4a888",
+      "active": 1,
+      "step": 0,
+      "delay": 0
+    },
+    "range": 12,
+    "quadActive": 0,
+    "quad": [
+      {
+        "slot": 77,
+        "x": 264,
+        "y": 52,
+        "bob": "0x4c908",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 78,
+        "x": 280,
+        "y": 52,
+        "bob": "0x4c9a8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 79,
+        "x": 264,
+        "y": 68,
+        "bob": "0x4ca48",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 80,
+        "x": 280,
+        "y": 68,
+        "bob": "0x4cae8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "kind": "far_right",
+    "tick": 1,
+    "shot": {
+      "slot": 65,
+      "x": 320,
+      "y": 60,
+      "bob": "0x4a888",
+      "active": 1,
+      "step": 0,
+      "delay": 0
+    },
+    "range": 8,
+    "quadActive": 0,
+    "quad": [
+      {
+        "slot": 77,
+        "x": 264,
+        "y": 52,
+        "bob": "0x4c908",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 78,
+        "x": 280,
+        "y": 52,
+        "bob": "0x4c9a8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 79,
+        "x": 264,
+        "y": 68,
+        "bob": "0x4ca48",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 80,
+        "x": 280,
+        "y": 68,
+        "bob": "0x4cae8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "kind": "far_right",
+    "tick": 2,
+    "shot": {
+      "slot": 65,
+      "x": 324,
+      "y": 60,
+      "bob": "0x4a888",
+      "active": 0,
+      "step": 0,
+      "delay": 0
+    },
+    "range": 4,
+    "quadActive": 0,
+    "quad": [
+      {
+        "slot": 77,
+        "x": 264,
+        "y": 52,
+        "bob": "0x4c908",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 78,
+        "x": 280,
+        "y": 52,
+        "bob": "0x4c9a8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 79,
+        "x": 264,
+        "y": 68,
+        "bob": "0x4ca48",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 80,
+        "x": 280,
+        "y": 68,
+        "bob": "0x4cae8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "kind": "far_right",
+    "tick": 3,
+    "shot": {
+      "slot": 65,
+      "x": 324,
+      "y": 60,
+      "bob": "0x4a888",
+      "active": 0,
+      "step": 0,
+      "delay": 0
+    },
+    "range": 4,
+    "quadActive": 0,
+    "quad": [
+      {
+        "slot": 77,
+        "x": 264,
+        "y": 52,
+        "bob": "0x4c908",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 78,
+        "x": 280,
+        "y": 52,
+        "bob": "0x4c9a8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 79,
+        "x": 264,
+        "y": 68,
+        "bob": "0x4ca48",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 80,
+        "x": 280,
+        "y": 68,
+        "bob": "0x4cae8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "kind": "far_right",
+    "tick": 4,
+    "shot": {
+      "slot": 65,
+      "x": 324,
+      "y": 60,
+      "bob": "0x4a888",
+      "active": 0,
+      "step": 0,
+      "delay": 0
+    },
+    "range": 4,
+    "quadActive": 0,
+    "quad": [
+      {
+        "slot": 77,
+        "x": 264,
+        "y": 52,
+        "bob": "0x4c908",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 78,
+        "x": 280,
+        "y": 52,
+        "bob": "0x4c9a8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 79,
+        "x": 264,
+        "y": 68,
+        "bob": "0x4ca48",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 80,
+        "x": 280,
+        "y": 68,
+        "bob": "0x4cae8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "kind": "left",
+    "tick": 0,
+    "shot": {
+      "slot": 65,
+      "x": 4,
+      "y": 60,
+      "bob": "0x4a888",
+      "active": 1,
+      "step": 0,
+      "delay": 0
+    },
+    "range": 12,
+    "quadActive": 0,
+    "quad": [
+      {
+        "slot": 77,
+        "x": 264,
+        "y": 52,
+        "bob": "0x4c908",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 78,
+        "x": 280,
+        "y": 52,
+        "bob": "0x4c9a8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 79,
+        "x": 264,
+        "y": 68,
+        "bob": "0x4ca48",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 80,
+        "x": 280,
+        "y": 68,
+        "bob": "0x4cae8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "kind": "left",
+    "tick": 1,
+    "shot": {
+      "slot": 65,
+      "x": 0,
+      "y": 60,
+      "bob": "0x4a888",
+      "active": 1,
+      "step": 0,
+      "delay": 0
+    },
+    "range": 8,
+    "quadActive": 0,
+    "quad": [
+      {
+        "slot": 77,
+        "x": 264,
+        "y": 52,
+        "bob": "0x4c908",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 78,
+        "x": 280,
+        "y": 52,
+        "bob": "0x4c9a8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 79,
+        "x": 264,
+        "y": 68,
+        "bob": "0x4ca48",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 80,
+        "x": 280,
+        "y": 68,
+        "bob": "0x4cae8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "kind": "left",
+    "tick": 2,
+    "shot": {
+      "slot": 65,
+      "x": -4,
+      "y": 60,
+      "bob": "0x4a888",
+      "active": 0,
+      "step": 0,
+      "delay": 0
+    },
+    "range": 4,
+    "quadActive": 0,
+    "quad": [
+      {
+        "slot": 77,
+        "x": 264,
+        "y": 52,
+        "bob": "0x4c908",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 78,
+        "x": 280,
+        "y": 52,
+        "bob": "0x4c9a8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 79,
+        "x": 264,
+        "y": 68,
+        "bob": "0x4ca48",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 80,
+        "x": 280,
+        "y": 68,
+        "bob": "0x4cae8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "kind": "left",
+    "tick": 3,
+    "shot": {
+      "slot": 65,
+      "x": -4,
+      "y": 60,
+      "bob": "0x4a888",
+      "active": 0,
+      "step": 0,
+      "delay": 0
+    },
+    "range": 4,
+    "quadActive": 0,
+    "quad": [
+      {
+        "slot": 77,
+        "x": 264,
+        "y": 52,
+        "bob": "0x4c908",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 78,
+        "x": 280,
+        "y": 52,
+        "bob": "0x4c9a8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 79,
+        "x": 264,
+        "y": 68,
+        "bob": "0x4ca48",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 80,
+        "x": 280,
+        "y": 68,
+        "bob": "0x4cae8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "kind": "left",
+    "tick": 4,
+    "shot": {
+      "slot": 65,
+      "x": -4,
+      "y": 60,
+      "bob": "0x4a888",
+      "active": 0,
+      "step": 0,
+      "delay": 0
+    },
+    "range": 4,
+    "quadActive": 0,
+    "quad": [
+      {
+        "slot": 77,
+        "x": 264,
+        "y": 52,
+        "bob": "0x4c908",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 78,
+        "x": 280,
+        "y": 52,
+        "bob": "0x4c9a8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 79,
+        "x": 264,
+        "y": 68,
+        "bob": "0x4ca48",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 80,
+        "x": 280,
+        "y": 68,
+        "bob": "0x4cae8",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  }
+]

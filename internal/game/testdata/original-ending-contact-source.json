@@ -1,0 +1,293 @@
+{
+  "sourceOnly": true,
+  "frames": [
+    {
+      "frame": 12680,
+      "sha256": "ea25528861050b44237ba43a4958d9487dc6069c871296c172fe938e9447f49d",
+      "camera": 36,
+      "score": 65700,
+      "player": {
+        "x": 70,
+        "y": 130
+      },
+      "parts": [
+        {
+          "slot": 0,
+          "x": 80,
+          "y": 40,
+          "active": true,
+          "hit": false
+        },
+        {
+          "slot": 1,
+          "x": 112,
+          "y": 40,
+          "active": true,
+          "hit": false
+        },
+        {
+          "slot": 2,
+          "x": 144,
+          "y": 40,
+          "active": true,
+          "hit": false
+        },
+        {
+          "slot": 3,
+          "x": 80,
+          "y": 64,
+          "active": true,
+          "hit": false
+        },
+        {
+          "slot": 4,
+          "x": 112,
+          "y": 64,
+          "active": true,
+          "hit": false
+        },
+        {
+          "slot": 5,
+          "x": 144,
+          "y": 64,
+          "active": true,
+          "hit": false
+        },
+        {
+          "slot": 6,
+          "x": 80,
+          "y": 88,
+          "active": true,
+          "hit": false
+        },
+        {
+          "slot": 7,
+          "x": 112,
+          "y": 88,
+          "active": true,
+          "hit": false
+        },
+        {
+          "slot": 8,
+          "x": 144,
+          "y": 88,
+          "active": true,
+          "hit": false
+        },
+        {
+          "slot": 9,
+          "x": 80,
+          "y": 112,
+          "active": true,
+          "hit": false
+        },
+        {
+          "slot": 10,
+          "x": 112,
+          "y": 112,
+          "active": true,
+          "hit": false
+        },
+        {
+          "slot": 11,
+          "x": 144,
+          "y": 112,
+          "active": true,
+          "hit": false
+        }
+      ]
+    },
+    {
+      "frame": 12681,
+      "sha256": "4bab33503c9aacd698ca35c2d1190ba08b33e1f8242c9090c5b261a5322067b7",
+      "camera": 34,
+      "score": 65800,
+      "player": {
+        "x": 70,
+        "y": 128
+      },
+      "parts": [
+        {
+          "slot": 0,
+          "x": 80,
+          "y": 40,
+          "active": true,
+          "hit": false
+        },
+        {
+          "slot": 1,
+          "x": 112,
+          "y": 40,
+          "active": true,
+          "hit": false
+        },
+        {
+          "slot": 2,
+          "x": 144,
+          "y": 40,
+          "active": true,
+          "hit": false
+        },
+        {
+          "slot": 3,
+          "x": 80,
+          "y": 64,
+          "active": true,
+          "hit": false
+        },
+        {
+          "slot": 4,
+          "x": 112,
+          "y": 64,
+          "active": true,
+          "hit": false
+        },
+        {
+          "slot": 5,
+          "x": 144,
+          "y": 64,
+          "active": true,
+          "hit": false
+        },
+        {
+          "slot": 6,
+          "x": 80,
+          "y": 88,
+          "active": true,
+          "hit": false
+        },
+        {
+          "slot": 7,
+          "x": 112,
+          "y": 88,
+          "active": true,
+          "hit": false
+        },
+        {
+          "slot": 8,
+          "x": 144,
+          "y": 88,
+          "active": true,
+          "hit": false
+        },
+        {
+          "slot": 9,
+          "x": 80,
+          "y": 112,
+          "active": true,
+          "hit": true
+        },
+        {
+          "slot": 10,
+          "x": 112,
+          "y": 112,
+          "active": true,
+          "hit": false
+        },
+        {
+          "slot": 11,
+          "x": 144,
+          "y": 112,
+          "active": true,
+          "hit": false
+        }
+      ]
+    },
+    {
+      "frame": 12682,
+      "sha256": "dcd6967744c3bc4ab25cda3d69cb84786c440a576bfc81d198b12d179e7e6409",
+      "camera": 32,
+      "score": 65800,
+      "player": {
+        "x": 70,
+        "y": 126
+      },
+      "parts": [
+        {
+          "slot": 0,
+          "x": 80,
+          "y": 40,
+          "active": true,
+          "hit": false
+        },
+        {
+          "slot": 1,
+          "x": 112,
+          "y": 40,
+          "active": true,
+          "hit": false
+        },
+        {
+          "slot": 2,
+          "x": 144,
+          "y": 40,
+          "active": true,
+          "hit": false
+        },
+        {
+          "slot": 3,
+          "x": 80,
+          "y": 64,
+          "active": true,
+          "hit": false
+        },
+        {
+          "slot": 4,
+          "x": 112,
+          "y": 64,
+          "active": true,
+          "hit": false
+        },
+        {
+          "slot": 5,
+          "x": 144,
+          "y": 64,
+          "active": true,
+          "hit": false
+        },
+        {
+          "slot": 6,
+          "x": 80,
+          "y": 88,
+          "active": true,
+          "hit": false
+        },
+        {
+          "slot": 7,
+          "x": 112,
+          "y": 88,
+          "active": true,
+          "hit": false
+        },
+        {
+          "slot": 8,
+          "x": 144,
+          "y": 88,
+          "active": true,
+          "hit": false
+        },
+        {
+          "slot": 9,
+          "x": 80,
+          "y": 112,
+          "active": true,
+          "hit": true
+        },
+        {
+          "slot": 10,
+          "x": 112,
+          "y": 112,
+          "active": true,
+          "hit": false
+        },
+        {
+          "slot": 11,
+          "x": 144,
+          "y": 112,
+          "active": true,
+          "hit": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2042 @@
+[
+  {
+    "kind": "foot",
+    "tick": 0,
+    "shot": {
+      "x": 164,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 1
+    },
+    "range": 60,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "foot",
+    "tick": 1,
+    "shot": {
+      "x": 160,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 1
+    },
+    "range": 56,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "foot",
+    "tick": 2,
+    "shot": {
+      "x": 156,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 1
+    },
+    "range": 52,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "foot",
+    "tick": 3,
+    "shot": {
+      "x": 152,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 1
+    },
+    "range": 48,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "foot",
+    "tick": 4,
+    "shot": {
+      "x": 148,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 1
+    },
+    "range": 44,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "foot",
+    "tick": 5,
+    "shot": {
+      "x": 148,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 44,
+    "death": 23,
+    "invulnerable": 99,
+    "playerActive": 0,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "foot",
+    "tick": 6,
+    "shot": {
+      "x": 148,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 44,
+    "death": 22,
+    "invulnerable": 98,
+    "playerActive": 0,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "foot",
+    "tick": 7,
+    "shot": {
+      "x": 148,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 44,
+    "death": 21,
+    "invulnerable": 97,
+    "playerActive": 0,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "foot",
+    "tick": 8,
+    "shot": {
+      "x": 148,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 44,
+    "death": 20,
+    "invulnerable": 96,
+    "playerActive": 0,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "foot",
+    "tick": 9,
+    "shot": {
+      "x": 148,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 44,
+    "death": 19,
+    "invulnerable": 95,
+    "playerActive": 0,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "foot",
+    "tick": 10,
+    "shot": {
+      "x": 148,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 44,
+    "death": 18,
+    "invulnerable": 94,
+    "playerActive": 0,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "foot",
+    "tick": 11,
+    "shot": {
+      "x": 148,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 44,
+    "death": 17,
+    "invulnerable": 93,
+    "playerActive": 0,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "foot",
+    "tick": 12,
+    "shot": {
+      "x": 148,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 44,
+    "death": 16,
+    "invulnerable": 92,
+    "playerActive": 0,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "foot",
+    "tick": 13,
+    "shot": {
+      "x": 148,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 44,
+    "death": 15,
+    "invulnerable": 91,
+    "playerActive": 0,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "foot",
+    "tick": 14,
+    "shot": {
+      "x": 148,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 44,
+    "death": 14,
+    "invulnerable": 90,
+    "playerActive": 0,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "foot",
+    "tick": 15,
+    "shot": {
+      "x": 148,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 44,
+    "death": 13,
+    "invulnerable": 89,
+    "playerActive": 0,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "foot",
+    "tick": 16,
+    "shot": {
+      "x": 148,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 44,
+    "death": 12,
+    "invulnerable": 88,
+    "playerActive": 0,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "foot",
+    "tick": 17,
+    "shot": {
+      "x": 148,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 44,
+    "death": 11,
+    "invulnerable": 87,
+    "playerActive": 0,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "foot",
+    "tick": 18,
+    "shot": {
+      "x": 148,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 44,
+    "death": 10,
+    "invulnerable": 86,
+    "playerActive": 0,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "foot",
+    "tick": 19,
+    "shot": {
+      "x": 148,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 44,
+    "death": 9,
+    "invulnerable": 85,
+    "playerActive": 0,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "foot",
+    "tick": 20,
+    "shot": {
+      "x": 148,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 44,
+    "death": 8,
+    "invulnerable": 84,
+    "playerActive": 0,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "foot",
+    "tick": 21,
+    "shot": {
+      "x": 148,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 44,
+    "death": 7,
+    "invulnerable": 83,
+    "playerActive": 0,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "foot",
+    "tick": 22,
+    "shot": {
+      "x": 148,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 44,
+    "death": 6,
+    "invulnerable": 82,
+    "playerActive": 0,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "foot",
+    "tick": 23,
+    "shot": {
+      "x": 148,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 44,
+    "death": 5,
+    "invulnerable": 81,
+    "playerActive": 0,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "foot",
+    "tick": 24,
+    "shot": {
+      "x": 148,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 44,
+    "death": 4,
+    "invulnerable": 80,
+    "playerActive": 0,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "foot",
+    "tick": 25,
+    "shot": {
+      "x": 148,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 44,
+    "death": 3,
+    "invulnerable": 79,
+    "playerActive": 0,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "foot",
+    "tick": 26,
+    "shot": {
+      "x": 148,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 44,
+    "death": 2,
+    "invulnerable": 78,
+    "playerActive": 0,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "foot",
+    "tick": 27,
+    "shot": {
+      "x": 148,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 44,
+    "death": 1,
+    "invulnerable": 77,
+    "playerActive": 0,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "foot",
+    "tick": 28,
+    "shot": {
+      "x": 148,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 44,
+    "death": 0,
+    "invulnerable": 76,
+    "playerActive": 255,
+    "playerX": 160,
+    "playerY": 180,
+    "cameraY": 14336
+  },
+  {
+    "kind": "foot",
+    "tick": 29,
+    "shot": {
+      "x": 148,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 44,
+    "death": 0,
+    "invulnerable": 75,
+    "playerActive": 255,
+    "playerX": 160,
+    "playerY": 180,
+    "cameraY": 14336
+  },
+  {
+    "kind": "foot",
+    "tick": 30,
+    "shot": {
+      "x": 148,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 44,
+    "death": 0,
+    "invulnerable": 74,
+    "playerActive": 255,
+    "playerX": 160,
+    "playerY": 180,
+    "cameraY": 14336
+  },
+  {
+    "kind": "foot",
+    "tick": 31,
+    "shot": {
+      "x": 148,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 44,
+    "death": 0,
+    "invulnerable": 73,
+    "playerActive": 255,
+    "playerX": 160,
+    "playerY": 180,
+    "cameraY": 14336
+  },
+  {
+    "kind": "foot",
+    "tick": 32,
+    "shot": {
+      "x": 148,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 44,
+    "death": 0,
+    "invulnerable": 72,
+    "playerActive": 255,
+    "playerX": 160,
+    "playerY": 180,
+    "cameraY": 14336
+  },
+  {
+    "kind": "foot",
+    "tick": 33,
+    "shot": {
+      "x": 148,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 44,
+    "death": 0,
+    "invulnerable": 71,
+    "playerActive": 255,
+    "playerX": 160,
+    "playerY": 180,
+    "cameraY": 14336
+  },
+  {
+    "kind": "foot",
+    "tick": 34,
+    "shot": {
+      "x": 148,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 44,
+    "death": 0,
+    "invulnerable": 70,
+    "playerActive": 255,
+    "playerX": 160,
+    "playerY": 180,
+    "cameraY": 14336
+  },
+  {
+    "kind": "foot",
+    "tick": 35,
+    "shot": {
+      "x": 148,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 44,
+    "death": 0,
+    "invulnerable": 69,
+    "playerActive": 255,
+    "playerX": 160,
+    "playerY": 180,
+    "cameraY": 14336
+  },
+  {
+    "kind": "foot",
+    "tick": 36,
+    "shot": {
+      "x": 148,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 44,
+    "death": 0,
+    "invulnerable": 68,
+    "playerActive": 255,
+    "playerX": 160,
+    "playerY": 180,
+    "cameraY": 14336
+  },
+  {
+    "kind": "foot",
+    "tick": 37,
+    "shot": {
+      "x": 148,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 44,
+    "death": 0,
+    "invulnerable": 67,
+    "playerActive": 255,
+    "playerX": 160,
+    "playerY": 180,
+    "cameraY": 14336
+  },
+  {
+    "kind": "foot",
+    "tick": 38,
+    "shot": {
+      "x": 148,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 44,
+    "death": 0,
+    "invulnerable": 66,
+    "playerActive": 255,
+    "playerX": 160,
+    "playerY": 180,
+    "cameraY": 14336
+  },
+  {
+    "kind": "foot",
+    "tick": 39,
+    "shot": {
+      "x": 148,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 44,
+    "death": 0,
+    "invulnerable": 65,
+    "playerActive": 255,
+    "playerX": 160,
+    "playerY": 180,
+    "cameraY": 14336
+  },
+  {
+    "kind": "tank",
+    "tick": 0,
+    "shot": {
+      "x": 164,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 1
+    },
+    "range": 60,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "tank",
+    "tick": 1,
+    "shot": {
+      "x": 160,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 1
+    },
+    "range": 56,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "tank",
+    "tick": 2,
+    "shot": {
+      "x": 156,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 1
+    },
+    "range": 52,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "tank",
+    "tick": 3,
+    "shot": {
+      "x": 152,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 1
+    },
+    "range": 48,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "tank",
+    "tick": 4,
+    "shot": {
+      "x": 148,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 1
+    },
+    "range": 44,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "tank",
+    "tick": 5,
+    "shot": {
+      "x": 144,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 1
+    },
+    "range": 40,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "tank",
+    "tick": 6,
+    "shot": {
+      "x": 140,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 1
+    },
+    "range": 36,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "tank",
+    "tick": 7,
+    "shot": {
+      "x": 136,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 1
+    },
+    "range": 32,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "tank",
+    "tick": 8,
+    "shot": {
+      "x": 132,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 1
+    },
+    "range": 28,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "tank",
+    "tick": 9,
+    "shot": {
+      "x": 128,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 1
+    },
+    "range": 24,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "tank",
+    "tick": 10,
+    "shot": {
+      "x": 124,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 1
+    },
+    "range": 20,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "tank",
+    "tick": 11,
+    "shot": {
+      "x": 120,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 1
+    },
+    "range": 16,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "tank",
+    "tick": 12,
+    "shot": {
+      "x": 116,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 1
+    },
+    "range": 12,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "tank",
+    "tick": 13,
+    "shot": {
+      "x": 112,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 1
+    },
+    "range": 8,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "tank",
+    "tick": 14,
+    "shot": {
+      "x": 108,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 1
+    },
+    "range": 4,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "tank",
+    "tick": 15,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "tank",
+    "tick": 16,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "tank",
+    "tick": 17,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "tank",
+    "tick": 18,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "tank",
+    "tick": 19,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "tank",
+    "tick": 20,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "tank",
+    "tick": 21,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "tank",
+    "tick": 22,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "tank",
+    "tick": 23,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "tank",
+    "tick": 24,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "tank",
+    "tick": 25,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "tank",
+    "tick": 26,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "tank",
+    "tick": 27,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "tank",
+    "tick": 28,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "tank",
+    "tick": 29,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "tank",
+    "tick": 30,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "tank",
+    "tick": 31,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "tank",
+    "tick": 32,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "tank",
+    "tick": 33,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "tank",
+    "tick": 34,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "tank",
+    "tick": 35,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "tank",
+    "tick": 36,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "tank",
+    "tick": 37,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "tank",
+    "tick": 38,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "tank",
+    "tick": 39,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 126,
+    "playerY": 54,
+    "cameraY": 14336
+  },
+  {
+    "kind": "wall",
+    "tick": 0,
+    "shot": {
+      "x": 164,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 1
+    },
+    "range": 60,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 64,
+    "playerY": 160,
+    "cameraY": 14336
+  },
+  {
+    "kind": "wall",
+    "tick": 1,
+    "shot": {
+      "x": 160,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 1
+    },
+    "range": 56,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 64,
+    "playerY": 160,
+    "cameraY": 14336
+  },
+  {
+    "kind": "wall",
+    "tick": 2,
+    "shot": {
+      "x": 156,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 1
+    },
+    "range": 52,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 64,
+    "playerY": 160,
+    "cameraY": 14336
+  },
+  {
+    "kind": "wall",
+    "tick": 3,
+    "shot": {
+      "x": 152,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 1
+    },
+    "range": 48,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 64,
+    "playerY": 160,
+    "cameraY": 14336
+  },
+  {
+    "kind": "wall",
+    "tick": 4,
+    "shot": {
+      "x": 148,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 1
+    },
+    "range": 44,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 64,
+    "playerY": 160,
+    "cameraY": 14336
+  },
+  {
+    "kind": "wall",
+    "tick": 5,
+    "shot": {
+      "x": 144,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 1
+    },
+    "range": 40,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 64,
+    "playerY": 160,
+    "cameraY": 14336
+  },
+  {
+    "kind": "wall",
+    "tick": 6,
+    "shot": {
+      "x": 140,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 1
+    },
+    "range": 36,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 64,
+    "playerY": 160,
+    "cameraY": 14336
+  },
+  {
+    "kind": "wall",
+    "tick": 7,
+    "shot": {
+      "x": 136,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 1
+    },
+    "range": 32,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 64,
+    "playerY": 160,
+    "cameraY": 14336
+  },
+  {
+    "kind": "wall",
+    "tick": 8,
+    "shot": {
+      "x": 132,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 1
+    },
+    "range": 28,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 64,
+    "playerY": 160,
+    "cameraY": 14336
+  },
+  {
+    "kind": "wall",
+    "tick": 9,
+    "shot": {
+      "x": 128,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 1
+    },
+    "range": 24,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 64,
+    "playerY": 160,
+    "cameraY": 14336
+  },
+  {
+    "kind": "wall",
+    "tick": 10,
+    "shot": {
+      "x": 124,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 1
+    },
+    "range": 20,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 64,
+    "playerY": 160,
+    "cameraY": 14336
+  },
+  {
+    "kind": "wall",
+    "tick": 11,
+    "shot": {
+      "x": 120,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 1
+    },
+    "range": 16,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 64,
+    "playerY": 160,
+    "cameraY": 14336
+  },
+  {
+    "kind": "wall",
+    "tick": 12,
+    "shot": {
+      "x": 116,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 1
+    },
+    "range": 12,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 64,
+    "playerY": 160,
+    "cameraY": 14336
+  },
+  {
+    "kind": "wall",
+    "tick": 13,
+    "shot": {
+      "x": 112,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 1
+    },
+    "range": 8,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 64,
+    "playerY": 160,
+    "cameraY": 14336
+  },
+  {
+    "kind": "wall",
+    "tick": 14,
+    "shot": {
+      "x": 108,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 1
+    },
+    "range": 4,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 64,
+    "playerY": 160,
+    "cameraY": 14336
+  },
+  {
+    "kind": "wall",
+    "tick": 15,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 64,
+    "playerY": 160,
+    "cameraY": 14336
+  },
+  {
+    "kind": "wall",
+    "tick": 16,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 64,
+    "playerY": 160,
+    "cameraY": 14336
+  },
+  {
+    "kind": "wall",
+    "tick": 17,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 64,
+    "playerY": 160,
+    "cameraY": 14336
+  },
+  {
+    "kind": "wall",
+    "tick": 18,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 64,
+    "playerY": 160,
+    "cameraY": 14336
+  },
+  {
+    "kind": "wall",
+    "tick": 19,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 64,
+    "playerY": 160,
+    "cameraY": 14336
+  },
+  {
+    "kind": "wall",
+    "tick": 20,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 64,
+    "playerY": 160,
+    "cameraY": 14336
+  },
+  {
+    "kind": "wall",
+    "tick": 21,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 64,
+    "playerY": 160,
+    "cameraY": 14336
+  },
+  {
+    "kind": "wall",
+    "tick": 22,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 64,
+    "playerY": 160,
+    "cameraY": 14336
+  },
+  {
+    "kind": "wall",
+    "tick": 23,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 64,
+    "playerY": 160,
+    "cameraY": 14336
+  },
+  {
+    "kind": "wall",
+    "tick": 24,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 64,
+    "playerY": 160,
+    "cameraY": 14336
+  },
+  {
+    "kind": "wall",
+    "tick": 25,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 64,
+    "playerY": 160,
+    "cameraY": 14336
+  },
+  {
+    "kind": "wall",
+    "tick": 26,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 64,
+    "playerY": 160,
+    "cameraY": 14336
+  },
+  {
+    "kind": "wall",
+    "tick": 27,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 64,
+    "playerY": 160,
+    "cameraY": 14336
+  },
+  {
+    "kind": "wall",
+    "tick": 28,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 64,
+    "playerY": 160,
+    "cameraY": 14336
+  },
+  {
+    "kind": "wall",
+    "tick": 29,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 64,
+    "playerY": 160,
+    "cameraY": 14336
+  },
+  {
+    "kind": "wall",
+    "tick": 30,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 64,
+    "playerY": 160,
+    "cameraY": 14336
+  },
+  {
+    "kind": "wall",
+    "tick": 31,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 64,
+    "playerY": 160,
+    "cameraY": 14336
+  },
+  {
+    "kind": "wall",
+    "tick": 32,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 64,
+    "playerY": 160,
+    "cameraY": 14336
+  },
+  {
+    "kind": "wall",
+    "tick": 33,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 64,
+    "playerY": 160,
+    "cameraY": 14336
+  },
+  {
+    "kind": "wall",
+    "tick": 34,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 64,
+    "playerY": 160,
+    "cameraY": 14336
+  },
+  {
+    "kind": "wall",
+    "tick": 35,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 64,
+    "playerY": 160,
+    "cameraY": 14336
+  },
+  {
+    "kind": "wall",
+    "tick": 36,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 64,
+    "playerY": 160,
+    "cameraY": 14336
+  },
+  {
+    "kind": "wall",
+    "tick": 37,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 64,
+    "playerY": 160,
+    "cameraY": 14336
+  },
+  {
+    "kind": "wall",
+    "tick": 38,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 64,
+    "playerY": 160,
+    "cameraY": 14336
+  },
+  {
+    "kind": "wall",
+    "tick": 39,
+    "shot": {
+      "x": 104,
+      "y": 60,
+      "bob": "0x4a388",
+      "active": 0
+    },
+    "range": 0,
+    "death": 0,
+    "invulnerable": 0,
+    "playerActive": 255,
+    "playerX": 64,
+    "playerY": 160,
+    "cameraY": 14336
+  }
+]

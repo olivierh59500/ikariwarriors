@@ -1,0 +1,157 @@
+{
+  "sourceOnly": true,
+  "frames": [
+    {
+      "frame": 12514,
+      "sha256": "0c64d2f4b129dfde0cc560f3601f8af6e90a862e1dba6b43e12d559a59d57fde",
+      "score": 65500,
+      "camera": 342,
+      "finalActive": true,
+      "parts": [
+        {
+          "slot": 5,
+          "x": 80,
+          "y": 292,
+          "active": false,
+          "hit": false
+        },
+        {
+          "slot": 6,
+          "x": 112,
+          "y": 292,
+          "active": false,
+          "hit": false
+        },
+        {
+          "slot": 7,
+          "x": 144,
+          "y": 292,
+          "active": false,
+          "hit": false
+        },
+        {
+          "slot": 8,
+          "x": 80,
+          "y": 316,
+          "active": true,
+          "hit": false
+        },
+        {
+          "slot": 9,
+          "x": 112,
+          "y": 316,
+          "active": true,
+          "hit": false
+        },
+        {
+          "slot": 10,
+          "x": 144,
+          "y": 316,
+          "active": true,
+          "hit": false
+        },
+        {
+          "slot": 11,
+          "x": 80,
+          "y": 340,
+          "active": true,
+          "hit": false
+        },
+        {
+          "slot": 12,
+          "x": 112,
+          "y": 340,
+          "active": true,
+          "hit": false
+        },
+        {
+          "slot": 13,
+          "x": 144,
+          "y": 340,
+          "active": true,
+          "hit": false
+        }
+      ],
+      "shot": {
+        "x": 130,
+        "y": 372
+      }
+    },
+    {
+      "frame": 12515,
+      "sha256": "081c23372b1015a782ce2f79d525eb0dd3fc9ff034ad4742d716fbdb9d0df6d5",
+      "score": 65700,
+      "camera": 342,
+      "finalActive": false,
+      "parts": [
+        {
+          "slot": 5,
+          "x": 80,
+          "y": 292,
+          "active": false,
+          "hit": false
+        },
+        {
+          "slot": 6,
+          "x": 112,
+          "y": 292,
+          "active": false,
+          "hit": false
+        },
+        {
+          "slot": 7,
+          "x": 144,
+          "y": 292,
+          "active": false,
+          "hit": false
+        },
+        {
+          "slot": 8,
+          "x": 80,
+          "y": 316,
+          "active": false,
+          "hit": false
+        },
+        {
+          "slot": 9,
+          "x": 112,
+          "y": 316,
+          "active": false,
+          "hit": false
+        },
+        {
+          "slot": 10,
+          "x": 144,
+          "y": 316,
+          "active": false,
+          "hit": false
+        },
+        {
+          "slot": 11,
+          "x": 80,
+          "y": 340,
+          "active": false,
+          "hit": false
+        },
+        {
+          "slot": 12,
+          "x": 112,
+          "y": 339,
+          "active": false,
+          "hit": true
+        },
+        {
+          "slot": 13,
+          "x": 144,
+          "y": 339,
+          "active": false,
+          "hit": true
+        }
+      ],
+      "shot": {
+        "x": 134,
+        "y": 368
+      }
+    }
+  ]
+}

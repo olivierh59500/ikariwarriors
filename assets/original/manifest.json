@@ -1,0 +1,109 @@
+{
+  "disk_sha256": "4a3f0324b29be776d072618e01be262c743cafeabced7904e9a2725af6ea68f2",
+  "files": {
+    "palette.bin": {
+      "bytes": 32,
+      "sha256": "6dd3823d8948d433c7a4820f7900d406c9fc845c983d24a1541a70553fa7479c"
+    },
+    "font.bin": {
+      "bytes": 3000,
+      "sha256": "09a989aab1e616d3e4ad8ef0c90e9ed006718d4e8cf546776b7b60097426f933"
+    },
+    "tiles-primary.bin": {
+      "bytes": 40960,
+      "sha256": "15d147873063edf8a52857212cc6667e1084fe77dfc5b8362dcff0245c388958"
+    },
+    "bobs-primary.bin": {
+      "bytes": 10400,
+      "sha256": "c78e502a71c16abb9099dedc04568772c8c762a064271ba48e4fd7fb1dd2d54b"
+    },
+    "bobs-title-a.bin": {
+      "bytes": 14080,
+      "sha256": "92255037cf1cbe560d02de4ca6bb6fa0b98631de85f03a49dfa41e4bf953bc68"
+    },
+    "bobs-title-b.bin": {
+      "bytes": 6720,
+      "sha256": "6eba682b64416314d563d0f23832e9adf01725a93d747b174b004b81de82db49"
+    },
+    "bobs-enemies-a.bin": {
+      "bytes": 14080,
+      "sha256": "b05b32de1926cd5d58233c73f94862e4e2c440d641a519b5db09c6d69920c5cf"
+    },
+    "bobs-enemies-b.bin": {
+      "bytes": 7040,
+      "sha256": "952dbcf6ea9bfc5d5324476cee07adeb2f4b29f59e661c8d591b711b4db96b5e"
+    },
+    "bobs-enemies-c.bin": {
+      "bytes": 10240,
+      "sha256": "34fb994d8cf300dd9b4e73ae90420c59852f63a7e146d3b570c9627525512a1e"
+    },
+    "bobs-player2-vehicles.bin": {
+      "bytes": 7040,
+      "sha256": "029ce213b07ddeaf62c17d463f88118333026656846e50776508fe849c875ec8"
+    },
+    "audio-driver.bin": {
+      "bytes": 26130,
+      "sha256": "9c3bf15884f52565626c6ef17a8e862f62c0d6d3b79cd2b3c642978ff009d20d"
+    },
+    "tiles-secondary.bin": {
+      "bytes": 40960,
+      "sha256": "10e6f835a68060fdf3a83bdfdaf5ca331999d77727fdff9dd7ff0b5ae9e5d24d"
+    },
+    "level.bin": {
+      "bytes": 24388,
+      "sha256": "d54867fb279b654f3bbadb77158c5c4f0320469c707ba47f282a7320c3fe8aff"
+    },
+    "title.png": {
+      "bytes": 2627,
+      "sha256": "f886a70f44b9a9a59ff548f889d1cbf32a45ceebb8fda3a346476488058e257c"
+    },
+    "title-actors.png": {
+      "bytes": 723,
+      "sha256": "7406910942359c60914bc5480026a81702c0060a345e06da12ec090b5b2f7941"
+    },
+    "intro.png": {
+      "bytes": 7662,
+      "sha256": "870f6284d028839ad4535b0f0e0e5ad744906822f2769025ff3ad9c870ee6f64"
+    },
+    "bobs-tank-player1.bin": {
+      "bytes": 11520,
+      "sha256": "09025095d5a7068abf5902cdaa29c8c577297de587b99fb3de6c183c485da616"
+    },
+    "bobs-tank-player2.bin": {
+      "bytes": 11520,
+      "sha256": "9061fb7535fcd3e0a5d3d1bb4bac2ba571bd04e484e04e20081eed8e47acf030"
+    },
+    "bobs-tank-enemy.bin": {
+      "bytes": 11520,
+      "sha256": "bc3556f4081ba52b38d8ffcffe6764b714c691803961e8e2c4f4e297c3d8e651"
+    },
+    "level-codes.bin": {
+      "bytes": 12194,
+      "sha256": "fdaf8e1264e58219f946dcf4aaebe6ab43119b565fefb8cf738e1ce59fef6ccb"
+    },
+    "terrain-passable.bin": {
+      "bytes": 98,
+      "sha256": "2be02fc56f29b667bf1f87470b1b998ec0c4f03cf413bfb4a956197e640672b3"
+    },
+    "level-events.bin": {
+      "bytes": 1902,
+      "sha256": "de4ce39914dfb221b87628109c5d39ae569e7cf069675dcb63ccebc4bb62b7bc"
+    },
+    "bobs-complete.bin": {
+      "bytes": 158080,
+      "sha256": "5816ab13e78c42db8b1fb48f646d676ef2dc10f211f76cbfd2072af7ee87f525"
+    },
+    "terrain-passable-secondary.bin": {
+      "bytes": 98,
+      "sha256": "266aec34673c9377bd6423b4ca2f135752757b3139b6f73852d77475699751e9"
+    },
+    "bobs-mine.bin": {
+      "bytes": 160,
+      "sha256": "b393978842a0fa3d3e1470196f098f473f9678e72463cb65ec4ab5581856c2e4"
+    },
+    "composite-dimensions.bin": {
+      "bytes": 76,
+      "sha256": "c929c2ad935730e5551a2066a46dd37684ad6be3f941bfe72387c182183c5081"
+    }
+  }
+}

@@ -1,0 +1,522 @@
+[
+  {
+    "tick": 0,
+    "control": [
+      4,
+      0,
+      100,
+      1
+    ],
+    "objects": [
+      {
+        "slot": 65,
+        "x": 150,
+        "y": 50,
+        "bob": "0x4a888",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "tick": 1,
+    "control": [
+      4,
+      0,
+      96,
+      1
+    ],
+    "objects": [
+      {
+        "slot": 65,
+        "x": 154,
+        "y": 50,
+        "bob": "0x4a888",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "tick": 2,
+    "control": [
+      4,
+      0,
+      92,
+      1
+    ],
+    "objects": [
+      {
+        "slot": 65,
+        "x": 158,
+        "y": 50,
+        "bob": "0x4a888",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "tick": 3,
+    "control": [
+      4,
+      0,
+      88,
+      1
+    ],
+    "objects": [
+      {
+        "slot": 65,
+        "x": 162,
+        "y": 50,
+        "bob": "0x4a888",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "tick": 4,
+    "control": [
+      4,
+      0,
+      84,
+      1
+    ],
+    "objects": [
+      {
+        "slot": 65,
+        "x": 166,
+        "y": 50,
+        "bob": "0x4a888",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "tick": 5,
+    "control": [
+      4,
+      0,
+      80,
+      1
+    ],
+    "objects": [
+      {
+        "slot": 65,
+        "x": 170,
+        "y": 50,
+        "bob": "0x4a888",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "tick": 6,
+    "control": [
+      4,
+      0,
+      76,
+      1
+    ],
+    "objects": [
+      {
+        "slot": 65,
+        "x": 174,
+        "y": 50,
+        "bob": "0x4a888",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "tick": 7,
+    "control": [
+      4,
+      0,
+      72,
+      1
+    ],
+    "objects": [
+      {
+        "slot": 65,
+        "x": 178,
+        "y": 50,
+        "bob": "0x4a888",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "tick": 8,
+    "control": [
+      4,
+      0,
+      68,
+      1
+    ],
+    "objects": [
+      {
+        "slot": 65,
+        "x": 182,
+        "y": 50,
+        "bob": "0x4a888",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "tick": 9,
+    "control": [
+      4,
+      0,
+      64,
+      1
+    ],
+    "objects": [
+      {
+        "slot": 65,
+        "x": 186,
+        "y": 50,
+        "bob": "0x4a888",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "tick": 10,
+    "control": [
+      4,
+      0,
+      60,
+      1
+    ],
+    "objects": [
+      {
+        "slot": 65,
+        "x": 190,
+        "y": 50,
+        "bob": "0x4a888",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "tick": 11,
+    "control": [
+      4,
+      0,
+      56,
+      1
+    ],
+    "objects": [
+      {
+        "slot": 65,
+        "x": 194,
+        "y": 50,
+        "bob": "0x4a888",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "tick": 12,
+    "control": [
+      4,
+      0,
+      52,
+      1
+    ],
+    "objects": [
+      {
+        "slot": 65,
+        "x": 198,
+        "y": 50,
+        "bob": "0x4a888",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "tick": 13,
+    "control": [
+      4,
+      0,
+      48,
+      1
+    ],
+    "objects": [
+      {
+        "slot": 65,
+        "x": 202,
+        "y": 50,
+        "bob": "0x4a888",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "tick": 14,
+    "control": [
+      4,
+      0,
+      44,
+      1
+    ],
+    "objects": [
+      {
+        "slot": 65,
+        "x": 206,
+        "y": 50,
+        "bob": "0x4a888",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "tick": 15,
+    "control": [
+      4,
+      0,
+      40,
+      1
+    ],
+    "objects": [
+      {
+        "slot": 65,
+        "x": 210,
+        "y": 50,
+        "bob": "0x4a888",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "tick": 16,
+    "control": [
+      4,
+      0,
+      36,
+      1
+    ],
+    "objects": [
+      {
+        "slot": 65,
+        "x": 214,
+        "y": 50,
+        "bob": "0x4a888",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "tick": 17,
+    "control": [
+      4,
+      0,
+      32,
+      1
+    ],
+    "objects": [
+      {
+        "slot": 65,
+        "x": 218,
+        "y": 50,
+        "bob": "0x4a888",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "tick": 18,
+    "control": [
+      4,
+      0,
+      28,
+      1
+    ],
+    "objects": [
+      {
+        "slot": 65,
+        "x": 222,
+        "y": 50,
+        "bob": "0x4a888",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "tick": 19,
+    "control": [
+      4,
+      0,
+      24,
+      1
+    ],
+    "objects": [
+      {
+        "slot": 65,
+        "x": 226,
+        "y": 50,
+        "bob": "0x4a888",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "tick": 20,
+    "control": [
+      4,
+      0,
+      20,
+      1
+    ],
+    "objects": [
+      {
+        "slot": 65,
+        "x": 230,
+        "y": 50,
+        "bob": "0x4a888",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "tick": 21,
+    "control": [
+      4,
+      0,
+      16,
+      1
+    ],
+    "objects": [
+      {
+        "slot": 65,
+        "x": 234,
+        "y": 50,
+        "bob": "0x4a888",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "tick": 22,
+    "control": [
+      4,
+      0,
+      12,
+      1
+    ],
+    "objects": [
+      {
+        "slot": 65,
+        "x": 238,
+        "y": 50,
+        "bob": "0x4a888",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "tick": 23,
+    "control": [
+      4,
+      0,
+      8,
+      1
+    ],
+    "objects": [
+      {
+        "slot": 65,
+        "x": 242,
+        "y": 50,
+        "bob": "0x4a888",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "tick": 24,
+    "control": [
+      4,
+      0,
+      4,
+      1
+    ],
+    "objects": [
+      {
+        "slot": 65,
+        "x": 246,
+        "y": 50,
+        "bob": "0x4a888",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  },
+  {
+    "tick": 25,
+    "control": [
+      4,
+      0,
+      0,
+      1
+    ],
+    "objects": [
+      {
+        "slot": 65,
+        "x": 250,
+        "y": 50,
+        "bob": "0x4a888",
+        "active": 0,
+        "step": 0,
+        "delay": 0
+      }
+    ]
+  }
+]

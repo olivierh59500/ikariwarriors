@@ -1,0 +1,167 @@
+{
+  "sourceOnly": true,
+  "bands": [
+    {
+      "start": 11658,
+      "rawX": 216,
+      "muzzleProgress": 11678,
+      "direction": -1
+    },
+    {
+      "start": 11734,
+      "rawX": 104,
+      "muzzleProgress": 11758,
+      "direction": 1
+    },
+    {
+      "start": 11816,
+      "rawX": 104,
+      "muzzleProgress": 11838,
+      "direction": 1
+    },
+    {
+      "start": 11896,
+      "rawX": 216,
+      "muzzleProgress": 11920,
+      "direction": -1
+    }
+  ],
+  "births": [
+    {
+      "band": 2,
+      "frame": 10329,
+      "sourceSHA256": "0f9bf5d777a7e8ad1bd9860504a5ec545531f381208ec63c5623c4dd3f01693c",
+      "progress": 11818,
+      "randomWord": 1972628296,
+      "shot": {
+        "slot": 0,
+        "x": 48,
+        "y": 3170,
+        "vx": 4,
+        "vy": 0,
+        "range": 112,
+        "image": 304008
+      }
+    },
+    {
+      "band": 2,
+      "frame": 10336,
+      "sourceSHA256": "f97fc6b73299d096d97f2a5892d60d5f1524de59d940c6e11e4565477edb171c",
+      "progress": 11818,
+      "randomWord": 156472984,
+      "shot": {
+        "slot": 1,
+        "x": 48,
+        "y": 3170,
+        "vx": 4,
+        "vy": 0,
+        "range": 112,
+        "image": 304008
+      }
+    },
+    {
+      "band": 2,
+      "frame": 10341,
+      "sourceSHA256": "fff61f4281b41ca3a0f1fe1e38ba9af08c24d2e1f9c871b042b4be704795f799",
+      "progress": 11818,
+      "randomWord": 2109798336,
+      "shot": {
+        "slot": 2,
+        "x": 48,
+        "y": 3170,
+        "vx": 4,
+        "vy": 0,
+        "range": 112,
+        "image": 304008
+      }
+    },
+    {
+      "band": 2,
+      "frame": 10353,
+      "sourceSHA256": "2aeceb337899a3b94c83c6b714273c23f7ac0f04f97e17cd6502bbc5638292bf",
+      "progress": 11818,
+      "randomWord": 3857772744,
+      "shot": {
+        "slot": 3,
+        "x": 48,
+        "y": 3170,
+        "vx": 4,
+        "vy": 0,
+        "range": 112,
+        "image": 304008
+      }
+    },
+    {
+      "band": 2,
+      "frame": 10365,
+      "sourceSHA256": "5ec24e980dde470fe46e83984235d676dca67e4c82821696d301e327f652b925",
+      "progress": 11828,
+      "randomWord": 3976659408,
+      "shot": {
+        "slot": 0,
+        "x": 48,
+        "y": 3170,
+        "vx": 4,
+        "vy": 0,
+        "range": 112,
+        "image": 304008
+      }
+    },
+    {
+      "band": 2,
+      "frame": 10382,
+      "sourceSHA256": "1adcf66a99891420616532cc9ce7d5e5f984767134996c31f044ec155c2b72a5",
+      "progress": 11828,
+      "randomWord": 1970597208,
+      "shot": {
+        "slot": 1,
+        "x": 48,
+        "y": 3170,
+        "vx": 4,
+        "vy": 0,
+        "range": 112,
+        "image": 304008
+      }
+    },
+    {
+      "band": 2,
+      "frame": 10383,
+      "sourceSHA256": "3e6587a18993eefb20eb0b63697e45eb133d0f343fbf312bfd26e3ed33440292",
+      "progress": 11828,
+      "randomWord": 642661376,
+      "shot": {
+        "slot": 2,
+        "x": 48,
+        "y": 3170,
+        "vx": 4,
+        "vy": 0,
+        "range": 112,
+        "image": 304008
+      }
+    },
+    {
+      "band": 2,
+      "frame": 10386,
+      "sourceSHA256": "d00099a4d87db8aca7001f362562d589824c3c45a0855c21f5172fe2d5617a2d",
+      "progress": 11828,
+      "randomWord": 2188331264,
+      "shot": {
+        "slot": 3,
+        "x": 48,
+        "y": 3170,
+        "vx": 4,
+        "vy": 0,
+        "range": 112,
+        "image": 304008
+      }
+    }
+  ],
+  "observedGateCalls": 147,
+  "observedGateCallsByBand": [
+    15,
+    25,
+    76,
+    31
+  ],
+  "scope": "All four original bands and147actual gate calls;8actual births occurred only in the third band under these recorded random returns."
+}

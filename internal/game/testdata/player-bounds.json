@@ -1,0 +1,66 @@
+[
+  {
+    "player": 0,
+    "startRawX": 63,
+    "direction": -1,
+    "resultRawX": 61,
+    "rawY": 82,
+    "progress": 578
+  },
+  {
+    "player": 0,
+    "startRawX": 241,
+    "direction": 1,
+    "resultRawX": 243,
+    "rawY": 82,
+    "progress": 578
+  },
+  {
+    "player": 0,
+    "startRawX": 242,
+    "direction": 1,
+    "resultRawX": 242,
+    "rawY": 82,
+    "progress": 578
+  },
+  {
+    "player": 0,
+    "startRawX": 260,
+    "direction": -1,
+    "resultRawX": 258,
+    "rawY": 82,
+    "progress": 578
+  },
+  {
+    "player": 0,
+    "startRawX": 260,
+    "direction": 1,
+    "resultRawX": 260,
+    "rawY": 82,
+    "progress": 578
+  },
+  {
+    "player": 1,
+    "startRawX": 63,
+    "direction": -1,
+    "resultRawX": 61,
+    "rawY": 82,
+    "progress": 578
+  },
+  {
+    "player": 1,
+    "startRawX": 239,
+    "direction": 1,
+    "resultRawX": 241,
+    "rawY": 82,
+    "progress": 578
+  },
+  {
+    "player": 1,
+    "startRawX": 240,
+    "direction": 1,
+    "resultRawX": 240,
+    "rawY": 82,
+    "progress": 578
+  }
+]

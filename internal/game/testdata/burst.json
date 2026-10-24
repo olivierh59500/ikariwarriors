@@ -1,0 +1,498 @@
+[
+  {
+    "tick": 0,
+    "parts": [
+      {
+        "slot": 49,
+        "x": 150,
+        "y": 50,
+        "bob": "0x4bf08",
+        "active": 1
+      },
+      {
+        "slot": 50,
+        "x": 150,
+        "y": 50,
+        "bob": "0x4bc88",
+        "active": 1
+      },
+      {
+        "slot": 51,
+        "x": 150,
+        "y": 50,
+        "bob": "0x4bfa8",
+        "active": 1
+      },
+      {
+        "slot": 52,
+        "x": 150,
+        "y": 50,
+        "bob": "0x4bdc8",
+        "active": 1
+      },
+      {
+        "slot": 53,
+        "x": 150,
+        "y": 50,
+        "bob": "0x4be68",
+        "active": 1
+      },
+      {
+        "slot": 54,
+        "x": 150,
+        "y": 50,
+        "bob": "0x4c048",
+        "active": 1
+      },
+      {
+        "slot": 55,
+        "x": 150,
+        "y": 50,
+        "bob": "0x4bd28",
+        "active": 1
+      },
+      {
+        "slot": 56,
+        "x": 150,
+        "y": 50,
+        "bob": "0x4c0e8",
+        "active": 1
+      }
+    ],
+    "remaining": 6
+  },
+  {
+    "tick": 1,
+    "parts": [
+      {
+        "slot": 49,
+        "x": 142,
+        "y": 42,
+        "bob": "0x4bf08",
+        "active": 1
+      },
+      {
+        "slot": 50,
+        "x": 150,
+        "y": 42,
+        "bob": "0x4bc88",
+        "active": 1
+      },
+      {
+        "slot": 51,
+        "x": 158,
+        "y": 42,
+        "bob": "0x4bfa8",
+        "active": 1
+      },
+      {
+        "slot": 52,
+        "x": 142,
+        "y": 50,
+        "bob": "0x4bdc8",
+        "active": 1
+      },
+      {
+        "slot": 53,
+        "x": 158,
+        "y": 50,
+        "bob": "0x4be68",
+        "active": 1
+      },
+      {
+        "slot": 54,
+        "x": 142,
+        "y": 58,
+        "bob": "0x4c048",
+        "active": 1
+      },
+      {
+        "slot": 55,
+        "x": 150,
+        "y": 58,
+        "bob": "0x4bd28",
+        "active": 1
+      },
+      {
+        "slot": 56,
+        "x": 158,
+        "y": 58,
+        "bob": "0x4c0e8",
+        "active": 1
+      }
+    ],
+    "remaining": 5
+  },
+  {
+    "tick": 2,
+    "parts": [
+      {
+        "slot": 49,
+        "x": 134,
+        "y": 34,
+        "bob": "0x4bf08",
+        "active": 1
+      },
+      {
+        "slot": 50,
+        "x": 150,
+        "y": 34,
+        "bob": "0x4bc88",
+        "active": 1
+      },
+      {
+        "slot": 51,
+        "x": 166,
+        "y": 34,
+        "bob": "0x4bfa8",
+        "active": 1
+      },
+      {
+        "slot": 52,
+        "x": 134,
+        "y": 50,
+        "bob": "0x4bdc8",
+        "active": 1
+      },
+      {
+        "slot": 53,
+        "x": 166,
+        "y": 50,
+        "bob": "0x4be68",
+        "active": 1
+      },
+      {
+        "slot": 54,
+        "x": 134,
+        "y": 66,
+        "bob": "0x4c048",
+        "active": 1
+      },
+      {
+        "slot": 55,
+        "x": 150,
+        "y": 66,
+        "bob": "0x4bd28",
+        "active": 1
+      },
+      {
+        "slot": 56,
+        "x": 166,
+        "y": 66,
+        "bob": "0x4c0e8",
+        "active": 1
+      }
+    ],
+    "remaining": 4
+  },
+  {
+    "tick": 3,
+    "parts": [
+      {
+        "slot": 49,
+        "x": 126,
+        "y": 26,
+        "bob": "0x4bf08",
+        "active": 1
+      },
+      {
+        "slot": 50,
+        "x": 150,
+        "y": 26,
+        "bob": "0x4bc88",
+        "active": 1
+      },
+      {
+        "slot": 51,
+        "x": 174,
+        "y": 26,
+        "bob": "0x4bfa8",
+        "active": 1
+      },
+      {
+        "slot": 52,
+        "x": 126,
+        "y": 50,
+        "bob": "0x4bdc8",
+        "active": 1
+      },
+      {
+        "slot": 53,
+        "x": 174,
+        "y": 50,
+        "bob": "0x4be68",
+        "active": 1
+      },
+      {
+        "slot": 54,
+        "x": 126,
+        "y": 74,
+        "bob": "0x4c048",
+        "active": 1
+      },
+      {
+        "slot": 55,
+        "x": 150,
+        "y": 74,
+        "bob": "0x4bd28",
+        "active": 1
+      },
+      {
+        "slot": 56,
+        "x": 174,
+        "y": 74,
+        "bob": "0x4c0e8",
+        "active": 1
+      }
+    ],
+    "remaining": 3
+  },
+  {
+    "tick": 4,
+    "parts": [
+      {
+        "slot": 49,
+        "x": 118,
+        "y": 18,
+        "bob": "0x4bf08",
+        "active": 1
+      },
+      {
+        "slot": 50,
+        "x": 150,
+        "y": 18,
+        "bob": "0x4bc88",
+        "active": 1
+      },
+      {
+        "slot": 51,
+        "x": 182,
+        "y": 18,
+        "bob": "0x4bfa8",
+        "active": 1
+      },
+      {
+        "slot": 52,
+        "x": 118,
+        "y": 50,
+        "bob": "0x4bdc8",
+        "active": 1
+      },
+      {
+        "slot": 53,
+        "x": 182,
+        "y": 50,
+        "bob": "0x4be68",
+        "active": 1
+      },
+      {
+        "slot": 54,
+        "x": 118,
+        "y": 82,
+        "bob": "0x4c048",
+        "active": 1
+      },
+      {
+        "slot": 55,
+        "x": 150,
+        "y": 82,
+        "bob": "0x4bd28",
+        "active": 1
+      },
+      {
+        "slot": 56,
+        "x": 182,
+        "y": 82,
+        "bob": "0x4c0e8",
+        "active": 1
+      }
+    ],
+    "remaining": 2
+  },
+  {
+    "tick": 5,
+    "parts": [
+      {
+        "slot": 49,
+        "x": 110,
+        "y": 10,
+        "bob": "0x4bf08",
+        "active": 1
+      },
+      {
+        "slot": 50,
+        "x": 150,
+        "y": 10,
+        "bob": "0x4bc88",
+        "active": 1
+      },
+      {
+        "slot": 51,
+        "x": 190,
+        "y": 10,
+        "bob": "0x4bfa8",
+        "active": 1
+      },
+      {
+        "slot": 52,
+        "x": 110,
+        "y": 50,
+        "bob": "0x4bdc8",
+        "active": 1
+      },
+      {
+        "slot": 53,
+        "x": 190,
+        "y": 50,
+        "bob": "0x4be68",
+        "active": 1
+      },
+      {
+        "slot": 54,
+        "x": 110,
+        "y": 90,
+        "bob": "0x4c048",
+        "active": 1
+      },
+      {
+        "slot": 55,
+        "x": 150,
+        "y": 90,
+        "bob": "0x4bd28",
+        "active": 1
+      },
+      {
+        "slot": 56,
+        "x": 190,
+        "y": 90,
+        "bob": "0x4c0e8",
+        "active": 1
+      }
+    ],
+    "remaining": 1
+  },
+  {
+    "tick": 6,
+    "parts": [
+      {
+        "slot": 49,
+        "x": 102,
+        "y": 2,
+        "bob": "0x4bf08",
+        "active": 1
+      },
+      {
+        "slot": 50,
+        "x": 150,
+        "y": 2,
+        "bob": "0x4bc88",
+        "active": 1
+      },
+      {
+        "slot": 51,
+        "x": 198,
+        "y": 2,
+        "bob": "0x4bfa8",
+        "active": 1
+      },
+      {
+        "slot": 52,
+        "x": 102,
+        "y": 50,
+        "bob": "0x4bdc8",
+        "active": 1
+      },
+      {
+        "slot": 53,
+        "x": 198,
+        "y": 50,
+        "bob": "0x4be68",
+        "active": 1
+      },
+      {
+        "slot": 54,
+        "x": 102,
+        "y": 98,
+        "bob": "0x4c048",
+        "active": 1
+      },
+      {
+        "slot": 55,
+        "x": 150,
+        "y": 98,
+        "bob": "0x4bd28",
+        "active": 1
+      },
+      {
+        "slot": 56,
+        "x": 198,
+        "y": 98,
+        "bob": "0x4c0e8",
+        "active": 1
+      }
+    ],
+    "remaining": 0
+  },
+  {
+    "tick": 7,
+    "parts": [
+      {
+        "slot": 49,
+        "x": 102,
+        "y": 2,
+        "bob": "0x4bf08",
+        "active": 0
+      },
+      {
+        "slot": 50,
+        "x": 150,
+        "y": 2,
+        "bob": "0x4bc88",
+        "active": 0
+      },
+      {
+        "slot": 51,
+        "x": 198,
+        "y": 2,
+        "bob": "0x4bfa8",
+        "active": 0
+      },
+      {
+        "slot": 52,
+        "x": 102,
+        "y": 50,
+        "bob": "0x4bdc8",
+        "active": 0
+      },
+      {
+        "slot": 53,
+        "x": 198,
+        "y": 50,
+        "bob": "0x4be68",
+        "active": 0
+      },
+      {
+        "slot": 54,
+        "x": 102,
+        "y": 98,
+        "bob": "0x4c048",
+        "active": 0
+      },
+      {
+        "slot": 55,
+        "x": 150,
+        "y": 98,
+        "bob": "0x4bd28",
+        "active": 0
+      },
+      {
+        "slot": 56,
+        "x": 198,
+        "y": 98,
+        "bob": "0x4c0e8",
+        "active": 0
+      }
+    ],
+    "remaining": 0
+  }
+]

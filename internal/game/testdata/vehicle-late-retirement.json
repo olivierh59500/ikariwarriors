@@ -1,0 +1,136 @@
+{
+  "sourceOnly": true,
+  "frames": [
+    {
+      "frame": 994,
+      "sha256": "3b5487e1f505a429436980965779c36da43b3453af414b948d832727aed5b86a",
+      "camera": 13304,
+      "controller": [
+        1,
+        0,
+        25,
+        1
+      ],
+      "parts": [
+        {
+          "slot": 26,
+          "rawX": 114,
+          "rawY": 250,
+          "active": 0
+        },
+        {
+          "slot": 27,
+          "rawX": 118,
+          "rawY": 258,
+          "active": 0
+        },
+        {
+          "slot": 28,
+          "rawX": 114,
+          "rawY": 250,
+          "active": 0
+        }
+      ],
+      "cannonPointer": 0
+    },
+    {
+      "frame": 995,
+      "sha256": "53de7c9af3cdbdb4d4eefc4e9f7ea2b9d7c69cd8b249a7f74593590f47bb0cd2",
+      "camera": 13302,
+      "controller": [
+        0,
+        0,
+        26,
+        1
+      ],
+      "parts": [
+        {
+          "slot": 26,
+          "rawX": 116,
+          "rawY": 252,
+          "active": 0
+        },
+        {
+          "slot": 27,
+          "rawX": 120,
+          "rawY": 260,
+          "active": 0
+        },
+        {
+          "slot": 28,
+          "rawX": 116,
+          "rawY": 252,
+          "active": 0
+        }
+      ],
+      "cannonPointer": 0
+    },
+    {
+      "frame": 996,
+      "sha256": "16419a9b7788fc2607f7ad1d60c8b8b735154970872a196c364748f394453c53",
+      "camera": 13300,
+      "controller": [
+        0,
+        0,
+        26,
+        1
+      ],
+      "parts": [
+        {
+          "slot": 26,
+          "rawX": 116,
+          "rawY": 254,
+          "active": 0
+        },
+        {
+          "slot": 27,
+          "rawX": 120,
+          "rawY": 262,
+          "active": 0
+        },
+        {
+          "slot": 28,
+          "rawX": 116,
+          "rawY": 254,
+          "active": 0
+        }
+      ],
+      "cannonPointer": 0
+    },
+    {
+      "frame": 997,
+      "sha256": "ad4596473596ce57017a0d30fc63e6337d87c77910baba889cdfd3cc03aea601",
+      "camera": 13298,
+      "controller": [
+        0,
+        0,
+        26,
+        1
+      ],
+      "parts": [
+        {
+          "slot": 26,
+          "rawX": 116,
+          "rawY": 256,
+          "active": 0
+        },
+        {
+          "slot": 27,
+          "rawX": 120,
+          "rawY": 264,
+          "active": 0
+        },
+        {
+          "slot": 28,
+          "rawX": 116,
+          "rawY": 256,
+          "active": 0
+        }
+      ],
+      "cannonPointer": 0
+    }
+  ],
+  "sourceMovement": "9A1E active gate;9A5C-9A68 reactivate three parts;9B38-9B40 stop controller only for raw chassisY>250.",
+  "sourceFire": "91E6-921A test boss/helicopter/cannon ownership gates and active turret; target/chance RNG only after available projectile slot.",
+  "sourcePaint": "Late wide-object bounds retire each BOB after gameplay; entered movement restores them until controller stops."
+}

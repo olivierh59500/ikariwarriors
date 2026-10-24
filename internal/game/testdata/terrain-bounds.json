@@ -1,0 +1,56 @@
+[
+  {
+    "rawX": -10,
+    "worldX": -58,
+    "worldY": 14414,
+    "code": 0
+  },
+  {
+    "rawX": 0,
+    "worldX": -48,
+    "worldY": 14414,
+    "code": 0
+  },
+  {
+    "rawX": 47,
+    "worldX": -1,
+    "worldY": 14414,
+    "code": 0
+  },
+  {
+    "rawX": 48,
+    "worldX": 0,
+    "worldY": 14414,
+    "code": 16
+  },
+  {
+    "rawX": 62,
+    "worldX": 14,
+    "worldY": 14414,
+    "code": 16
+  },
+  {
+    "rawX": 250,
+    "worldX": 202,
+    "worldY": 14414,
+    "code": 28
+  },
+  {
+    "rawX": 251,
+    "worldX": 203,
+    "worldY": 14414,
+    "code": 0
+  },
+  {
+    "rawX": 256,
+    "worldX": 208,
+    "worldY": 14414,
+    "code": 0
+  },
+  {
+    "rawX": 320,
+    "worldX": 272,
+    "worldY": 14414,
+    "code": 0
+  }
+]

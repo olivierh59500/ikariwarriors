@@ -1,0 +1,814 @@
+[
+  {
+    "tick": 0,
+    "active": 1,
+    "phase": 0,
+    "delay": 0,
+    "actors": [
+      {
+        "slot": 0,
+        "x": 128,
+        "y": 20,
+        "bob": "0x63b08",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 1,
+        "x": 160,
+        "y": 20,
+        "bob": "0x63ce8",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 2,
+        "x": 192,
+        "y": 20,
+        "bob": "0x63ec8",
+        "active": 1,
+        "step": 1,
+        "delay": 0
+      },
+      {
+        "slot": 3,
+        "x": 128,
+        "y": 44,
+        "bob": "0x640a8",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 4,
+        "x": 160,
+        "y": 44,
+        "bob": "0x64288",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 5,
+        "x": 192,
+        "y": 44,
+        "bob": "0x64468",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 6,
+        "x": 128,
+        "y": 68,
+        "bob": "0x64648",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 7,
+        "x": 160,
+        "y": 68,
+        "bob": "0x64828",
+        "active": 1,
+        "step": 3,
+        "delay": 1
+      },
+      {
+        "slot": 8,
+        "x": 192,
+        "y": 68,
+        "bob": "0x64a08",
+        "active": 1,
+        "step": 3,
+        "delay": 0
+      },
+      {
+        "slot": 9,
+        "x": 128,
+        "y": 92,
+        "bob": "0x64be8",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 10,
+        "x": 160,
+        "y": 92,
+        "bob": "0x64dc8",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 11,
+        "x": 192,
+        "y": 92,
+        "bob": "0x64fa8",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      }
+    ]
+  },
+  {
+    "tick": 1,
+    "active": 1,
+    "phase": 0,
+    "delay": 1,
+    "actors": [
+      {
+        "slot": 0,
+        "x": 128,
+        "y": 20,
+        "bob": "0x63b08",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 1,
+        "x": 160,
+        "y": 20,
+        "bob": "0x63ce8",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 2,
+        "x": 192,
+        "y": 20,
+        "bob": "0x63ec8",
+        "active": 1,
+        "step": 1,
+        "delay": 0
+      },
+      {
+        "slot": 3,
+        "x": 128,
+        "y": 44,
+        "bob": "0x640a8",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 4,
+        "x": 160,
+        "y": 44,
+        "bob": "0x64288",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 5,
+        "x": 192,
+        "y": 44,
+        "bob": "0x64468",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 6,
+        "x": 128,
+        "y": 68,
+        "bob": "0x64648",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 7,
+        "x": 160,
+        "y": 68,
+        "bob": "0x64828",
+        "active": 1,
+        "step": 3,
+        "delay": 1
+      },
+      {
+        "slot": 8,
+        "x": 192,
+        "y": 68,
+        "bob": "0x64a08",
+        "active": 1,
+        "step": 3,
+        "delay": 0
+      },
+      {
+        "slot": 9,
+        "x": 128,
+        "y": 92,
+        "bob": "0x64be8",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 10,
+        "x": 160,
+        "y": 92,
+        "bob": "0x64dc8",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 11,
+        "x": 192,
+        "y": 92,
+        "bob": "0x64fa8",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      }
+    ]
+  },
+  {
+    "tick": 2,
+    "active": 1,
+    "phase": 255,
+    "delay": 0,
+    "actors": [
+      {
+        "slot": 0,
+        "x": 128,
+        "y": 20,
+        "bob": "0x63b08",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 1,
+        "x": 160,
+        "y": 20,
+        "bob": "0x63ce8",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 2,
+        "x": 192,
+        "y": 20,
+        "bob": "0x63ec8",
+        "active": 1,
+        "step": 1,
+        "delay": 0
+      },
+      {
+        "slot": 3,
+        "x": 128,
+        "y": 44,
+        "bob": "0x640a8",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 4,
+        "x": 160,
+        "y": 44,
+        "bob": "0x65188",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 5,
+        "x": 192,
+        "y": 44,
+        "bob": "0x65368",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 6,
+        "x": 128,
+        "y": 68,
+        "bob": "0x65548",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 7,
+        "x": 160,
+        "y": 68,
+        "bob": "0x65728",
+        "active": 1,
+        "step": 3,
+        "delay": 1
+      },
+      {
+        "slot": 8,
+        "x": 192,
+        "y": 68,
+        "bob": "0x65908",
+        "active": 1,
+        "step": 3,
+        "delay": 0
+      },
+      {
+        "slot": 9,
+        "x": 128,
+        "y": 92,
+        "bob": "0x65ae8",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 10,
+        "x": 160,
+        "y": 92,
+        "bob": "0x65cc8",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 11,
+        "x": 192,
+        "y": 92,
+        "bob": "0x64fa8",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      }
+    ]
+  },
+  {
+    "tick": 3,
+    "active": 1,
+    "phase": 255,
+    "delay": 1,
+    "actors": [
+      {
+        "slot": 0,
+        "x": 128,
+        "y": 20,
+        "bob": "0x63b08",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 1,
+        "x": 160,
+        "y": 20,
+        "bob": "0x63ce8",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 2,
+        "x": 192,
+        "y": 20,
+        "bob": "0x63ec8",
+        "active": 1,
+        "step": 1,
+        "delay": 0
+      },
+      {
+        "slot": 3,
+        "x": 128,
+        "y": 44,
+        "bob": "0x640a8",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 4,
+        "x": 160,
+        "y": 44,
+        "bob": "0x65188",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 5,
+        "x": 192,
+        "y": 44,
+        "bob": "0x65368",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 6,
+        "x": 128,
+        "y": 68,
+        "bob": "0x65548",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 7,
+        "x": 160,
+        "y": 68,
+        "bob": "0x65728",
+        "active": 1,
+        "step": 3,
+        "delay": 1
+      },
+      {
+        "slot": 8,
+        "x": 192,
+        "y": 68,
+        "bob": "0x65908",
+        "active": 1,
+        "step": 3,
+        "delay": 0
+      },
+      {
+        "slot": 9,
+        "x": 128,
+        "y": 92,
+        "bob": "0x65ae8",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 10,
+        "x": 160,
+        "y": 92,
+        "bob": "0x65cc8",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 11,
+        "x": 192,
+        "y": 92,
+        "bob": "0x64fa8",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      }
+    ]
+  },
+  {
+    "tick": 4,
+    "active": 1,
+    "phase": 0,
+    "delay": 0,
+    "actors": [
+      {
+        "slot": 0,
+        "x": 128,
+        "y": 20,
+        "bob": "0x63b08",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 1,
+        "x": 160,
+        "y": 20,
+        "bob": "0x63ce8",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 2,
+        "x": 192,
+        "y": 20,
+        "bob": "0x63ec8",
+        "active": 1,
+        "step": 1,
+        "delay": 0
+      },
+      {
+        "slot": 3,
+        "x": 128,
+        "y": 44,
+        "bob": "0x640a8",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 4,
+        "x": 160,
+        "y": 44,
+        "bob": "0x64288",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 5,
+        "x": 192,
+        "y": 44,
+        "bob": "0x64468",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 6,
+        "x": 128,
+        "y": 68,
+        "bob": "0x64648",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 7,
+        "x": 160,
+        "y": 68,
+        "bob": "0x64828",
+        "active": 1,
+        "step": 3,
+        "delay": 1
+      },
+      {
+        "slot": 8,
+        "x": 192,
+        "y": 68,
+        "bob": "0x64a08",
+        "active": 1,
+        "step": 3,
+        "delay": 0
+      },
+      {
+        "slot": 9,
+        "x": 128,
+        "y": 92,
+        "bob": "0x64be8",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 10,
+        "x": 160,
+        "y": 92,
+        "bob": "0x64dc8",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 11,
+        "x": 192,
+        "y": 92,
+        "bob": "0x64fa8",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      }
+    ]
+  },
+  {
+    "tick": 5,
+    "active": 1,
+    "phase": 0,
+    "delay": 1,
+    "actors": [
+      {
+        "slot": 0,
+        "x": 128,
+        "y": 20,
+        "bob": "0x63b08",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 1,
+        "x": 160,
+        "y": 20,
+        "bob": "0x63ce8",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 2,
+        "x": 192,
+        "y": 20,
+        "bob": "0x63ec8",
+        "active": 1,
+        "step": 1,
+        "delay": 0
+      },
+      {
+        "slot": 3,
+        "x": 128,
+        "y": 44,
+        "bob": "0x640a8",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 4,
+        "x": 160,
+        "y": 44,
+        "bob": "0x64288",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 5,
+        "x": 192,
+        "y": 44,
+        "bob": "0x64468",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 6,
+        "x": 128,
+        "y": 68,
+        "bob": "0x64648",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 7,
+        "x": 160,
+        "y": 68,
+        "bob": "0x64828",
+        "active": 1,
+        "step": 3,
+        "delay": 1
+      },
+      {
+        "slot": 8,
+        "x": 192,
+        "y": 68,
+        "bob": "0x64a08",
+        "active": 1,
+        "step": 3,
+        "delay": 0
+      },
+      {
+        "slot": 9,
+        "x": 128,
+        "y": 92,
+        "bob": "0x64be8",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 10,
+        "x": 160,
+        "y": 92,
+        "bob": "0x64dc8",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 11,
+        "x": 192,
+        "y": 92,
+        "bob": "0x64fa8",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      }
+    ]
+  },
+  {
+    "tick": 6,
+    "active": 1,
+    "phase": 255,
+    "delay": 0,
+    "actors": [
+      {
+        "slot": 0,
+        "x": 128,
+        "y": 20,
+        "bob": "0x63b08",
+        "active": 1,
+        "step": 0,
+        "delay": 0
+      },
+      {
+        "slot": 1,
+        "x": 160,
+        "y": 20,
+        "bob": "0x63ce8",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 2,
+        "x": 192,
+        "y": 20,
+        "bob": "0x63ec8",
+        "active": 1,
+        "step": 1,
+        "delay": 0
+      },
+      {
+        "slot": 3,
+        "x": 128,
+        "y": 44,
+        "bob": "0x640a8",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 4,
+        "x": 160,
+        "y": 44,
+        "bob": "0x65188",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 5,
+        "x": 192,
+        "y": 44,
+        "bob": "0x65368",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 6,
+        "x": 128,
+        "y": 68,
+        "bob": "0x65548",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 7,
+        "x": 160,
+        "y": 68,
+        "bob": "0x65728",
+        "active": 1,
+        "step": 3,
+        "delay": 1
+      },
+      {
+        "slot": 8,
+        "x": 192,
+        "y": 68,
+        "bob": "0x65908",
+        "active": 1,
+        "step": 3,
+        "delay": 0
+      },
+      {
+        "slot": 9,
+        "x": 128,
+        "y": 92,
+        "bob": "0x65ae8",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 10,
+        "x": 160,
+        "y": 92,
+        "bob": "0x65cc8",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      },
+      {
+        "slot": 11,
+        "x": 192,
+        "y": 92,
+        "bob": "0x64fa8",
+        "active": 1,
+        "step": 0,
+        "delay": 1
+      }
+    ]
+  }
+]

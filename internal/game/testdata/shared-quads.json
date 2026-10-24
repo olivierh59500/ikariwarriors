@@ -1,0 +1,2174 @@
+[
+  {
+    "kind": "enemy-same-tick",
+    "tick": 0,
+    "cameraY": 14336,
+    "bossHealth": 10,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 0,
+        "actors": []
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 0,
+    "burst": [],
+    "shots": [
+      {
+        "slot": 0,
+        "x": 150,
+        "y": 60,
+        "bob": "0x4a7e8"
+      },
+      {
+        "slot": 1,
+        "x": 180,
+        "y": 60,
+        "bob": "0x4a888"
+      }
+    ]
+  },
+  {
+    "kind": "enemy-same-tick",
+    "tick": 1,
+    "cameraY": 14336,
+    "bossHealth": 9,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 1,
+        "actors": [
+          {
+            "x": 172,
+            "y": 56,
+            "bob": "0x4c408"
+          },
+          {
+            "x": 188,
+            "y": 56,
+            "bob": "0x4c4a8"
+          },
+          {
+            "x": 172,
+            "y": 72,
+            "bob": "0x4c548"
+          },
+          {
+            "x": 188,
+            "y": 72,
+            "bob": "0x4c5e8"
+          }
+        ]
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 0,
+    "burst": [],
+    "shots": []
+  },
+  {
+    "kind": "enemy-same-tick",
+    "tick": 2,
+    "cameraY": 14336,
+    "bossHealth": 8,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 1,
+        "actors": [
+          {
+            "x": 172,
+            "y": 56,
+            "bob": "0x4c688"
+          },
+          {
+            "x": 188,
+            "y": 56,
+            "bob": "0x4c728"
+          },
+          {
+            "x": 172,
+            "y": 72,
+            "bob": "0x4c7c8"
+          },
+          {
+            "x": 188,
+            "y": 72,
+            "bob": "0x4c868"
+          }
+        ]
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 0,
+    "burst": [],
+    "shots": []
+  },
+  {
+    "kind": "enemy-same-tick",
+    "tick": 3,
+    "cameraY": 14336,
+    "bossHealth": 7,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 1,
+        "actors": [
+          {
+            "x": 172,
+            "y": 56,
+            "bob": "0x4c908"
+          },
+          {
+            "x": 188,
+            "y": 56,
+            "bob": "0x4c9a8"
+          },
+          {
+            "x": 172,
+            "y": 72,
+            "bob": "0x4ca48"
+          },
+          {
+            "x": 188,
+            "y": 72,
+            "bob": "0x4cae8"
+          }
+        ]
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 0,
+    "burst": [],
+    "shots": []
+  },
+  {
+    "kind": "enemy-same-tick",
+    "tick": 4,
+    "cameraY": 14336,
+    "bossHealth": 7,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 0,
+        "actors": []
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 0,
+    "burst": [],
+    "shots": []
+  },
+  {
+    "kind": "enemy-same-tick",
+    "tick": 5,
+    "cameraY": 14336,
+    "bossHealth": 7,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 0,
+        "actors": []
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 0,
+    "burst": [],
+    "shots": [
+      {
+        "slot": 0,
+        "x": 143,
+        "y": 65,
+        "bob": "0x4a7e8"
+      }
+    ]
+  },
+  {
+    "kind": "enemy-same-tick",
+    "tick": 6,
+    "cameraY": 14336,
+    "bossHealth": 7,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 0,
+        "actors": []
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 0,
+    "burst": [],
+    "shots": [
+      {
+        "slot": 0,
+        "x": 139,
+        "y": 69,
+        "bob": "0x4a7e8"
+      }
+    ]
+  },
+  {
+    "kind": "enemy-same-tick",
+    "tick": 7,
+    "cameraY": 14336,
+    "bossHealth": 7,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 0,
+        "actors": []
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 0,
+    "burst": [],
+    "shots": [
+      {
+        "slot": 0,
+        "x": 135,
+        "y": 73,
+        "bob": "0x4a7e8"
+      }
+    ]
+  },
+  {
+    "kind": "enemy-heavy-last",
+    "tick": 0,
+    "cameraY": 14336,
+    "bossHealth": 10,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 0,
+        "actors": []
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 0,
+    "burst": [],
+    "shots": [
+      {
+        "slot": 0,
+        "x": 150,
+        "y": 60,
+        "bob": "0x4a7e8"
+      },
+      {
+        "slot": 1,
+        "x": 180,
+        "y": 60,
+        "bob": "0x4a7e8"
+      }
+    ]
+  },
+  {
+    "kind": "enemy-heavy-last",
+    "tick": 1,
+    "cameraY": 14336,
+    "bossHealth": 9,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 1,
+        "actors": [
+          {
+            "x": 172,
+            "y": 56,
+            "bob": "0x4c408"
+          },
+          {
+            "x": 188,
+            "y": 56,
+            "bob": "0x4c4a8"
+          },
+          {
+            "x": 172,
+            "y": 72,
+            "bob": "0x4c548"
+          },
+          {
+            "x": 188,
+            "y": 72,
+            "bob": "0x4c5e8"
+          }
+        ]
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 0,
+    "burst": [],
+    "shots": []
+  },
+  {
+    "kind": "enemy-heavy-last",
+    "tick": 2,
+    "cameraY": 14336,
+    "bossHealth": 8,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 1,
+        "actors": [
+          {
+            "x": 172,
+            "y": 56,
+            "bob": "0x4c688"
+          },
+          {
+            "x": 188,
+            "y": 56,
+            "bob": "0x4c728"
+          },
+          {
+            "x": 172,
+            "y": 72,
+            "bob": "0x4c7c8"
+          },
+          {
+            "x": 188,
+            "y": 72,
+            "bob": "0x4c868"
+          }
+        ]
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 0,
+    "burst": [],
+    "shots": []
+  },
+  {
+    "kind": "enemy-heavy-last",
+    "tick": 3,
+    "cameraY": 14336,
+    "bossHealth": 7,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 1,
+        "actors": [
+          {
+            "x": 172,
+            "y": 56,
+            "bob": "0x4c908"
+          },
+          {
+            "x": 188,
+            "y": 56,
+            "bob": "0x4c9a8"
+          },
+          {
+            "x": 172,
+            "y": 72,
+            "bob": "0x4ca48"
+          },
+          {
+            "x": 188,
+            "y": 72,
+            "bob": "0x4cae8"
+          }
+        ]
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 0,
+    "burst": [],
+    "shots": []
+  },
+  {
+    "kind": "enemy-heavy-last",
+    "tick": 4,
+    "cameraY": 14336,
+    "bossHealth": 7,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 0,
+        "actors": []
+      }
+    ],
+    "burstActive": 1,
+    "burstRemaining": 6,
+    "burst": [
+      {
+        "x": 180,
+        "y": 64,
+        "bob": "0x4bf08"
+      },
+      {
+        "x": 180,
+        "y": 64,
+        "bob": "0x4bc88"
+      },
+      {
+        "x": 180,
+        "y": 64,
+        "bob": "0x4bfa8"
+      },
+      {
+        "x": 180,
+        "y": 64,
+        "bob": "0x4bdc8"
+      },
+      {
+        "x": 180,
+        "y": 64,
+        "bob": "0x4be68"
+      },
+      {
+        "x": 180,
+        "y": 64,
+        "bob": "0x4c048"
+      },
+      {
+        "x": 180,
+        "y": 64,
+        "bob": "0x4bd28"
+      },
+      {
+        "x": 180,
+        "y": 64,
+        "bob": "0x4c0e8"
+      }
+    ],
+    "shots": []
+  },
+  {
+    "kind": "enemy-heavy-last",
+    "tick": 5,
+    "cameraY": 14336,
+    "bossHealth": 6,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 0,
+        "actors": []
+      }
+    ],
+    "burstActive": 1,
+    "burstRemaining": 5,
+    "burst": [
+      {
+        "x": 172,
+        "y": 56,
+        "bob": "0x4bf08"
+      },
+      {
+        "x": 180,
+        "y": 56,
+        "bob": "0x4bc88"
+      },
+      {
+        "x": 188,
+        "y": 56,
+        "bob": "0x4bfa8"
+      },
+      {
+        "x": 172,
+        "y": 64,
+        "bob": "0x4bdc8"
+      },
+      {
+        "x": 188,
+        "y": 64,
+        "bob": "0x4be68"
+      },
+      {
+        "x": 172,
+        "y": 72,
+        "bob": "0x4c048"
+      },
+      {
+        "x": 180,
+        "y": 72,
+        "bob": "0x4bd28"
+      },
+      {
+        "x": 188,
+        "y": 72,
+        "bob": "0x4c0e8"
+      }
+    ],
+    "shots": []
+  },
+  {
+    "kind": "enemy-heavy-last",
+    "tick": 6,
+    "cameraY": 14336,
+    "bossHealth": 5,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 0,
+        "actors": []
+      }
+    ],
+    "burstActive": 1,
+    "burstRemaining": 4,
+    "burst": [
+      {
+        "x": 164,
+        "y": 48,
+        "bob": "0x4bf08"
+      },
+      {
+        "x": 180,
+        "y": 48,
+        "bob": "0x4bc88"
+      },
+      {
+        "x": 196,
+        "y": 48,
+        "bob": "0x4bfa8"
+      },
+      {
+        "x": 164,
+        "y": 64,
+        "bob": "0x4bdc8"
+      },
+      {
+        "x": 196,
+        "y": 64,
+        "bob": "0x4be68"
+      },
+      {
+        "x": 164,
+        "y": 80,
+        "bob": "0x4c048"
+      },
+      {
+        "x": 180,
+        "y": 80,
+        "bob": "0x4bd28"
+      },
+      {
+        "x": 196,
+        "y": 80,
+        "bob": "0x4c0e8"
+      }
+    ],
+    "shots": []
+  },
+  {
+    "kind": "enemy-heavy-last",
+    "tick": 7,
+    "cameraY": 14336,
+    "bossHealth": 4,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 0,
+        "actors": []
+      }
+    ],
+    "burstActive": 1,
+    "burstRemaining": 3,
+    "burst": [
+      {
+        "x": 156,
+        "y": 40,
+        "bob": "0x4bf08"
+      },
+      {
+        "x": 180,
+        "y": 40,
+        "bob": "0x4bc88"
+      },
+      {
+        "x": 204,
+        "y": 40,
+        "bob": "0x4bfa8"
+      },
+      {
+        "x": 156,
+        "y": 64,
+        "bob": "0x4bdc8"
+      },
+      {
+        "x": 204,
+        "y": 64,
+        "bob": "0x4be68"
+      },
+      {
+        "x": 156,
+        "y": 88,
+        "bob": "0x4c048"
+      },
+      {
+        "x": 180,
+        "y": 88,
+        "bob": "0x4bd28"
+      },
+      {
+        "x": 204,
+        "y": 88,
+        "bob": "0x4c0e8"
+      }
+    ],
+    "shots": []
+  },
+  {
+    "kind": "enemy-replace",
+    "tick": 0,
+    "cameraY": 14336,
+    "bossHealth": 10,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 0,
+        "actors": []
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 3,
+    "burst": [],
+    "shots": [
+      {
+        "slot": 0,
+        "x": 150,
+        "y": 60,
+        "bob": "0x4a7e8"
+      }
+    ]
+  },
+  {
+    "kind": "enemy-replace",
+    "tick": 1,
+    "cameraY": 14336,
+    "bossHealth": 9,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 1,
+        "actors": [
+          {
+            "x": 142,
+            "y": 56,
+            "bob": "0x4c408"
+          },
+          {
+            "x": 158,
+            "y": 56,
+            "bob": "0x4c4a8"
+          },
+          {
+            "x": 142,
+            "y": 72,
+            "bob": "0x4c548"
+          },
+          {
+            "x": 158,
+            "y": 72,
+            "bob": "0x4c5e8"
+          }
+        ]
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 3,
+    "burst": [],
+    "shots": []
+  },
+  {
+    "kind": "enemy-replace",
+    "tick": 2,
+    "cameraY": 14336,
+    "bossHealth": 8,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 1,
+        "actors": [
+          {
+            "x": 172,
+            "y": 56,
+            "bob": "0x4c408"
+          },
+          {
+            "x": 188,
+            "y": 56,
+            "bob": "0x4c4a8"
+          },
+          {
+            "x": 172,
+            "y": 72,
+            "bob": "0x4c548"
+          },
+          {
+            "x": 188,
+            "y": 72,
+            "bob": "0x4c5e8"
+          }
+        ]
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 3,
+    "burst": [],
+    "shots": []
+  },
+  {
+    "kind": "enemy-replace",
+    "tick": 3,
+    "cameraY": 14336,
+    "bossHealth": 7,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 1,
+        "actors": [
+          {
+            "x": 172,
+            "y": 56,
+            "bob": "0x4c688"
+          },
+          {
+            "x": 188,
+            "y": 56,
+            "bob": "0x4c728"
+          },
+          {
+            "x": 172,
+            "y": 72,
+            "bob": "0x4c7c8"
+          },
+          {
+            "x": 188,
+            "y": 72,
+            "bob": "0x4c868"
+          }
+        ]
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 3,
+    "burst": [],
+    "shots": []
+  },
+  {
+    "kind": "enemy-replace",
+    "tick": 4,
+    "cameraY": 14336,
+    "bossHealth": 6,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 1,
+        "actors": [
+          {
+            "x": 172,
+            "y": 56,
+            "bob": "0x4c908"
+          },
+          {
+            "x": 188,
+            "y": 56,
+            "bob": "0x4c9a8"
+          },
+          {
+            "x": 172,
+            "y": 72,
+            "bob": "0x4ca48"
+          },
+          {
+            "x": 188,
+            "y": 72,
+            "bob": "0x4cae8"
+          }
+        ]
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 3,
+    "burst": [],
+    "shots": []
+  },
+  {
+    "kind": "enemy-replace",
+    "tick": 5,
+    "cameraY": 14336,
+    "bossHealth": 6,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 0,
+        "actors": []
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 3,
+    "burst": [],
+    "shots": []
+  },
+  {
+    "kind": "enemy-replace",
+    "tick": 6,
+    "cameraY": 14336,
+    "bossHealth": 6,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 0,
+        "actors": []
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 3,
+    "burst": [],
+    "shots": []
+  },
+  {
+    "kind": "enemy-replace",
+    "tick": 7,
+    "cameraY": 14336,
+    "bossHealth": 6,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 0,
+        "actors": []
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 3,
+    "burst": [],
+    "shots": []
+  },
+  {
+    "kind": "enemy-expiring-replaced",
+    "tick": 0,
+    "cameraY": 14336,
+    "bossHealth": 10,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 0,
+        "actors": []
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 3,
+    "burst": [],
+    "shots": [
+      {
+        "slot": 0,
+        "x": 150,
+        "y": 60,
+        "bob": "0x4a7e8"
+      }
+    ]
+  },
+  {
+    "kind": "enemy-expiring-replaced",
+    "tick": 1,
+    "cameraY": 14336,
+    "bossHealth": 9,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 1,
+        "actors": [
+          {
+            "x": 142,
+            "y": 56,
+            "bob": "0x4c408"
+          },
+          {
+            "x": 158,
+            "y": 56,
+            "bob": "0x4c4a8"
+          },
+          {
+            "x": 142,
+            "y": 72,
+            "bob": "0x4c548"
+          },
+          {
+            "x": 158,
+            "y": 72,
+            "bob": "0x4c5e8"
+          }
+        ]
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 3,
+    "burst": [],
+    "shots": []
+  },
+  {
+    "kind": "enemy-expiring-replaced",
+    "tick": 2,
+    "cameraY": 14336,
+    "bossHealth": 8,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 1,
+        "actors": [
+          {
+            "x": 142,
+            "y": 56,
+            "bob": "0x4c688"
+          },
+          {
+            "x": 158,
+            "y": 56,
+            "bob": "0x4c728"
+          },
+          {
+            "x": 142,
+            "y": 72,
+            "bob": "0x4c7c8"
+          },
+          {
+            "x": 158,
+            "y": 72,
+            "bob": "0x4c868"
+          }
+        ]
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 3,
+    "burst": [],
+    "shots": []
+  },
+  {
+    "kind": "enemy-expiring-replaced",
+    "tick": 3,
+    "cameraY": 14336,
+    "bossHealth": 7,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 1,
+        "actors": [
+          {
+            "x": 142,
+            "y": 56,
+            "bob": "0x4c908"
+          },
+          {
+            "x": 158,
+            "y": 56,
+            "bob": "0x4c9a8"
+          },
+          {
+            "x": 142,
+            "y": 72,
+            "bob": "0x4ca48"
+          },
+          {
+            "x": 158,
+            "y": 72,
+            "bob": "0x4cae8"
+          }
+        ]
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 3,
+    "burst": [],
+    "shots": []
+  },
+  {
+    "kind": "enemy-expiring-replaced",
+    "tick": 4,
+    "cameraY": 14336,
+    "bossHealth": 6,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 1,
+        "actors": [
+          {
+            "x": 172,
+            "y": 56,
+            "bob": "0x4c408"
+          },
+          {
+            "x": 188,
+            "y": 56,
+            "bob": "0x4c4a8"
+          },
+          {
+            "x": 172,
+            "y": 72,
+            "bob": "0x4c548"
+          },
+          {
+            "x": 188,
+            "y": 72,
+            "bob": "0x4c5e8"
+          }
+        ]
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 3,
+    "burst": [],
+    "shots": []
+  },
+  {
+    "kind": "enemy-expiring-replaced",
+    "tick": 5,
+    "cameraY": 14336,
+    "bossHealth": 5,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 1,
+        "actors": [
+          {
+            "x": 172,
+            "y": 56,
+            "bob": "0x4c688"
+          },
+          {
+            "x": 188,
+            "y": 56,
+            "bob": "0x4c728"
+          },
+          {
+            "x": 172,
+            "y": 72,
+            "bob": "0x4c7c8"
+          },
+          {
+            "x": 188,
+            "y": 72,
+            "bob": "0x4c868"
+          }
+        ]
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 3,
+    "burst": [],
+    "shots": []
+  },
+  {
+    "kind": "enemy-expiring-replaced",
+    "tick": 6,
+    "cameraY": 14336,
+    "bossHealth": 4,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 1,
+        "actors": [
+          {
+            "x": 172,
+            "y": 56,
+            "bob": "0x4c908"
+          },
+          {
+            "x": 188,
+            "y": 56,
+            "bob": "0x4c9a8"
+          },
+          {
+            "x": 172,
+            "y": 72,
+            "bob": "0x4ca48"
+          },
+          {
+            "x": 188,
+            "y": 72,
+            "bob": "0x4cae8"
+          }
+        ]
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 3,
+    "burst": [],
+    "shots": []
+  },
+  {
+    "kind": "enemy-expiring-replaced",
+    "tick": 7,
+    "cameraY": 14336,
+    "bossHealth": 4,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 0,
+        "actors": []
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 3,
+    "burst": [],
+    "shots": []
+  },
+  {
+    "kind": "all-three-pools",
+    "tick": 0,
+    "cameraY": 14336,
+    "bossHealth": 10,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 0,
+        "actors": []
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 3,
+    "burst": [],
+    "shots": [
+      {
+        "slot": 0,
+        "x": 210,
+        "y": 60,
+        "bob": "0x4a888"
+      }
+    ]
+  },
+  {
+    "kind": "all-three-pools",
+    "tick": 1,
+    "cameraY": 14336,
+    "bossHealth": 9,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 1,
+        "actors": [
+          {
+            "x": 142,
+            "y": 56,
+            "bob": "0x4c408"
+          },
+          {
+            "x": 158,
+            "y": 56,
+            "bob": "0x4c4a8"
+          },
+          {
+            "x": 142,
+            "y": 72,
+            "bob": "0x4c548"
+          },
+          {
+            "x": 158,
+            "y": 72,
+            "bob": "0x4c5e8"
+          }
+        ]
+      },
+      {
+        "owner": 1,
+        "active": 1,
+        "actors": [
+          {
+            "x": 172,
+            "y": 56,
+            "bob": "0x4c408"
+          },
+          {
+            "x": 188,
+            "y": 56,
+            "bob": "0x4c4a8"
+          },
+          {
+            "x": 172,
+            "y": 72,
+            "bob": "0x4c548"
+          },
+          {
+            "x": 188,
+            "y": 72,
+            "bob": "0x4c5e8"
+          }
+        ]
+      },
+      {
+        "owner": -1,
+        "active": 1,
+        "actors": [
+          {
+            "x": 202,
+            "y": 56,
+            "bob": "0x4c408"
+          },
+          {
+            "x": 218,
+            "y": 56,
+            "bob": "0x4c4a8"
+          },
+          {
+            "x": 202,
+            "y": 72,
+            "bob": "0x4c548"
+          },
+          {
+            "x": 218,
+            "y": 72,
+            "bob": "0x4c5e8"
+          }
+        ]
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 3,
+    "burst": [],
+    "shots": []
+  },
+  {
+    "kind": "all-three-pools",
+    "tick": 2,
+    "cameraY": 14336,
+    "bossHealth": 9,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 1,
+        "actors": [
+          {
+            "x": 142,
+            "y": 56,
+            "bob": "0x4c688"
+          },
+          {
+            "x": 158,
+            "y": 56,
+            "bob": "0x4c728"
+          },
+          {
+            "x": 142,
+            "y": 72,
+            "bob": "0x4c7c8"
+          },
+          {
+            "x": 158,
+            "y": 72,
+            "bob": "0x4c868"
+          }
+        ]
+      },
+      {
+        "owner": 1,
+        "active": 1,
+        "actors": [
+          {
+            "x": 172,
+            "y": 56,
+            "bob": "0x4c688"
+          },
+          {
+            "x": 188,
+            "y": 56,
+            "bob": "0x4c728"
+          },
+          {
+            "x": 172,
+            "y": 72,
+            "bob": "0x4c7c8"
+          },
+          {
+            "x": 188,
+            "y": 72,
+            "bob": "0x4c868"
+          }
+        ]
+      },
+      {
+        "owner": -1,
+        "active": 1,
+        "actors": [
+          {
+            "x": 202,
+            "y": 56,
+            "bob": "0x4c688"
+          },
+          {
+            "x": 218,
+            "y": 56,
+            "bob": "0x4c728"
+          },
+          {
+            "x": 202,
+            "y": 72,
+            "bob": "0x4c7c8"
+          },
+          {
+            "x": 218,
+            "y": 72,
+            "bob": "0x4c868"
+          }
+        ]
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 3,
+    "burst": [],
+    "shots": []
+  },
+  {
+    "kind": "all-three-pools",
+    "tick": 3,
+    "cameraY": 14336,
+    "bossHealth": 9,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 1,
+        "actors": [
+          {
+            "x": 142,
+            "y": 56,
+            "bob": "0x4c908"
+          },
+          {
+            "x": 158,
+            "y": 56,
+            "bob": "0x4c9a8"
+          },
+          {
+            "x": 142,
+            "y": 72,
+            "bob": "0x4ca48"
+          },
+          {
+            "x": 158,
+            "y": 72,
+            "bob": "0x4cae8"
+          }
+        ]
+      },
+      {
+        "owner": 1,
+        "active": 1,
+        "actors": [
+          {
+            "x": 172,
+            "y": 56,
+            "bob": "0x4c908"
+          },
+          {
+            "x": 188,
+            "y": 56,
+            "bob": "0x4c9a8"
+          },
+          {
+            "x": 172,
+            "y": 72,
+            "bob": "0x4ca48"
+          },
+          {
+            "x": 188,
+            "y": 72,
+            "bob": "0x4cae8"
+          }
+        ]
+      },
+      {
+        "owner": -1,
+        "active": 1,
+        "actors": [
+          {
+            "x": 202,
+            "y": 56,
+            "bob": "0x4c908"
+          },
+          {
+            "x": 218,
+            "y": 56,
+            "bob": "0x4c9a8"
+          },
+          {
+            "x": 202,
+            "y": 72,
+            "bob": "0x4ca48"
+          },
+          {
+            "x": 218,
+            "y": 72,
+            "bob": "0x4cae8"
+          }
+        ]
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 3,
+    "burst": [],
+    "shots": []
+  },
+  {
+    "kind": "all-three-pools",
+    "tick": 4,
+    "cameraY": 14336,
+    "bossHealth": 9,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 0,
+        "actors": []
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 3,
+    "burst": [],
+    "shots": []
+  },
+  {
+    "kind": "all-three-pools",
+    "tick": 5,
+    "cameraY": 14336,
+    "bossHealth": 9,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 0,
+        "actors": []
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 3,
+    "burst": [],
+    "shots": []
+  },
+  {
+    "kind": "all-three-pools",
+    "tick": 6,
+    "cameraY": 14336,
+    "bossHealth": 9,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 0,
+        "actors": []
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 3,
+    "burst": [],
+    "shots": []
+  },
+  {
+    "kind": "all-three-pools",
+    "tick": 7,
+    "cameraY": 14336,
+    "bossHealth": 9,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 0,
+        "actors": []
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 3,
+    "burst": [],
+    "shots": []
+  },
+  {
+    "kind": "owner-replace",
+    "tick": 0,
+    "cameraY": 14336,
+    "bossHealth": 10,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 0,
+        "actors": []
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 3,
+    "burst": [],
+    "shots": []
+  },
+  {
+    "kind": "owner-replace",
+    "tick": 1,
+    "cameraY": 14336,
+    "bossHealth": 9,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 1,
+        "actors": [
+          {
+            "x": 142,
+            "y": 56,
+            "bob": "0x4c408"
+          },
+          {
+            "x": 158,
+            "y": 56,
+            "bob": "0x4c4a8"
+          },
+          {
+            "x": 142,
+            "y": 72,
+            "bob": "0x4c548"
+          },
+          {
+            "x": 158,
+            "y": 72,
+            "bob": "0x4c5e8"
+          }
+        ]
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 0,
+        "actors": []
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 3,
+    "burst": [],
+    "shots": []
+  },
+  {
+    "kind": "owner-replace",
+    "tick": 2,
+    "cameraY": 14336,
+    "bossHealth": 8,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 1,
+        "actors": [
+          {
+            "x": 172,
+            "y": 56,
+            "bob": "0x4c408"
+          },
+          {
+            "x": 188,
+            "y": 56,
+            "bob": "0x4c4a8"
+          },
+          {
+            "x": 172,
+            "y": 72,
+            "bob": "0x4c548"
+          },
+          {
+            "x": 188,
+            "y": 72,
+            "bob": "0x4c5e8"
+          }
+        ]
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 0,
+        "actors": []
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 3,
+    "burst": [],
+    "shots": []
+  },
+  {
+    "kind": "owner-replace",
+    "tick": 3,
+    "cameraY": 14336,
+    "bossHealth": 8,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 1,
+        "actors": [
+          {
+            "x": 172,
+            "y": 56,
+            "bob": "0x4c688"
+          },
+          {
+            "x": 188,
+            "y": 56,
+            "bob": "0x4c728"
+          },
+          {
+            "x": 172,
+            "y": 72,
+            "bob": "0x4c7c8"
+          },
+          {
+            "x": 188,
+            "y": 72,
+            "bob": "0x4c868"
+          }
+        ]
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 0,
+        "actors": []
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 3,
+    "burst": [],
+    "shots": [
+      {
+        "slot": 0,
+        "x": 143,
+        "y": 61,
+        "bob": "0x4a7e8"
+      }
+    ]
+  },
+  {
+    "kind": "owner-replace",
+    "tick": 4,
+    "cameraY": 14336,
+    "bossHealth": 8,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 1,
+        "actors": [
+          {
+            "x": 172,
+            "y": 56,
+            "bob": "0x4c908"
+          },
+          {
+            "x": 188,
+            "y": 56,
+            "bob": "0x4c9a8"
+          },
+          {
+            "x": 172,
+            "y": 72,
+            "bob": "0x4ca48"
+          },
+          {
+            "x": 188,
+            "y": 72,
+            "bob": "0x4cae8"
+          }
+        ]
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 0,
+        "actors": []
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 3,
+    "burst": [],
+    "shots": [
+      {
+        "slot": 0,
+        "x": 139,
+        "y": 65,
+        "bob": "0x4a7e8"
+      }
+    ]
+  },
+  {
+    "kind": "owner-replace",
+    "tick": 5,
+    "cameraY": 14336,
+    "bossHealth": 8,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 0,
+        "actors": []
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 3,
+    "burst": [],
+    "shots": [
+      {
+        "slot": 0,
+        "x": 135,
+        "y": 69,
+        "bob": "0x4a7e8"
+      }
+    ]
+  },
+  {
+    "kind": "owner-replace",
+    "tick": 6,
+    "cameraY": 14336,
+    "bossHealth": 8,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 0,
+        "actors": []
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 3,
+    "burst": [],
+    "shots": [
+      {
+        "slot": 0,
+        "x": 131,
+        "y": 73,
+        "bob": "0x4a7e8"
+      }
+    ]
+  },
+  {
+    "kind": "owner-replace",
+    "tick": 7,
+    "cameraY": 14336,
+    "bossHealth": 8,
+    "pools": [
+      {
+        "owner": 0,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": 1,
+        "active": 0,
+        "actors": []
+      },
+      {
+        "owner": -1,
+        "active": 0,
+        "actors": []
+      }
+    ],
+    "burstActive": 0,
+    "burstRemaining": 3,
+    "burst": [],
+    "shots": [
+      {
+        "slot": 0,
+        "x": 127,
+        "y": 77,
+        "bob": "0x4a7e8"
+      }
+    ]
+  }
+]

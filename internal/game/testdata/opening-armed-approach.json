@@ -1,0 +1,315 @@
+{
+  "actualControl": {
+    "action": false,
+    "fire": false,
+    "x": 1,
+    "y": -1
+  },
+  "aircraft": {
+    "alive": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "damaged": 0,
+    "flying": false,
+    "owner": 0,
+    "phase": 0,
+    "x": 0,
+    "y": 0
+  },
+  "ammo": 98,
+  "blasts": [],
+  "boss": {
+    "active": false,
+    "alive": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "damaged": 0,
+    "direction": 0,
+    "health": 0,
+    "owner": 0,
+    "turn": 0,
+    "turretBob": 0,
+    "turretOffset": {
+      "x": 0,
+      "y": 0
+    },
+    "x": 0,
+    "y": 0
+  },
+  "bulletPower": [
+    1,
+    1
+  ],
+  "burstParts": [],
+  "burstQueue": [],
+  "burstRemaining": 0,
+  "cameraBackY": 14848,
+  "cameraY": 14834,
+  "deadTicks": 0,
+  "direction": 1,
+  "enemyActorsNearby": [
+    {
+      "direction": 3,
+      "health": 1,
+      "kind": 2,
+      "marchTime": 0,
+      "marchX": 0,
+      "marchY": 0,
+      "shots": 0,
+      "slot": 3,
+      "tankBurning": false,
+      "tankFuel": 0,
+      "x": 52,
+      "y": 14860
+    },
+    {
+      "direction": 5,
+      "health": 0,
+      "kind": 0,
+      "marchTime": 18,
+      "marchX": 1,
+      "marchY": 0,
+      "shots": 1,
+      "slot": 11,
+      "tankBurning": false,
+      "tankFuel": 0,
+      "x": 68,
+      "y": 14875
+    },
+    {
+      "direction": 4,
+      "health": 1,
+      "kind": 0,
+      "marchTime": 9,
+      "marchX": 0,
+      "marchY": 0,
+      "shots": 3,
+      "slot": 12,
+      "tankBurning": false,
+      "tankFuel": 0,
+      "x": 102,
+      "y": 14902
+    },
+    {
+      "direction": 4,
+      "health": 1,
+      "kind": 0,
+      "marchTime": 9,
+      "marchX": 0,
+      "marchY": 0,
+      "shots": 2,
+      "slot": 13,
+      "tankBurning": false,
+      "tankFuel": 0,
+      "x": 112,
+      "y": 14902
+    },
+    {
+      "direction": 4,
+      "health": 1,
+      "kind": 6,
+      "marchTime": 0,
+      "marchX": 0,
+      "marchY": 0,
+      "shots": 0,
+      "slot": 32,
+      "tankBurning": false,
+      "tankFuel": 0,
+      "x": 94,
+      "y": 14846
+    },
+    {
+      "direction": 5,
+      "health": 1,
+      "kind": 2,
+      "marchTime": 0,
+      "marchX": 0,
+      "marchY": 0,
+      "shots": 0,
+      "slot": 4,
+      "tankBurning": false,
+      "tankFuel": 0,
+      "x": 134,
+      "y": 14830
+    }
+  ],
+  "enemyVehicles": [
+    {
+      "active": false,
+      "alive": [
+        false,
+        false,
+        false
+      ],
+      "chassis": {
+        "delay": 0,
+        "frame": 0,
+        "step": 0
+      },
+      "damaged": 0,
+      "mode": 0,
+      "owner": 0,
+      "reverse": 0,
+      "turn": 0,
+      "turret": 0,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "active": false,
+      "alive": [
+        false,
+        false,
+        false
+      ],
+      "chassis": {
+        "delay": 0,
+        "frame": 0,
+        "step": 0
+      },
+      "damaged": 0,
+      "mode": 0,
+      "owner": 0,
+      "reverse": 0,
+      "turn": 0,
+      "turret": 0,
+      "x": 0,
+      "y": 0
+    }
+  ],
+  "final": {
+    "active": false,
+    "defeated": false,
+    "x": 0,
+    "y": 0
+  },
+  "fireDelay": [
+    7,
+    7
+  ],
+  "gate": [
+    308,
+    5
+  ],
+  "grenadePower": [
+    1,
+    1
+  ],
+  "grenades": 49,
+  "health": 1,
+  "inTank": false,
+  "invulnerable": 0,
+  "lives": 5,
+  "mines": [],
+  "path": [],
+  "pathLength": 0,
+  "pendingFootImpact": [
+    0,
+    0
+  ],
+  "rangeBonus": [
+    0,
+    0
+  ],
+  "scenery": false,
+  "sceneryBurst": {
+    "active": false,
+    "center": {
+      "x": 0,
+      "y": 0
+    },
+    "enabled": 0,
+    "frame": 0,
+    "origin": {
+      "x": 0,
+      "y": 0
+    },
+    "owner": 0,
+    "parts": [
+      {
+        "x": 0,
+        "y": 0
+      },
+      {
+        "x": 0,
+        "y": 0
+      },
+      {
+        "x": 0,
+        "y": 0
+      },
+      {
+        "x": 0,
+        "y": 0
+      },
+      {
+        "x": 0,
+        "y": 0
+      },
+      {
+        "x": 0,
+        "y": 0
+      },
+      {
+        "x": 0,
+        "y": 0
+      },
+      {
+        "x": 0,
+        "y": 0
+      }
+    ],
+    "phase": 0,
+    "remaining": 0,
+    "shared": false
+  },
+  "shots": [
+    {
+      "cannon": false,
+      "enemy": false,
+      "grenade": true,
+      "impact": 0,
+      "life": 3,
+      "owner": 0,
+      "slot": 0,
+      "vx": 0,
+      "vy": -4,
+      "x": 64,
+      "y": 14902
+    },
+    {
+      "cannon": false,
+      "enemy": true,
+      "grenade": false,
+      "impact": 0,
+      "life": 7,
+      "owner": -1,
+      "slot": 0,
+      "vx": 4,
+      "vy": 4,
+      "x": 80,
+      "y": 14904
+    }
+  ],
+  "tankBurn": 0,
+  "tankBurning": false,
+  "tankFuel": 0,
+  "target": [
+    0,
+    0
+  ],
+  "targetKind": 0,
+  "tick": 21,
+  "x": 100,
+  "y": 14928,
+  "random": 1764728916,
+  "provenance": "Controlled native regression encounter derived from the actual second natural cycle at game tick21, before the observed enemy-bullet death at34. Future event/random actor births are excluded only in this controlled test. No Amiga-oracle or whole-demo qualification is claimed."
+}

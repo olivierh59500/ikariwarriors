@@ -1,0 +1,78 @@
+{
+  "sourceOnly": true,
+  "frames": [
+    {
+      "frame": 945,
+      "sha256": "0a3cc6190b194aebb8da7f9c6b1e44c6fabd7f47892b79c46bc9ef17167b979f",
+      "score": 6100,
+      "infantry": [
+        {
+          "slot": 4,
+          "rawX": 170,
+          "rawY": 74,
+          "active": 1,
+          "hit": 1
+        },
+        {
+          "slot": 11,
+          "rawX": 200,
+          "rawY": 99,
+          "active": 1,
+          "hit": 1
+        },
+        {
+          "slot": 12,
+          "rawX": 210,
+          "rawY": 100,
+          "active": 1,
+          "hit": 1
+        }
+      ],
+      "smartBomb": {
+        "slot": 62,
+        "recordAddress": "0x12b72",
+        "rawX": 146,
+        "rawY": 74,
+        "active": 1,
+        "imageAddress": "0x4aec8"
+      }
+    },
+    {
+      "frame": 946,
+      "sha256": "f7415c6075c9a2c42587f6da9a0a25c36cd19f86f9a52a722743861aa3358b47",
+      "score": 6400,
+      "infantry": [
+        {
+          "slot": 4,
+          "rawX": 170,
+          "rawY": 75,
+          "active": 1,
+          "hit": 1
+        },
+        {
+          "slot": 11,
+          "rawX": 200,
+          "rawY": 100,
+          "active": 1,
+          "hit": 1
+        },
+        {
+          "slot": 12,
+          "rawX": 210,
+          "rawY": 101,
+          "active": 1,
+          "hit": 1
+        }
+      ],
+      "smartBomb": {
+        "slot": 62,
+        "recordAddress": "0x12b72",
+        "rawX": 146,
+        "rawY": 76,
+        "active": 0,
+        "imageAddress": "0x4aec8"
+      }
+    }
+  ],
+  "sourceRoutine": "C0F6 collection scans eight records at12B04; kind5 C238-C264 scans active slots0..18 and unconditionally adds100 per active actor, with no hit-flag test."
+}

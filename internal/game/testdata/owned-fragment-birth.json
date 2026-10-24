@@ -1,0 +1,3029 @@
+{
+  "Description": "Five consecutive normally played original P1 owned-quad expiries. Three upgraded cannon quads and two grenades. Expected active flags, counters and all fragment coordinates are exported solely from original RAM; no future random-generator state is read or serialized.",
+  "Cases": [
+    {
+      "Name": "observed-event-03-tick3292",
+      "BeforeTick": 3291,
+      "AfterTick": 3292,
+      "BeforeSHA256": "2eaf83f733a9bf20ecd99b908933fed263be70c17c970424f478ffcc3e4cd018",
+      "AfterSHA256": "b324264e9565232041cc936ab5c5227f556506bea8cec90cde03e296532baeeb",
+      "Player": {
+        "X": 130,
+        "Y": 10766,
+        "Direction": 5,
+        "Health": 1,
+        "DeadTicks": 0,
+        "Invulnerable": 0,
+        "InTank": true,
+        "TankBurning": false,
+        "TankBurn": 216,
+        "TankFuel": 50,
+        "TankSlot": 19
+      },
+      "CameraY": 10646,
+      "CameraBackY": 10656,
+      "Lives": 2,
+      "Ammunition": 72,
+      "Grenades": 46,
+      "BulletPower": 1,
+      "GrenadePower": 2,
+      "RangeBonus": 0,
+      "DirectionLock": false,
+      "TankFuelPhase": [
+        11,
+        20
+      ],
+      "CannonReservation": 1,
+      "IdleArtilleryTicks": 25,
+      "Enemies": [
+        {
+          "X": 22,
+          "Y": 10659,
+          "Health": 1,
+          "Slot": 5,
+          "Kind": 0,
+          "MarchY": 0,
+          "MarchX": 0,
+          "MarchTime": 0,
+          "Shots": 254
+        },
+        {
+          "X": 42,
+          "Y": 10659,
+          "Health": 1,
+          "Slot": 6,
+          "Kind": 0,
+          "MarchY": 0,
+          "MarchX": 0,
+          "MarchTime": 0,
+          "Shots": 253
+        },
+        {
+          "X": 62,
+          "Y": 10659,
+          "Health": 1,
+          "Slot": 7,
+          "Kind": 0,
+          "MarchY": 0,
+          "MarchX": 0,
+          "MarchTime": 0,
+          "Shots": 253
+        },
+        {
+          "X": 146,
+          "Y": 10659,
+          "Health": 1,
+          "Slot": 8,
+          "Kind": 0,
+          "MarchY": 0,
+          "MarchX": 0,
+          "MarchTime": 0,
+          "Shots": 254
+        },
+        {
+          "X": 166,
+          "Y": 10659,
+          "Health": 1,
+          "Slot": 9,
+          "Kind": 0,
+          "MarchY": 0,
+          "MarchX": 0,
+          "MarchTime": 0,
+          "Shots": 253
+        },
+        {
+          "X": 186,
+          "Y": 10659,
+          "Health": 1,
+          "Slot": 10,
+          "Kind": 0,
+          "MarchY": 0,
+          "MarchX": 0,
+          "MarchTime": 0,
+          "Shots": 254
+        },
+        {
+          "X": 112,
+          "Y": 10816,
+          "Health": 1,
+          "Slot": 13,
+          "Kind": 0,
+          "MarchY": 1,
+          "MarchX": 0,
+          "MarchTime": 0,
+          "Shots": 0
+        }
+      ],
+      "Projectiles": [
+        {
+          "X": 62,
+          "Y": 10723,
+          "VX": 0,
+          "VY": 4,
+          "Life": 2,
+          "Enemy": true,
+          "Owner": -1,
+          "Slot": 0,
+          "Grenade": false,
+          "Fragments": false,
+          "Frame": 0,
+          "AirStrike": 0
+        },
+        {
+          "X": -26,
+          "Y": 10719,
+          "VX": -4,
+          "VY": 4,
+          "Life": 3,
+          "Enemy": true,
+          "Owner": -1,
+          "Slot": 1,
+          "Grenade": false,
+          "Fragments": false,
+          "Frame": 0,
+          "AirStrike": 0
+        },
+        {
+          "X": 18,
+          "Y": 10695,
+          "VX": -4,
+          "VY": 4,
+          "Life": 9,
+          "Enemy": true,
+          "Owner": -1,
+          "Slot": 2,
+          "Grenade": false,
+          "Fragments": false,
+          "Frame": 0,
+          "AirStrike": 0
+        },
+        {
+          "X": 182,
+          "Y": 10675,
+          "VX": -4,
+          "VY": 4,
+          "Life": 14,
+          "Enemy": true,
+          "Owner": -1,
+          "Slot": 3,
+          "Grenade": false,
+          "Fragments": false,
+          "Frame": 0,
+          "AirStrike": 0
+        }
+      ],
+      "Pickups": [],
+      "Mines": [
+        {
+          "X": 94,
+          "Y": 10634,
+          "Slot": 85,
+          "Kind": 20
+        }
+      ],
+      "FanTraps": [
+        {
+          "X": 76,
+          "Y": 13832,
+          "Active": true,
+          "Cooldown": 10
+        },
+        {
+          "X": 106,
+          "Y": 3784,
+          "Active": true,
+          "Cooldown": 1
+        },
+        {
+          "X": 42,
+          "Y": 3688,
+          "Active": true,
+          "Cooldown": 1
+        },
+        {
+          "X": 186,
+          "Y": 3688,
+          "Active": true,
+          "Cooldown": 1
+        },
+        {
+          "X": 106,
+          "Y": 3592,
+          "Active": true,
+          "Cooldown": 1
+        }
+      ],
+      "SceneryBurst": {
+        "Active": true,
+        "Remaining": 5,
+        "Phase": 2,
+        "Frame": 57,
+        "Owner": -1,
+        "Origin": {
+          "X": 87,
+          "Y": 10680
+        },
+        "Center": {
+          "X": 103,
+          "Y": 10704
+        },
+        "Enabled": 255,
+        "Parts": [
+          {
+            "X": 87,
+            "Y": 10680
+          },
+          {
+            "X": 103,
+            "Y": 10680
+          },
+          {
+            "X": 87,
+            "Y": 10696
+          },
+          {
+            "X": 103,
+            "Y": 10696
+          },
+          {
+            "X": 103,
+            "Y": 10712
+          },
+          {
+            "X": 119,
+            "Y": 10712
+          },
+          {
+            "X": 103,
+            "Y": 10728
+          },
+          {
+            "X": 119,
+            "Y": 10728
+          }
+        ]
+      },
+      "DestroyedCells": [
+        [
+          667,
+          5
+        ],
+        [
+          667,
+          6
+        ],
+        [
+          667,
+          7
+        ],
+        [
+          668,
+          5
+        ],
+        [
+          668,
+          6
+        ],
+        [
+          668,
+          7
+        ],
+        [
+          669,
+          5
+        ],
+        [
+          669,
+          6
+        ],
+        [
+          669,
+          7
+        ],
+        [
+          670,
+          5
+        ],
+        [
+          670,
+          6
+        ],
+        [
+          670,
+          7
+        ],
+        [
+          748,
+          5
+        ],
+        [
+          748,
+          6
+        ],
+        [
+          748,
+          7
+        ],
+        [
+          749,
+          5
+        ],
+        [
+          749,
+          6
+        ],
+        [
+          749,
+          7
+        ],
+        [
+          750,
+          5
+        ],
+        [
+          750,
+          6
+        ],
+        [
+          750,
+          7
+        ],
+        [
+          751,
+          5
+        ],
+        [
+          751,
+          6
+        ],
+        [
+          751,
+          7
+        ],
+        [
+          771,
+          5
+        ],
+        [
+          771,
+          6
+        ],
+        [
+          771,
+          7
+        ],
+        [
+          772,
+          5
+        ],
+        [
+          772,
+          6
+        ],
+        [
+          772,
+          7
+        ],
+        [
+          773,
+          5
+        ],
+        [
+          773,
+          6
+        ],
+        [
+          773,
+          7
+        ],
+        [
+          774,
+          5
+        ],
+        [
+          774,
+          6
+        ],
+        [
+          774,
+          7
+        ],
+        [
+          803,
+          4
+        ],
+        [
+          803,
+          5
+        ],
+        [
+          803,
+          6
+        ],
+        [
+          803,
+          7
+        ],
+        [
+          803,
+          8
+        ],
+        [
+          804,
+          4
+        ],
+        [
+          804,
+          5
+        ],
+        [
+          804,
+          6
+        ],
+        [
+          804,
+          7
+        ],
+        [
+          804,
+          8
+        ],
+        [
+          805,
+          4
+        ],
+        [
+          805,
+          5
+        ],
+        [
+          805,
+          6
+        ],
+        [
+          805,
+          7
+        ],
+        [
+          805,
+          8
+        ],
+        [
+          831,
+          0
+        ],
+        [
+          831,
+          1
+        ],
+        [
+          831,
+          2
+        ],
+        [
+          831,
+          3
+        ],
+        [
+          832,
+          0
+        ],
+        [
+          832,
+          1
+        ],
+        [
+          832,
+          2
+        ],
+        [
+          832,
+          3
+        ],
+        [
+          833,
+          0
+        ],
+        [
+          833,
+          1
+        ],
+        [
+          833,
+          2
+        ],
+        [
+          833,
+          3
+        ],
+        [
+          834,
+          0
+        ],
+        [
+          834,
+          1
+        ],
+        [
+          834,
+          2
+        ],
+        [
+          834,
+          3
+        ]
+      ],
+      "OwnedQuad": {
+        "X": 87,
+        "Y": 10724,
+        "Owner": 0,
+        "Grenade": false,
+        "Cannon": true,
+        "Impact": 1
+      },
+      "Control": {
+        "X": -1,
+        "Y": 1,
+        "Fire": false,
+        "Action": false
+      },
+      "Expected": {
+        "Active": true,
+        "Remaining": 5,
+        "Owner": -1,
+        "Parts": [
+          {
+            "X": 79,
+            "Y": 10716
+          },
+          {
+            "X": 87,
+            "Y": 10716
+          },
+          {
+            "X": 95,
+            "Y": 10716
+          },
+          {
+            "X": 79,
+            "Y": 10724
+          },
+          {
+            "X": 95,
+            "Y": 10724
+          },
+          {
+            "X": 79,
+            "Y": 10732
+          },
+          {
+            "X": 87,
+            "Y": 10732
+          },
+          {
+            "X": 95,
+            "Y": 10732
+          }
+        ]
+      }
+    },
+    {
+      "Name": "observed-event-05-tick3437",
+      "BeforeTick": 3436,
+      "AfterTick": 3437,
+      "BeforeSHA256": "3176b513dc222920bcb86eb103fefcf7a1c742c9570a6d7d155867619efb013f",
+      "AfterSHA256": "881880a37a1dd50fbffa458ff3eef965dba3b080adbc6de44d9155efa7c03c96",
+      "Player": {
+        "X": 122,
+        "Y": 10590,
+        "Direction": 5,
+        "Health": 1,
+        "DeadTicks": 0,
+        "Invulnerable": 0,
+        "InTank": true,
+        "TankBurning": false,
+        "TankBurn": 71,
+        "TankFuel": 41,
+        "TankSlot": 19
+      },
+      "CameraY": 10458,
+      "CameraBackY": 10464,
+      "Lives": 2,
+      "Ammunition": 71,
+      "Grenades": 46,
+      "BulletPower": 1,
+      "GrenadePower": 2,
+      "RangeBonus": 0,
+      "DirectionLock": false,
+      "TankFuelPhase": [
+        1,
+        20
+      ],
+      "CannonReservation": 1,
+      "IdleArtilleryTicks": 26,
+      "Enemies": [
+        {
+          "X": 22,
+          "Y": 10564,
+          "Health": 1,
+          "Slot": 0,
+          "Kind": 3
+        },
+        {
+          "X": 192,
+          "Y": 10564,
+          "Health": 1,
+          "Slot": 1,
+          "Kind": 3
+        },
+        {
+          "X": 92,
+          "Y": 10572,
+          "Health": 1,
+          "Slot": 3,
+          "Kind": 2
+        },
+        {
+          "X": 22,
+          "Y": 10659,
+          "Health": 1,
+          "Slot": 5,
+          "Kind": 0,
+          "MarchY": 0,
+          "MarchX": 0,
+          "MarchTime": 0,
+          "Shots": 253
+        },
+        {
+          "X": 42,
+          "Y": 10483,
+          "Health": 1,
+          "Slot": 6,
+          "Kind": 0,
+          "MarchY": 0,
+          "MarchX": 0,
+          "MarchTime": 0,
+          "Shots": 252
+        },
+        {
+          "X": 62,
+          "Y": 10483,
+          "Health": 1,
+          "Slot": 7,
+          "Kind": 0,
+          "MarchY": 0,
+          "MarchX": 0,
+          "MarchTime": 0,
+          "Shots": 253
+        },
+        {
+          "X": 146,
+          "Y": 10483,
+          "Health": 1,
+          "Slot": 8,
+          "Kind": 0,
+          "MarchY": 0,
+          "MarchX": 0,
+          "MarchTime": 0,
+          "Shots": 254
+        },
+        {
+          "X": 99,
+          "Y": 10654,
+          "Health": 1,
+          "Slot": 9,
+          "Kind": 0,
+          "MarchY": 0,
+          "MarchX": 0,
+          "MarchTime": 0,
+          "Shots": 255
+        },
+        {
+          "X": 186,
+          "Y": 10659,
+          "Health": 1,
+          "Slot": 10,
+          "Kind": 0,
+          "MarchY": 0,
+          "MarchX": 0,
+          "MarchTime": 0,
+          "Shots": 253
+        }
+      ],
+      "Projectiles": [
+        {
+          "X": 140,
+          "Y": 10584,
+          "VX": 4,
+          "VY": 0,
+          "Life": 2,
+          "Enemy": true,
+          "Owner": -1,
+          "Slot": 0,
+          "Grenade": false,
+          "Fragments": false,
+          "Frame": 0,
+          "AirStrike": 0
+        },
+        {
+          "X": 6,
+          "Y": 10531,
+          "VX": -4,
+          "VY": 4,
+          "Life": 6,
+          "Enemy": true,
+          "Owner": -1,
+          "Slot": 1,
+          "Grenade": false,
+          "Fragments": false,
+          "Frame": 0,
+          "AirStrike": 0
+        },
+        {
+          "X": 18,
+          "Y": 10519,
+          "VX": -4,
+          "VY": 4,
+          "Life": 9,
+          "Enemy": true,
+          "Owner": -1,
+          "Slot": 2,
+          "Grenade": false,
+          "Fragments": false,
+          "Frame": 0,
+          "AirStrike": 0
+        },
+        {
+          "X": 42,
+          "Y": 10511,
+          "VX": 0,
+          "VY": 4,
+          "Life": 11,
+          "Enemy": true,
+          "Owner": -1,
+          "Slot": 3,
+          "Grenade": false,
+          "Fragments": false,
+          "Frame": 0,
+          "AirStrike": 0
+        }
+      ],
+      "Pickups": [
+        {
+          "X": 103,
+          "Y": 10696,
+          "Kind": 3
+        }
+      ],
+      "Mines": [
+        {
+          "X": 94,
+          "Y": 10634,
+          "Slot": 85,
+          "Kind": 20
+        }
+      ],
+      "FanTraps": [
+        {
+          "X": 76,
+          "Y": 13832,
+          "Active": true,
+          "Cooldown": 10
+        },
+        {
+          "X": 106,
+          "Y": 3784,
+          "Active": true,
+          "Cooldown": 1
+        },
+        {
+          "X": 42,
+          "Y": 3688,
+          "Active": true,
+          "Cooldown": 1
+        },
+        {
+          "X": 186,
+          "Y": 3688,
+          "Active": true,
+          "Cooldown": 1
+        },
+        {
+          "X": 106,
+          "Y": 3592,
+          "Active": true,
+          "Cooldown": 1
+        }
+      ],
+      "SceneryBurst": {
+        "Active": true,
+        "Remaining": 5,
+        "Phase": 1,
+        "Frame": 53,
+        "Owner": -1,
+        "Origin": {
+          "X": 87,
+          "Y": 10504
+        },
+        "Center": {
+          "X": 103,
+          "Y": 10528
+        },
+        "Enabled": 255,
+        "Parts": [
+          {
+            "X": 87,
+            "Y": 10504
+          },
+          {
+            "X": 103,
+            "Y": 10504
+          },
+          {
+            "X": 87,
+            "Y": 10520
+          },
+          {
+            "X": 103,
+            "Y": 10520
+          },
+          {
+            "X": 103,
+            "Y": 10536
+          },
+          {
+            "X": 119,
+            "Y": 10536
+          },
+          {
+            "X": 103,
+            "Y": 10552
+          },
+          {
+            "X": 119,
+            "Y": 10552
+          }
+        ]
+      },
+      "DestroyedCells": [
+        [
+          656,
+          5
+        ],
+        [
+          656,
+          6
+        ],
+        [
+          656,
+          7
+        ],
+        [
+          657,
+          5
+        ],
+        [
+          657,
+          6
+        ],
+        [
+          657,
+          7
+        ],
+        [
+          658,
+          5
+        ],
+        [
+          658,
+          6
+        ],
+        [
+          658,
+          7
+        ],
+        [
+          659,
+          5
+        ],
+        [
+          659,
+          6
+        ],
+        [
+          659,
+          7
+        ],
+        [
+          667,
+          5
+        ],
+        [
+          667,
+          6
+        ],
+        [
+          667,
+          7
+        ],
+        [
+          668,
+          5
+        ],
+        [
+          668,
+          6
+        ],
+        [
+          668,
+          7
+        ],
+        [
+          669,
+          5
+        ],
+        [
+          669,
+          6
+        ],
+        [
+          669,
+          7
+        ],
+        [
+          670,
+          5
+        ],
+        [
+          670,
+          6
+        ],
+        [
+          670,
+          7
+        ],
+        [
+          748,
+          5
+        ],
+        [
+          748,
+          6
+        ],
+        [
+          748,
+          7
+        ],
+        [
+          749,
+          5
+        ],
+        [
+          749,
+          6
+        ],
+        [
+          749,
+          7
+        ],
+        [
+          750,
+          5
+        ],
+        [
+          750,
+          6
+        ],
+        [
+          750,
+          7
+        ],
+        [
+          751,
+          5
+        ],
+        [
+          751,
+          6
+        ],
+        [
+          751,
+          7
+        ],
+        [
+          771,
+          5
+        ],
+        [
+          771,
+          6
+        ],
+        [
+          771,
+          7
+        ],
+        [
+          772,
+          5
+        ],
+        [
+          772,
+          6
+        ],
+        [
+          772,
+          7
+        ],
+        [
+          773,
+          5
+        ],
+        [
+          773,
+          6
+        ],
+        [
+          773,
+          7
+        ],
+        [
+          774,
+          5
+        ],
+        [
+          774,
+          6
+        ],
+        [
+          774,
+          7
+        ],
+        [
+          803,
+          4
+        ],
+        [
+          803,
+          5
+        ],
+        [
+          803,
+          6
+        ],
+        [
+          803,
+          7
+        ],
+        [
+          803,
+          8
+        ],
+        [
+          804,
+          4
+        ],
+        [
+          804,
+          5
+        ],
+        [
+          804,
+          6
+        ],
+        [
+          804,
+          7
+        ],
+        [
+          804,
+          8
+        ],
+        [
+          805,
+          4
+        ],
+        [
+          805,
+          5
+        ],
+        [
+          805,
+          6
+        ],
+        [
+          805,
+          7
+        ],
+        [
+          805,
+          8
+        ],
+        [
+          831,
+          0
+        ],
+        [
+          831,
+          1
+        ],
+        [
+          831,
+          2
+        ],
+        [
+          831,
+          3
+        ],
+        [
+          832,
+          0
+        ],
+        [
+          832,
+          1
+        ],
+        [
+          832,
+          2
+        ],
+        [
+          832,
+          3
+        ],
+        [
+          833,
+          0
+        ],
+        [
+          833,
+          1
+        ],
+        [
+          833,
+          2
+        ],
+        [
+          833,
+          3
+        ],
+        [
+          834,
+          0
+        ],
+        [
+          834,
+          1
+        ],
+        [
+          834,
+          2
+        ],
+        [
+          834,
+          3
+        ]
+      ],
+      "OwnedQuad": {
+        "X": 79,
+        "Y": 10548,
+        "Owner": 0,
+        "Grenade": false,
+        "Cannon": true,
+        "Impact": 1
+      },
+      "Control": {
+        "X": -1,
+        "Y": 1,
+        "Fire": false,
+        "Action": false
+      },
+      "Expected": {
+        "Active": true,
+        "Remaining": 5,
+        "Owner": -1,
+        "Parts": [
+          {
+            "X": 71,
+            "Y": 10540
+          },
+          {
+            "X": 79,
+            "Y": 10540
+          },
+          {
+            "X": 87,
+            "Y": 10540
+          },
+          {
+            "X": 71,
+            "Y": 10548
+          },
+          {
+            "X": 87,
+            "Y": 10548
+          },
+          {
+            "X": 71,
+            "Y": 10556
+          },
+          {
+            "X": 79,
+            "Y": 10556
+          },
+          {
+            "X": 87,
+            "Y": 10556
+          }
+        ]
+      }
+    },
+    {
+      "Name": "observed-event-07-tick3789",
+      "BeforeTick": 3788,
+      "AfterTick": 3789,
+      "BeforeSHA256": "982fee9fc9057bf98e528c5db24e8097374d1445f0bae780379f4f28e79e15f1",
+      "AfterSHA256": "9a8a5d4451952222fa980774581fba790f95f3ae1a629ccd185767eaceb35e43",
+      "Player": {
+        "X": 144,
+        "Y": 10012,
+        "Direction": 4,
+        "Health": 1,
+        "DeadTicks": 0,
+        "Invulnerable": 0,
+        "InTank": true,
+        "TankBurning": false,
+        "TankBurn": 231,
+        "TankFuel": 17,
+        "TankSlot": 19
+      },
+      "CameraY": 9882,
+      "CameraBackY": 9888,
+      "Lives": 2,
+      "Ammunition": 70,
+      "Grenades": 46,
+      "BulletPower": 1,
+      "GrenadePower": 2,
+      "RangeBonus": 0,
+      "DirectionLock": false,
+      "TankFuelPhase": [
+        9,
+        20
+      ],
+      "CannonReservation": 0,
+      "IdleArtilleryTicks": 29,
+      "Enemies": [
+        {
+          "X": 32,
+          "Y": 10097,
+          "Health": 1,
+          "Slot": 5,
+          "Kind": 0,
+          "MarchY": 1,
+          "MarchX": 0,
+          "MarchTime": 0,
+          "Shots": 3
+        },
+        {
+          "X": 52,
+          "Y": 10059,
+          "Health": 1,
+          "Slot": 6,
+          "Kind": 0,
+          "MarchY": 0,
+          "MarchX": 0,
+          "MarchTime": 0,
+          "Shots": 1
+        },
+        {
+          "X": 72,
+          "Y": 10079,
+          "Health": 1,
+          "Slot": 7,
+          "Kind": 0,
+          "MarchY": 0,
+          "MarchX": 0,
+          "MarchTime": 0,
+          "Shots": 3
+        },
+        {
+          "X": 92,
+          "Y": 10097,
+          "Health": 1,
+          "Slot": 8,
+          "Kind": 0,
+          "MarchY": 1,
+          "MarchX": 0,
+          "MarchTime": 0,
+          "Shots": 3
+        },
+        {
+          "X": 112,
+          "Y": 10067,
+          "Health": 1,
+          "Slot": 9,
+          "Kind": 0,
+          "MarchY": 1,
+          "MarchX": 0,
+          "MarchTime": 0,
+          "Shots": 0
+        }
+      ],
+      "Projectiles": [],
+      "Pickups": [],
+      "Mines": [],
+      "FanTraps": [
+        {
+          "X": 76,
+          "Y": 13832,
+          "Active": true,
+          "Cooldown": 10
+        },
+        {
+          "X": 106,
+          "Y": 3784,
+          "Active": true,
+          "Cooldown": 1
+        },
+        {
+          "X": 42,
+          "Y": 3688,
+          "Active": true,
+          "Cooldown": 1
+        },
+        {
+          "X": 186,
+          "Y": 3688,
+          "Active": true,
+          "Cooldown": 1
+        },
+        {
+          "X": 106,
+          "Y": 3592,
+          "Active": true,
+          "Cooldown": 1
+        }
+      ],
+      "SceneryBurst": {
+        "Active": true,
+        "Remaining": 5,
+        "Phase": 0,
+        "Frame": 49,
+        "Owner": -1,
+        "Origin": {
+          "X": 135,
+          "Y": 9928
+        },
+        "Center": {
+          "X": 151,
+          "Y": 9952
+        },
+        "Enabled": 255,
+        "Parts": [
+          {
+            "X": 135,
+            "Y": 9928
+          },
+          {
+            "X": 151,
+            "Y": 9928
+          },
+          {
+            "X": 135,
+            "Y": 9944
+          },
+          {
+            "X": 151,
+            "Y": 9944
+          },
+          {
+            "X": 151,
+            "Y": 9960
+          },
+          {
+            "X": 167,
+            "Y": 9960
+          },
+          {
+            "X": 151,
+            "Y": 9976
+          },
+          {
+            "X": 167,
+            "Y": 9976
+          }
+        ]
+      },
+      "DestroyedCells": [
+        [
+          620,
+          8
+        ],
+        [
+          620,
+          9
+        ],
+        [
+          620,
+          10
+        ],
+        [
+          621,
+          8
+        ],
+        [
+          621,
+          9
+        ],
+        [
+          621,
+          10
+        ],
+        [
+          622,
+          8
+        ],
+        [
+          622,
+          9
+        ],
+        [
+          622,
+          10
+        ],
+        [
+          623,
+          8
+        ],
+        [
+          623,
+          9
+        ],
+        [
+          623,
+          10
+        ],
+        [
+          656,
+          5
+        ],
+        [
+          656,
+          6
+        ],
+        [
+          656,
+          7
+        ],
+        [
+          657,
+          5
+        ],
+        [
+          657,
+          6
+        ],
+        [
+          657,
+          7
+        ],
+        [
+          658,
+          5
+        ],
+        [
+          658,
+          6
+        ],
+        [
+          658,
+          7
+        ],
+        [
+          659,
+          5
+        ],
+        [
+          659,
+          6
+        ],
+        [
+          659,
+          7
+        ],
+        [
+          667,
+          5
+        ],
+        [
+          667,
+          6
+        ],
+        [
+          667,
+          7
+        ],
+        [
+          668,
+          5
+        ],
+        [
+          668,
+          6
+        ],
+        [
+          668,
+          7
+        ],
+        [
+          669,
+          5
+        ],
+        [
+          669,
+          6
+        ],
+        [
+          669,
+          7
+        ],
+        [
+          670,
+          5
+        ],
+        [
+          670,
+          6
+        ],
+        [
+          670,
+          7
+        ],
+        [
+          748,
+          5
+        ],
+        [
+          748,
+          6
+        ],
+        [
+          748,
+          7
+        ],
+        [
+          749,
+          5
+        ],
+        [
+          749,
+          6
+        ],
+        [
+          749,
+          7
+        ],
+        [
+          750,
+          5
+        ],
+        [
+          750,
+          6
+        ],
+        [
+          750,
+          7
+        ],
+        [
+          751,
+          5
+        ],
+        [
+          751,
+          6
+        ],
+        [
+          751,
+          7
+        ],
+        [
+          771,
+          5
+        ],
+        [
+          771,
+          6
+        ],
+        [
+          771,
+          7
+        ],
+        [
+          772,
+          5
+        ],
+        [
+          772,
+          6
+        ],
+        [
+          772,
+          7
+        ],
+        [
+          773,
+          5
+        ],
+        [
+          773,
+          6
+        ],
+        [
+          773,
+          7
+        ],
+        [
+          774,
+          5
+        ],
+        [
+          774,
+          6
+        ],
+        [
+          774,
+          7
+        ],
+        [
+          803,
+          4
+        ],
+        [
+          803,
+          5
+        ],
+        [
+          803,
+          6
+        ],
+        [
+          803,
+          7
+        ],
+        [
+          803,
+          8
+        ],
+        [
+          804,
+          4
+        ],
+        [
+          804,
+          5
+        ],
+        [
+          804,
+          6
+        ],
+        [
+          804,
+          7
+        ],
+        [
+          804,
+          8
+        ],
+        [
+          805,
+          4
+        ],
+        [
+          805,
+          5
+        ],
+        [
+          805,
+          6
+        ],
+        [
+          805,
+          7
+        ],
+        [
+          805,
+          8
+        ],
+        [
+          831,
+          0
+        ],
+        [
+          831,
+          1
+        ],
+        [
+          831,
+          2
+        ],
+        [
+          831,
+          3
+        ],
+        [
+          832,
+          0
+        ],
+        [
+          832,
+          1
+        ],
+        [
+          832,
+          2
+        ],
+        [
+          832,
+          3
+        ],
+        [
+          833,
+          0
+        ],
+        [
+          833,
+          1
+        ],
+        [
+          833,
+          2
+        ],
+        [
+          833,
+          3
+        ],
+        [
+          834,
+          0
+        ],
+        [
+          834,
+          1
+        ],
+        [
+          834,
+          2
+        ],
+        [
+          834,
+          3
+        ]
+      ],
+      "OwnedQuad": {
+        "X": 147,
+        "Y": 9954,
+        "Owner": 0,
+        "Grenade": false,
+        "Cannon": true,
+        "Impact": 1
+      },
+      "Control": {
+        "X": 0,
+        "Y": 0,
+        "Fire": false,
+        "Action": false
+      },
+      "Expected": {
+        "Active": true,
+        "Remaining": 5,
+        "Owner": -1,
+        "Parts": [
+          {
+            "X": 139,
+            "Y": 9946
+          },
+          {
+            "X": 147,
+            "Y": 9946
+          },
+          {
+            "X": 155,
+            "Y": 9946
+          },
+          {
+            "X": 139,
+            "Y": 9954
+          },
+          {
+            "X": 155,
+            "Y": 9954
+          },
+          {
+            "X": 139,
+            "Y": 9962
+          },
+          {
+            "X": 147,
+            "Y": 9962
+          },
+          {
+            "X": 155,
+            "Y": 9962
+          }
+        ]
+      }
+    },
+    {
+      "Name": "observed-event-11-tick4112",
+      "BeforeTick": 4111,
+      "AfterTick": 4112,
+      "BeforeSHA256": "06aa57e4a4a2bf7819fad00dd2b15194a83ac6ae5242ef4a3bbc8cd009be4b64",
+      "AfterSHA256": "3f88dd83a7b133fff23442352d316e92f75cb6ae4ae3d9a3e9d39e61bc671e69",
+      "Player": {
+        "X": 127,
+        "Y": 9703,
+        "Direction": 7,
+        "Health": 1,
+        "DeadTicks": 0,
+        "Invulnerable": 30,
+        "InTank": false,
+        "TankBurning": false,
+        "TankBurn": 237,
+        "TankFuel": 1,
+        "TankSlot": 0
+      },
+      "CameraY": 9580,
+      "CameraBackY": 9600,
+      "Lives": 1,
+      "Ammunition": 97,
+      "Grenades": 49,
+      "BulletPower": 1,
+      "GrenadePower": 2,
+      "RangeBonus": 0,
+      "DirectionLock": false,
+      "TankFuelPhase": [
+        5,
+        20
+      ],
+      "CannonReservation": 0,
+      "IdleArtilleryTicks": 44,
+      "Enemies": [
+        {
+          "X": 92,
+          "Y": 9640,
+          "Health": 1,
+          "Slot": 11,
+          "Kind": 0,
+          "MarchY": 1,
+          "MarchX": 0,
+          "MarchTime": 0,
+          "Shots": 3
+        },
+        {
+          "X": 102,
+          "Y": 9558,
+          "Health": 1,
+          "Slot": 12,
+          "Kind": 0,
+          "MarchY": 1,
+          "MarchX": 0,
+          "MarchTime": 0,
+          "Shots": 0
+        },
+        {
+          "X": 112,
+          "Y": 9614,
+          "Health": 1,
+          "Slot": 13,
+          "Kind": 0,
+          "MarchY": 1,
+          "MarchX": 0,
+          "MarchTime": 0,
+          "Shots": 0
+        },
+        {
+          "X": 52,
+          "Y": 9672,
+          "Health": 1,
+          "Slot": 32,
+          "Kind": 6
+        }
+      ],
+      "Projectiles": [
+        {
+          "X": 56,
+          "Y": 9708,
+          "VX": -4,
+          "VY": 4,
+          "Life": 1,
+          "Enemy": true,
+          "Owner": -1,
+          "Slot": 0,
+          "Grenade": false,
+          "Fragments": false,
+          "Frame": 0,
+          "AirStrike": 0
+        }
+      ],
+      "Pickups": [
+        {
+          "X": 44,
+          "Y": 9698,
+          "Kind": 1
+        }
+      ],
+      "Mines": [
+        {
+          "X": 84,
+          "Y": 9694,
+          "Slot": 81,
+          "Kind": 18
+        },
+        {
+          "X": 44,
+          "Y": 9692,
+          "Slot": 85,
+          "Kind": 20
+        }
+      ],
+      "FanTraps": [
+        {
+          "X": 76,
+          "Y": 13832,
+          "Active": true,
+          "Cooldown": 10
+        },
+        {
+          "X": 106,
+          "Y": 3784,
+          "Active": true,
+          "Cooldown": 1
+        },
+        {
+          "X": 42,
+          "Y": 3688,
+          "Active": true,
+          "Cooldown": 1
+        },
+        {
+          "X": 186,
+          "Y": 3688,
+          "Active": true,
+          "Cooldown": 1
+        },
+        {
+          "X": 106,
+          "Y": 3592,
+          "Active": true,
+          "Cooldown": 1
+        }
+      ],
+      "SceneryBurst": {
+        "Active": false,
+        "Remaining": 0,
+        "Phase": 0,
+        "Frame": 45,
+        "Owner": -1,
+        "Origin": {
+          "X": 135,
+          "Y": 9928
+        },
+        "Center": {
+          "X": 151,
+          "Y": 9952
+        },
+        "Enabled": 0,
+        "Parts": [
+          {
+            "X": -40,
+            "Y": 9628
+          },
+          {
+            "X": 8,
+            "Y": 9628
+          },
+          {
+            "X": 56,
+            "Y": 9628
+          },
+          {
+            "X": -40,
+            "Y": 9676
+          },
+          {
+            "X": 56,
+            "Y": 9676
+          },
+          {
+            "X": -40,
+            "Y": 9724
+          },
+          {
+            "X": 8,
+            "Y": 9724
+          },
+          {
+            "X": 56,
+            "Y": 9724
+          }
+        ]
+      },
+      "DestroyedCells": [
+        [
+          620,
+          8
+        ],
+        [
+          620,
+          9
+        ],
+        [
+          620,
+          10
+        ],
+        [
+          621,
+          8
+        ],
+        [
+          621,
+          9
+        ],
+        [
+          621,
+          10
+        ],
+        [
+          622,
+          8
+        ],
+        [
+          622,
+          9
+        ],
+        [
+          622,
+          10
+        ],
+        [
+          623,
+          8
+        ],
+        [
+          623,
+          9
+        ],
+        [
+          623,
+          10
+        ],
+        [
+          656,
+          5
+        ],
+        [
+          656,
+          6
+        ],
+        [
+          656,
+          7
+        ],
+        [
+          657,
+          5
+        ],
+        [
+          657,
+          6
+        ],
+        [
+          657,
+          7
+        ],
+        [
+          658,
+          5
+        ],
+        [
+          658,
+          6
+        ],
+        [
+          658,
+          7
+        ],
+        [
+          659,
+          5
+        ],
+        [
+          659,
+          6
+        ],
+        [
+          659,
+          7
+        ],
+        [
+          667,
+          5
+        ],
+        [
+          667,
+          6
+        ],
+        [
+          667,
+          7
+        ],
+        [
+          668,
+          5
+        ],
+        [
+          668,
+          6
+        ],
+        [
+          668,
+          7
+        ],
+        [
+          669,
+          5
+        ],
+        [
+          669,
+          6
+        ],
+        [
+          669,
+          7
+        ],
+        [
+          670,
+          5
+        ],
+        [
+          670,
+          6
+        ],
+        [
+          670,
+          7
+        ],
+        [
+          748,
+          5
+        ],
+        [
+          748,
+          6
+        ],
+        [
+          748,
+          7
+        ],
+        [
+          749,
+          5
+        ],
+        [
+          749,
+          6
+        ],
+        [
+          749,
+          7
+        ],
+        [
+          750,
+          5
+        ],
+        [
+          750,
+          6
+        ],
+        [
+          750,
+          7
+        ],
+        [
+          751,
+          5
+        ],
+        [
+          751,
+          6
+        ],
+        [
+          751,
+          7
+        ],
+        [
+          771,
+          5
+        ],
+        [
+          771,
+          6
+        ],
+        [
+          771,
+          7
+        ],
+        [
+          772,
+          5
+        ],
+        [
+          772,
+          6
+        ],
+        [
+          772,
+          7
+        ],
+        [
+          773,
+          5
+        ],
+        [
+          773,
+          6
+        ],
+        [
+          773,
+          7
+        ],
+        [
+          774,
+          5
+        ],
+        [
+          774,
+          6
+        ],
+        [
+          774,
+          7
+        ],
+        [
+          803,
+          4
+        ],
+        [
+          803,
+          5
+        ],
+        [
+          803,
+          6
+        ],
+        [
+          803,
+          7
+        ],
+        [
+          803,
+          8
+        ],
+        [
+          804,
+          4
+        ],
+        [
+          804,
+          5
+        ],
+        [
+          804,
+          6
+        ],
+        [
+          804,
+          7
+        ],
+        [
+          804,
+          8
+        ],
+        [
+          805,
+          4
+        ],
+        [
+          805,
+          5
+        ],
+        [
+          805,
+          6
+        ],
+        [
+          805,
+          7
+        ],
+        [
+          805,
+          8
+        ],
+        [
+          831,
+          0
+        ],
+        [
+          831,
+          1
+        ],
+        [
+          831,
+          2
+        ],
+        [
+          831,
+          3
+        ],
+        [
+          832,
+          0
+        ],
+        [
+          832,
+          1
+        ],
+        [
+          832,
+          2
+        ],
+        [
+          832,
+          3
+        ],
+        [
+          833,
+          0
+        ],
+        [
+          833,
+          1
+        ],
+        [
+          833,
+          2
+        ],
+        [
+          833,
+          3
+        ],
+        [
+          834,
+          0
+        ],
+        [
+          834,
+          1
+        ],
+        [
+          834,
+          2
+        ],
+        [
+          834,
+          3
+        ]
+      ],
+      "OwnedQuad": {
+        "X": 116,
+        "Y": 9670,
+        "Owner": 0,
+        "Grenade": true,
+        "Cannon": false,
+        "Impact": 1
+      },
+      "Control": {
+        "X": -1,
+        "Y": -1,
+        "Fire": false,
+        "Action": false
+      },
+      "Expected": {
+        "Active": true,
+        "Remaining": 5,
+        "Owner": -1,
+        "Parts": [
+          {
+            "X": 108,
+            "Y": 9662
+          },
+          {
+            "X": 116,
+            "Y": 9662
+          },
+          {
+            "X": 124,
+            "Y": 9662
+          },
+          {
+            "X": 108,
+            "Y": 9670
+          },
+          {
+            "X": 124,
+            "Y": 9670
+          },
+          {
+            "X": 108,
+            "Y": 9678
+          },
+          {
+            "X": 116,
+            "Y": 9678
+          },
+          {
+            "X": 124,
+            "Y": 9678
+          }
+        ]
+      }
+    },
+    {
+      "Name": "observed-event-15-tick4465",
+      "BeforeTick": 4464,
+      "AfterTick": 4465,
+      "BeforeSHA256": "05d1c11bff812bbc7d554cba0c1eab93695b003672cfb88d20c98f84b154e6a6",
+      "AfterSHA256": "e4e071a7ed0870238c669a816fb5c68cb12f9ffc78540dec959b8ab326c21156",
+      "Player": {
+        "X": 129,
+        "Y": 9345,
+        "Direction": 0,
+        "Health": 1,
+        "DeadTicks": 0,
+        "Invulnerable": 0,
+        "InTank": false,
+        "TankBurning": false,
+        "TankBurn": 140,
+        "TankFuel": 1,
+        "TankSlot": 0
+      },
+      "CameraY": 9250,
+      "CameraBackY": 9280,
+      "Lives": 1,
+      "Ammunition": 80,
+      "Grenades": 47,
+      "BulletPower": 1,
+      "GrenadePower": 2,
+      "RangeBonus": 0,
+      "DirectionLock": false,
+      "TankFuelPhase": [
+        5,
+        20
+      ],
+      "CannonReservation": 0,
+      "IdleArtilleryTicks": 9,
+      "Enemies": [
+        {
+          "X": 92,
+          "Y": 9258,
+          "Health": 1,
+          "Slot": 0,
+          "Kind": 3
+        }
+      ],
+      "Projectiles": [
+        {
+          "X": 135,
+          "Y": 9291,
+          "VX": 0,
+          "VY": -6,
+          "Life": 1,
+          "Owner": 0,
+          "Slot": 1,
+          "Power": 1,
+          "Frame": 3,
+          "Grenade": false,
+          "Cannon": false,
+          "Impact": 3,
+          "TerrainBias": 0
+        }
+      ],
+      "Pickups": [],
+      "Mines": [
+        {
+          "X": 104,
+          "Y": 9412,
+          "Slot": 83,
+          "Kind": 19
+        },
+        {
+          "X": 104,
+          "Y": 9342,
+          "Slot": 84,
+          "Kind": 19
+        }
+      ],
+      "FanTraps": [
+        {
+          "X": 76,
+          "Y": 13832,
+          "Active": true,
+          "Cooldown": 10
+        },
+        {
+          "X": 106,
+          "Y": 3784,
+          "Active": true,
+          "Cooldown": 1
+        },
+        {
+          "X": 42,
+          "Y": 3688,
+          "Active": true,
+          "Cooldown": 1
+        },
+        {
+          "X": 186,
+          "Y": 3688,
+          "Active": true,
+          "Cooldown": 1
+        },
+        {
+          "X": 106,
+          "Y": 3592,
+          "Active": true,
+          "Cooldown": 1
+        }
+      ],
+      "SceneryBurst": {
+        "Active": false,
+        "Remaining": 0,
+        "Phase": 0,
+        "Frame": 45,
+        "Owner": -1,
+        "Origin": {
+          "X": 135,
+          "Y": 9928
+        },
+        "Center": {
+          "X": 151,
+          "Y": 9952
+        },
+        "Enabled": 0,
+        "Parts": [
+          {
+            "X": -26,
+            "Y": 9319
+          },
+          {
+            "X": 22,
+            "Y": 9319
+          },
+          {
+            "X": 70,
+            "Y": 9319
+          },
+          {
+            "X": -26,
+            "Y": 9367
+          },
+          {
+            "X": 70,
+            "Y": 9367
+          },
+          {
+            "X": -26,
+            "Y": 9415
+          },
+          {
+            "X": 22,
+            "Y": 9415
+          },
+          {
+            "X": 70,
+            "Y": 9415
+          }
+        ]
+      },
+      "DestroyedCells": [
+        [
+          620,
+          8
+        ],
+        [
+          620,
+          9
+        ],
+        [
+          620,
+          10
+        ],
+        [
+          621,
+          8
+        ],
+        [
+          621,
+          9
+        ],
+        [
+          621,
+          10
+        ],
+        [
+          622,
+          8
+        ],
+        [
+          622,
+          9
+        ],
+        [
+          622,
+          10
+        ],
+        [
+          623,
+          8
+        ],
+        [
+          623,
+          9
+        ],
+        [
+          623,
+          10
+        ],
+        [
+          656,
+          5
+        ],
+        [
+          656,
+          6
+        ],
+        [
+          656,
+          7
+        ],
+        [
+          657,
+          5
+        ],
+        [
+          657,
+          6
+        ],
+        [
+          657,
+          7
+        ],
+        [
+          658,
+          5
+        ],
+        [
+          658,
+          6
+        ],
+        [
+          658,
+          7
+        ],
+        [
+          659,
+          5
+        ],
+        [
+          659,
+          6
+        ],
+        [
+          659,
+          7
+        ],
+        [
+          667,
+          5
+        ],
+        [
+          667,
+          6
+        ],
+        [
+          667,
+          7
+        ],
+        [
+          668,
+          5
+        ],
+        [
+          668,
+          6
+        ],
+        [
+          668,
+          7
+        ],
+        [
+          669,
+          5
+        ],
+        [
+          669,
+          6
+        ],
+        [
+          669,
+          7
+        ],
+        [
+          670,
+          5
+        ],
+        [
+          670,
+          6
+        ],
+        [
+          670,
+          7
+        ],
+        [
+          748,
+          5
+        ],
+        [
+          748,
+          6
+        ],
+        [
+          748,
+          7
+        ],
+        [
+          749,
+          5
+        ],
+        [
+          749,
+          6
+        ],
+        [
+          749,
+          7
+        ],
+        [
+          750,
+          5
+        ],
+        [
+          750,
+          6
+        ],
+        [
+          750,
+          7
+        ],
+        [
+          751,
+          5
+        ],
+        [
+          751,
+          6
+        ],
+        [
+          751,
+          7
+        ],
+        [
+          771,
+          5
+        ],
+        [
+          771,
+          6
+        ],
+        [
+          771,
+          7
+        ],
+        [
+          772,
+          5
+        ],
+        [
+          772,
+          6
+        ],
+        [
+          772,
+          7
+        ],
+        [
+          773,
+          5
+        ],
+        [
+          773,
+          6
+        ],
+        [
+          773,
+          7
+        ],
+        [
+          774,
+          5
+        ],
+        [
+          774,
+          6
+        ],
+        [
+          774,
+          7
+        ],
+        [
+          803,
+          4
+        ],
+        [
+          803,
+          5
+        ],
+        [
+          803,
+          6
+        ],
+        [
+          803,
+          7
+        ],
+        [
+          803,
+          8
+        ],
+        [
+          804,
+          4
+        ],
+        [
+          804,
+          5
+        ],
+        [
+          804,
+          6
+        ],
+        [
+          804,
+          7
+        ],
+        [
+          804,
+          8
+        ],
+        [
+          805,
+          4
+        ],
+        [
+          805,
+          5
+        ],
+        [
+          805,
+          6
+        ],
+        [
+          805,
+          7
+        ],
+        [
+          805,
+          8
+        ],
+        [
+          831,
+          0
+        ],
+        [
+          831,
+          1
+        ],
+        [
+          831,
+          2
+        ],
+        [
+          831,
+          3
+        ],
+        [
+          832,
+          0
+        ],
+        [
+          832,
+          1
+        ],
+        [
+          832,
+          2
+        ],
+        [
+          832,
+          3
+        ],
+        [
+          833,
+          0
+        ],
+        [
+          833,
+          1
+        ],
+        [
+          833,
+          2
+        ],
+        [
+          833,
+          3
+        ],
+        [
+          834,
+          0
+        ],
+        [
+          834,
+          1
+        ],
+        [
+          834,
+          2
+        ],
+        [
+          834,
+          3
+        ]
+      ],
+      "OwnedQuad": {
+        "X": 119,
+        "Y": 9288,
+        "Owner": 0,
+        "Grenade": true,
+        "Cannon": false,
+        "Impact": 1
+      },
+      "Control": {
+        "X": 0,
+        "Y": 0,
+        "Fire": false,
+        "Action": false
+      },
+      "Expected": {
+        "Active": true,
+        "Remaining": 5,
+        "Owner": -1,
+        "Parts": [
+          {
+            "X": 111,
+            "Y": 9280
+          },
+          {
+            "X": 119,
+            "Y": 9280
+          },
+          {
+            "X": 127,
+            "Y": 9280
+          },
+          {
+            "X": 111,
+            "Y": 9288
+          },
+          {
+            "X": 127,
+            "Y": 9288
+          },
+          {
+            "X": 111,
+            "Y": 9296
+          },
+          {
+            "X": 119,
+            "Y": 9296
+          },
+          {
+            "X": 127,
+            "Y": 9296
+          }
+        ]
+      }
+    }
+  ]
+}

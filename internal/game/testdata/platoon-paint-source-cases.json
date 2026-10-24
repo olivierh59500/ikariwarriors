@@ -1,0 +1,413 @@
+{
+  "sourceOnly": true,
+  "cases": [
+    {
+      "frame": 1614,
+      "kind": 16,
+      "camera": 12658,
+      "player": {
+        "slot": 23,
+        "x": 98,
+        "y": 12734,
+        "upper": 375688,
+        "lower": 0,
+        "active": true
+      },
+      "tank": true,
+      "last": {
+        "slot": 25,
+        "x": 98,
+        "y": 12734,
+        "upper": 357928,
+        "lower": 0,
+        "active": true
+      },
+      "expectedPaintSelector": 0,
+      "expectedSpawnPath": 0
+    },
+    {
+      "frame": 1726,
+      "kind": 16,
+      "camera": 12458,
+      "player": {
+        "slot": 23,
+        "x": 98,
+        "y": 12536,
+        "upper": 375688,
+        "lower": 0,
+        "active": true
+      },
+      "tank": true,
+      "last": {
+        "slot": 25,
+        "x": 98,
+        "y": 12536,
+        "upper": 357928,
+        "lower": 0,
+        "active": true
+      },
+      "expectedPaintSelector": 0,
+      "expectedSpawnPath": 0
+    },
+    {
+      "frame": 2081,
+      "kind": 12,
+      "camera": 11962,
+      "player": {
+        "slot": 23,
+        "x": 98,
+        "y": 12056,
+        "upper": 375688,
+        "lower": 0,
+        "active": true
+      },
+      "tank": true,
+      "last": {
+        "slot": 25,
+        "x": 98,
+        "y": 12056,
+        "upper": 357928,
+        "lower": 0,
+        "active": true
+      },
+      "expectedPaintSelector": 0,
+      "expectedSpawnPath": 0
+    },
+    {
+      "frame": 2934,
+      "kind": 12,
+      "camera": 10668,
+      "player": {
+        "slot": 23,
+        "x": 150,
+        "y": 10762,
+        "upper": 373768,
+        "lower": 0,
+        "active": true
+      },
+      "tank": true,
+      "last": {
+        "slot": 25,
+        "x": 150,
+        "y": 10762,
+        "upper": 357928,
+        "lower": 0,
+        "active": true
+      },
+      "expectedPaintSelector": 0,
+      "expectedSpawnPath": 0
+    },
+    {
+      "frame": 3025,
+      "kind": 16,
+      "camera": 10598,
+      "player": {
+        "slot": 23,
+        "x": 126,
+        "y": 10692,
+        "upper": 374728,
+        "lower": 0,
+        "active": true
+      },
+      "tank": true,
+      "last": {
+        "slot": 25,
+        "x": 126,
+        "y": 10692,
+        "upper": 357928,
+        "lower": 0,
+        "active": true
+      },
+      "expectedPaintSelector": 0,
+      "expectedSpawnPath": 0
+    },
+    {
+      "frame": 3091,
+      "kind": 12,
+      "camera": 10492,
+      "player": {
+        "slot": 23,
+        "x": 124,
+        "y": 10586,
+        "upper": 374728,
+        "lower": 0,
+        "active": true
+      },
+      "tank": true,
+      "last": {
+        "slot": 25,
+        "x": 124,
+        "y": 10586,
+        "upper": 357928,
+        "lower": 0,
+        "active": true
+      },
+      "expectedPaintSelector": 0,
+      "expectedSpawnPath": 0
+    },
+    {
+      "frame": 3602,
+      "kind": 16,
+      "camera": 9834,
+      "player": {
+        "slot": 23,
+        "x": 126,
+        "y": 9928,
+        "upper": 275848,
+        "lower": 289928,
+        "active": true
+      },
+      "tank": false,
+      "last": {
+        "slot": 23,
+        "x": 126,
+        "y": 9928,
+        "upper": 275848,
+        "lower": 289928,
+        "active": true
+      },
+      "expectedPaintSelector": 8,
+      "expectedSpawnPath": 8
+    },
+    {
+      "frame": 5320,
+      "kind": 16,
+      "camera": 8348,
+      "player": {
+        "slot": 23,
+        "x": 30,
+        "y": 8443,
+        "upper": 275848,
+        "lower": 303688,
+        "active": true
+      },
+      "tank": false,
+      "last": {
+        "slot": 23,
+        "x": 30,
+        "y": 8443,
+        "upper": 275848,
+        "lower": 303688,
+        "active": true
+      },
+      "expectedPaintSelector": 200,
+      "expectedSpawnPath": 200
+    },
+    {
+      "frame": 6084,
+      "kind": 12,
+      "camera": 7756,
+      "player": {
+        "slot": 23,
+        "x": 120,
+        "y": 7850,
+        "upper": 275848,
+        "lower": 289448,
+        "active": true
+      },
+      "tank": false,
+      "last": {
+        "slot": 23,
+        "x": 120,
+        "y": 7850,
+        "upper": 275848,
+        "lower": 289448,
+        "active": true
+      },
+      "expectedPaintSelector": 40,
+      "expectedSpawnPath": 0
+    },
+    {
+      "frame": 6402,
+      "kind": 16,
+      "camera": 7308,
+      "player": {
+        "slot": 23,
+        "x": 96,
+        "y": 7384,
+        "upper": 376648,
+        "lower": 0,
+        "active": true
+      },
+      "tank": true,
+      "last": {
+        "slot": 25,
+        "x": 96,
+        "y": 7384,
+        "upper": 357928,
+        "lower": 0,
+        "active": true
+      },
+      "expectedPaintSelector": 0,
+      "expectedSpawnPath": 0
+    },
+    {
+      "frame": 6452,
+      "kind": 16,
+      "camera": 7208,
+      "player": {
+        "slot": 23,
+        "x": 96,
+        "y": 7284,
+        "upper": 373768,
+        "lower": 0,
+        "active": true
+      },
+      "tank": true,
+      "last": {
+        "slot": 25,
+        "x": 96,
+        "y": 7284,
+        "upper": 357928,
+        "lower": 0,
+        "active": true
+      },
+      "expectedPaintSelector": 0,
+      "expectedSpawnPath": 0
+    },
+    {
+      "frame": 6502,
+      "kind": 16,
+      "camera": 7108,
+      "player": {
+        "slot": 23,
+        "x": 96,
+        "y": 7184,
+        "upper": 374728,
+        "lower": 0,
+        "active": true
+      },
+      "tank": true,
+      "last": {
+        "slot": 25,
+        "x": 96,
+        "y": 7184,
+        "upper": 357928,
+        "lower": 0,
+        "active": true
+      },
+      "expectedPaintSelector": 0,
+      "expectedSpawnPath": 0
+    },
+    {
+      "frame": 6542,
+      "kind": 16,
+      "camera": 7028,
+      "player": {
+        "slot": 23,
+        "x": 96,
+        "y": 7104,
+        "upper": 374728,
+        "lower": 0,
+        "active": true
+      },
+      "tank": true,
+      "last": {
+        "slot": 25,
+        "x": 96,
+        "y": 7104,
+        "upper": 357928,
+        "lower": 0,
+        "active": true
+      },
+      "expectedPaintSelector": 0,
+      "expectedSpawnPath": 0
+    },
+    {
+      "frame": 6912,
+      "kind": 12,
+      "camera": 6492,
+      "player": {
+        "slot": 23,
+        "x": 96,
+        "y": 6586,
+        "upper": 374728,
+        "lower": 0,
+        "active": true
+      },
+      "tank": true,
+      "last": {
+        "slot": 25,
+        "x": 96,
+        "y": 6586,
+        "upper": 357928,
+        "lower": 0,
+        "active": true
+      },
+      "expectedPaintSelector": 0,
+      "expectedSpawnPath": 0
+    },
+    {
+      "frame": 8809,
+      "kind": 12,
+      "camera": 4922,
+      "player": {
+        "slot": 23,
+        "x": 103,
+        "y": 5017,
+        "upper": 275848,
+        "lower": 289928,
+        "active": true
+      },
+      "tank": false,
+      "last": {
+        "slot": 23,
+        "x": 103,
+        "y": 5017,
+        "upper": 275848,
+        "lower": 289928,
+        "active": true
+      },
+      "expectedPaintSelector": 8,
+      "expectedSpawnPath": 0
+    },
+    {
+      "frame": 10240,
+      "kind": 16,
+      "camera": 3168,
+      "player": {
+        "slot": 23,
+        "x": 126,
+        "y": 3262,
+        "upper": 275848,
+        "lower": 289608,
+        "active": true
+      },
+      "tank": false,
+      "last": {
+        "slot": 23,
+        "x": 126,
+        "y": 3262,
+        "upper": 275848,
+        "lower": 289608,
+        "active": true
+      },
+      "expectedPaintSelector": 200,
+      "expectedSpawnPath": 200
+    },
+    {
+      "frame": 12352,
+      "kind": 16,
+      "camera": 484,
+      "player": {
+        "slot": 23,
+        "x": 72,
+        "y": 578,
+        "upper": 275848,
+        "lower": 290088,
+        "active": true
+      },
+      "tank": false,
+      "last": {
+        "slot": 31,
+        "x": 48,
+        "y": 592,
+        "upper": 368488,
+        "lower": 0,
+        "active": true
+      },
+      "expectedPaintSelector": 0,
+      "expectedSpawnPath": 0
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+[
+  {
+    "frame": 1241,
+    "sourceSHA256": "39fa7f11d89020abe788f1449387f145f07a0cda22dc2a91f9b2bb5934327272",
+    "camera": 13040,
+    "body": {
+      "x": 176,
+      "y": 13134,
+      "image": 375688
+    },
+    "turret": {
+      "x": 176,
+      "y": 13134,
+      "image": 357928
+    },
+    "fuel": 2,
+    "phase": 0,
+    "burning": false,
+    "burn": 38
+  },
+  {
+    "frame": 1242,
+    "sourceSHA256": "62fb240be1f2500842171d9fc80db2923d71f275bba055064b741740cf31c4fd",
+    "camera": 13038,
+    "body": {
+      "x": 176,
+      "y": 13132,
+      "image": 369448
+    },
+    "turret": {
+      "x": 176,
+      "y": 13134,
+      "image": 370408
+    },
+    "fuel": 1,
+    "phase": 15,
+    "burning": true,
+    "burn": 69
+  },
+  {
+    "frame": 1243,
+    "sourceSHA256": "a4eb37f37dacfc1d757e1e1c52073f480148f353a22cc62a34d94d4401132edb",
+    "camera": 13038,
+    "body": {
+      "x": 176,
+      "y": 13132,
+      "image": 369448
+    },
+    "turret": {
+      "x": 176,
+      "y": 13132,
+      "image": 370888
+    },
+    "fuel": 1,
+    "phase": 14,
+    "burning": true,
+    "burn": 68
+  }
+]

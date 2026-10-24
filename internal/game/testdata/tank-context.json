@@ -1,0 +1,68 @@
+[
+  {
+    "stage": "burned",
+    "inTank": 1,
+    "burning": 1,
+    "burnTicks": 70,
+    "grenades": 80,
+    "body": "0x5a328",
+    "legs": "0x0",
+    "p2Tank": 0,
+    "p2Borrowed": "0x0"
+  },
+  {
+    "stage": "hit_again",
+    "inTank": 1,
+    "burning": 1,
+    "burnTicks": 70,
+    "grenades": 80,
+    "body": "0x5a328",
+    "legs": "0x0",
+    "p2Tank": 0,
+    "p2Borrowed": "0x0"
+  },
+  {
+    "stage": "dismounted",
+    "inTank": 0,
+    "burning": 1,
+    "burnTicks": 70,
+    "grenades": 80,
+    "body": "0x43588",
+    "legs": "0x46a08",
+    "p2Tank": 0,
+    "p2Borrowed": "0x0"
+  },
+  {
+    "stage": "own_board_blocked",
+    "inTank": 0,
+    "burning": 1,
+    "burnTicks": 70,
+    "grenades": 73,
+    "body": "0x43588",
+    "legs": "0x46a08",
+    "p2Tank": 0,
+    "p2Borrowed": "0x0"
+  },
+  {
+    "stage": "other_player_boarded",
+    "inTank": 0,
+    "burning": 1,
+    "burnTicks": 70,
+    "grenades": 73,
+    "body": "0x43588",
+    "legs": "0x46a08",
+    "p2Tank": 0,
+    "p2Borrowed": "0x0"
+  },
+  {
+    "stage": "respawned",
+    "inTank": 0,
+    "burning": 1,
+    "burnTicks": 70,
+    "grenades": 80,
+    "body": "0x43588",
+    "legs": "0x46a08",
+    "p2Tank": 0,
+    "p2Borrowed": "0x0"
+  }
+]

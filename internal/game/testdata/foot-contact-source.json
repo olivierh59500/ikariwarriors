@@ -1,0 +1,78 @@
+{
+  "sourceOnly": true,
+  "before": {
+    "frame": 3689,
+    "sha256": "3f8b9d2de1fd4637d1c86dfa15e166f6868af687609736337d23fc6d6df364ff",
+    "camera": 9662,
+    "score": 25200,
+    "player": {
+      "x": 126,
+      "y": 9756,
+      "progress": 5236
+    },
+    "shot": {
+      "x": 65,
+      "y": 9726,
+      "active": true,
+      "range": 4,
+      "progress": 5270,
+      "image": 304168
+    },
+    "enemy11": {
+      "x": 64,
+      "y": 9702,
+      "active": true,
+      "hit": false
+    }
+  },
+  "after": {
+    "frame": 3690,
+    "sha256": "f9b43ef06b8b6c8ee60e27f2070de2ddce130e6badde2a40d32514e4837dfe32",
+    "camera": 9660,
+    "score": 25300,
+    "player": {
+      "x": 126,
+      "y": 9754,
+      "progress": 5238
+    },
+    "shot": {
+      "x": 59,
+      "y": 9720,
+      "active": true,
+      "range": 0,
+      "progress": 5276,
+      "image": 304328
+    },
+    "enemy11": {
+      "x": 64,
+      "y": 9701,
+      "active": true,
+      "hit": true
+    }
+  },
+  "horizontalBirth": {
+    "frame": 4824,
+    "sha256": "2cc67813be14a0eccd4493cc4d0d3060e1cf2a02aa69c49ec0644ae0dccfe29b",
+    "camera": 8764,
+    "score": 29800,
+    "player": {
+      "x": 127,
+      "y": 8859,
+      "progress": 6133
+    },
+    "shot": {
+      "x": 111,
+      "y": 8869,
+      "active": true,
+      "range": 0,
+      "progress": 6127,
+      "image": 304328
+    },
+    "enemy11": {
+      "x": 92,
+      "y": 8872,
+      "active": false,
+      "hit": false
+    }
+  }
+}

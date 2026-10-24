@@ -1,0 +1,6203 @@
+[
+  {
+    "players": 1,
+    "tick": 0,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -210,
+    "poses": [
+      {
+        "x": 120,
+        "y": 200,
+        "bob": "0x43588",
+        "legs": "0x47188",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 5,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 1,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -208,
+    "poses": [
+      {
+        "x": 120,
+        "y": 198,
+        "bob": "0x436c8",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 2,
+        "delay": 1,
+        "legStep": 0,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 2,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -206,
+    "poses": [
+      {
+        "x": 120,
+        "y": 196,
+        "bob": "0x436c8",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 2,
+        "delay": 0,
+        "legStep": 0,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 3,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -204,
+    "poses": [
+      {
+        "x": 120,
+        "y": 194,
+        "bob": "0x43588",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 3,
+        "delay": 1,
+        "legStep": 1,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 4,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -202,
+    "poses": [
+      {
+        "x": 120,
+        "y": 192,
+        "bob": "0x43588",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 1,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 5,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -200,
+    "poses": [
+      {
+        "x": 120,
+        "y": 190,
+        "bob": "0x43448",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 2,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 6,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -198,
+    "poses": [
+      {
+        "x": 120,
+        "y": 188,
+        "bob": "0x43448",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 0,
+        "delay": 0,
+        "legStep": 2,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 7,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -196,
+    "poses": [
+      {
+        "x": 120,
+        "y": 186,
+        "bob": "0x43588",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 1,
+        "delay": 1,
+        "legStep": 3,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 8,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -194,
+    "poses": [
+      {
+        "x": 120,
+        "y": 184,
+        "bob": "0x43588",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 3,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 9,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -192,
+    "poses": [
+      {
+        "x": 120,
+        "y": 182,
+        "bob": "0x436c8",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 2,
+        "delay": 1,
+        "legStep": 4,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 10,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -190,
+    "poses": [
+      {
+        "x": 120,
+        "y": 180,
+        "bob": "0x436c8",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 2,
+        "delay": 0,
+        "legStep": 4,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 11,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -188,
+    "poses": [
+      {
+        "x": 120,
+        "y": 178,
+        "bob": "0x43588",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 3,
+        "delay": 1,
+        "legStep": 5,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 12,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -186,
+    "poses": [
+      {
+        "x": 120,
+        "y": 176,
+        "bob": "0x43588",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 5,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 13,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -184,
+    "poses": [
+      {
+        "x": 120,
+        "y": 174,
+        "bob": "0x43448",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 0,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 14,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -182,
+    "poses": [
+      {
+        "x": 120,
+        "y": 172,
+        "bob": "0x43448",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 0,
+        "delay": 0,
+        "legStep": 0,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 15,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -180,
+    "poses": [
+      {
+        "x": 120,
+        "y": 170,
+        "bob": "0x43588",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 1,
+        "delay": 1,
+        "legStep": 1,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 16,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -178,
+    "poses": [
+      {
+        "x": 120,
+        "y": 168,
+        "bob": "0x43588",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 1,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 17,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -176,
+    "poses": [
+      {
+        "x": 120,
+        "y": 166,
+        "bob": "0x436c8",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 2,
+        "delay": 1,
+        "legStep": 2,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 18,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -174,
+    "poses": [
+      {
+        "x": 120,
+        "y": 164,
+        "bob": "0x436c8",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 2,
+        "delay": 0,
+        "legStep": 2,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 19,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -172,
+    "poses": [
+      {
+        "x": 120,
+        "y": 162,
+        "bob": "0x43588",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 3,
+        "delay": 1,
+        "legStep": 3,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 20,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -170,
+    "poses": [
+      {
+        "x": 120,
+        "y": 160,
+        "bob": "0x43588",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 3,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 21,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -168,
+    "poses": [
+      {
+        "x": 120,
+        "y": 158,
+        "bob": "0x43448",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 4,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 22,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -166,
+    "poses": [
+      {
+        "x": 120,
+        "y": 156,
+        "bob": "0x43448",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 0,
+        "delay": 0,
+        "legStep": 4,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 23,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -164,
+    "poses": [
+      {
+        "x": 120,
+        "y": 154,
+        "bob": "0x43588",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 1,
+        "delay": 1,
+        "legStep": 5,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 24,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -162,
+    "poses": [
+      {
+        "x": 120,
+        "y": 152,
+        "bob": "0x43588",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 5,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 25,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -160,
+    "poses": [
+      {
+        "x": 120,
+        "y": 150,
+        "bob": "0x436c8",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 2,
+        "delay": 1,
+        "legStep": 0,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 26,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -158,
+    "poses": [
+      {
+        "x": 120,
+        "y": 148,
+        "bob": "0x436c8",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 2,
+        "delay": 0,
+        "legStep": 0,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 27,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -156,
+    "poses": [
+      {
+        "x": 120,
+        "y": 146,
+        "bob": "0x43588",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 3,
+        "delay": 1,
+        "legStep": 1,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 28,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -154,
+    "poses": [
+      {
+        "x": 120,
+        "y": 144,
+        "bob": "0x43588",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 1,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 29,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -152,
+    "poses": [
+      {
+        "x": 120,
+        "y": 142,
+        "bob": "0x43448",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 2,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 30,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -150,
+    "poses": [
+      {
+        "x": 120,
+        "y": 140,
+        "bob": "0x43448",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 0,
+        "delay": 0,
+        "legStep": 2,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 31,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -148,
+    "poses": [
+      {
+        "x": 120,
+        "y": 138,
+        "bob": "0x43588",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 1,
+        "delay": 1,
+        "legStep": 3,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 32,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -146,
+    "poses": [
+      {
+        "x": 120,
+        "y": 136,
+        "bob": "0x43588",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 3,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 33,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -144,
+    "poses": [
+      {
+        "x": 120,
+        "y": 134,
+        "bob": "0x436c8",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 2,
+        "delay": 1,
+        "legStep": 4,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 34,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -142,
+    "poses": [
+      {
+        "x": 120,
+        "y": 132,
+        "bob": "0x436c8",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 2,
+        "delay": 0,
+        "legStep": 4,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 35,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -140,
+    "poses": [
+      {
+        "x": 120,
+        "y": 130,
+        "bob": "0x43588",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 3,
+        "delay": 1,
+        "legStep": 5,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 36,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -138,
+    "poses": [
+      {
+        "x": 120,
+        "y": 128,
+        "bob": "0x43588",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 5,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 37,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -136,
+    "poses": [
+      {
+        "x": 120,
+        "y": 126,
+        "bob": "0x43448",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 0,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 38,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -134,
+    "poses": [
+      {
+        "x": 120,
+        "y": 124,
+        "bob": "0x43448",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 0,
+        "delay": 0,
+        "legStep": 0,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 39,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -132,
+    "poses": [
+      {
+        "x": 120,
+        "y": 122,
+        "bob": "0x43588",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 1,
+        "delay": 1,
+        "legStep": 1,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 40,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -130,
+    "poses": [
+      {
+        "x": 120,
+        "y": 120,
+        "bob": "0x43588",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 1,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 41,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -128,
+    "poses": [
+      {
+        "x": 120,
+        "y": 118,
+        "bob": "0x436c8",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 2,
+        "delay": 1,
+        "legStep": 2,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 42,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -126,
+    "poses": [
+      {
+        "x": 120,
+        "y": 116,
+        "bob": "0x436c8",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 2,
+        "delay": 0,
+        "legStep": 2,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 43,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -124,
+    "poses": [
+      {
+        "x": 120,
+        "y": 114,
+        "bob": "0x43588",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 3,
+        "delay": 1,
+        "legStep": 3,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 44,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -122,
+    "poses": [
+      {
+        "x": 120,
+        "y": 112,
+        "bob": "0x43588",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 3,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 45,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -120,
+    "poses": [
+      {
+        "x": 120,
+        "y": 110,
+        "bob": "0x43448",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 4,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 46,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -118,
+    "poses": [
+      {
+        "x": 120,
+        "y": 108,
+        "bob": "0x43448",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 0,
+        "delay": 0,
+        "legStep": 4,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 47,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -116,
+    "poses": [
+      {
+        "x": 120,
+        "y": 106,
+        "bob": "0x43588",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 1,
+        "delay": 1,
+        "legStep": 5,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 48,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -114,
+    "poses": [
+      {
+        "x": 120,
+        "y": 104,
+        "bob": "0x43588",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 5,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 49,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -112,
+    "poses": [
+      {
+        "x": 120,
+        "y": 102,
+        "bob": "0x436c8",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 2,
+        "delay": 1,
+        "legStep": 0,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 50,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -110,
+    "poses": [
+      {
+        "x": 120,
+        "y": 100,
+        "bob": "0x436c8",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 2,
+        "delay": 0,
+        "legStep": 0,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 51,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -108,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 3,
+        "delay": 1,
+        "legStep": 1,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 52,
+    "finished": false,
+    "scroll": 2,
+    "mapRows": 2,
+    "progress": -106,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 1,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 53,
+    "finished": false,
+    "scroll": 4,
+    "mapRows": 2,
+    "progress": -104,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43448",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 2,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 54,
+    "finished": false,
+    "scroll": 6,
+    "mapRows": 2,
+    "progress": -102,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43448",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 0,
+        "delay": 0,
+        "legStep": 2,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 55,
+    "finished": false,
+    "scroll": 8,
+    "mapRows": 2,
+    "progress": -100,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 1,
+        "delay": 1,
+        "legStep": 3,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 56,
+    "finished": false,
+    "scroll": 10,
+    "mapRows": 2,
+    "progress": -98,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 3,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 57,
+    "finished": false,
+    "scroll": 12,
+    "mapRows": 2,
+    "progress": -96,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x436c8",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 2,
+        "delay": 1,
+        "legStep": 4,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 58,
+    "finished": false,
+    "scroll": 14,
+    "mapRows": 2,
+    "progress": -94,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x436c8",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 2,
+        "delay": 0,
+        "legStep": 4,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 59,
+    "finished": false,
+    "scroll": 16,
+    "mapRows": 2,
+    "progress": -92,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 3,
+        "delay": 1,
+        "legStep": 5,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 60,
+    "finished": false,
+    "scroll": 18,
+    "mapRows": 2,
+    "progress": -90,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 5,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 61,
+    "finished": false,
+    "scroll": 20,
+    "mapRows": 2,
+    "progress": -88,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43448",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 0,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 62,
+    "finished": false,
+    "scroll": 22,
+    "mapRows": 2,
+    "progress": -86,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43448",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 0,
+        "delay": 0,
+        "legStep": 0,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 63,
+    "finished": false,
+    "scroll": 24,
+    "mapRows": 2,
+    "progress": -84,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 1,
+        "delay": 1,
+        "legStep": 1,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 64,
+    "finished": false,
+    "scroll": 26,
+    "mapRows": 2,
+    "progress": -82,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 1,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 65,
+    "finished": false,
+    "scroll": 28,
+    "mapRows": 2,
+    "progress": -80,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x436c8",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 2,
+        "delay": 1,
+        "legStep": 2,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 66,
+    "finished": false,
+    "scroll": 30,
+    "mapRows": 2,
+    "progress": -78,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x436c8",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 2,
+        "delay": 0,
+        "legStep": 2,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 67,
+    "finished": false,
+    "scroll": 32,
+    "mapRows": 2,
+    "progress": -76,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 3,
+        "delay": 1,
+        "legStep": 3,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 68,
+    "finished": false,
+    "scroll": 34,
+    "mapRows": 4,
+    "progress": -74,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 3,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 69,
+    "finished": false,
+    "scroll": 36,
+    "mapRows": 4,
+    "progress": -72,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43448",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 4,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 70,
+    "finished": false,
+    "scroll": 38,
+    "mapRows": 4,
+    "progress": -70,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43448",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 0,
+        "delay": 0,
+        "legStep": 4,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 71,
+    "finished": false,
+    "scroll": 40,
+    "mapRows": 4,
+    "progress": -68,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 1,
+        "delay": 1,
+        "legStep": 5,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 72,
+    "finished": false,
+    "scroll": 42,
+    "mapRows": 4,
+    "progress": -66,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 5,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 73,
+    "finished": false,
+    "scroll": 44,
+    "mapRows": 4,
+    "progress": -64,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x436c8",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 2,
+        "delay": 1,
+        "legStep": 0,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 74,
+    "finished": false,
+    "scroll": 46,
+    "mapRows": 4,
+    "progress": -62,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x436c8",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 2,
+        "delay": 0,
+        "legStep": 0,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 75,
+    "finished": false,
+    "scroll": 48,
+    "mapRows": 4,
+    "progress": -60,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 3,
+        "delay": 1,
+        "legStep": 1,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 76,
+    "finished": false,
+    "scroll": 50,
+    "mapRows": 4,
+    "progress": -58,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 1,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 77,
+    "finished": false,
+    "scroll": 52,
+    "mapRows": 4,
+    "progress": -56,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43448",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 2,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 78,
+    "finished": false,
+    "scroll": 54,
+    "mapRows": 4,
+    "progress": -54,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43448",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 0,
+        "delay": 0,
+        "legStep": 2,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 79,
+    "finished": false,
+    "scroll": 56,
+    "mapRows": 4,
+    "progress": -52,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 1,
+        "delay": 1,
+        "legStep": 3,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 80,
+    "finished": false,
+    "scroll": 58,
+    "mapRows": 4,
+    "progress": -50,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 3,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 81,
+    "finished": false,
+    "scroll": 60,
+    "mapRows": 4,
+    "progress": -48,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x436c8",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 2,
+        "delay": 1,
+        "legStep": 4,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 82,
+    "finished": false,
+    "scroll": 62,
+    "mapRows": 4,
+    "progress": -46,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x436c8",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 2,
+        "delay": 0,
+        "legStep": 4,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 83,
+    "finished": false,
+    "scroll": 64,
+    "mapRows": 4,
+    "progress": -44,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 3,
+        "delay": 1,
+        "legStep": 5,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 84,
+    "finished": false,
+    "scroll": 66,
+    "mapRows": 6,
+    "progress": -42,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 5,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 85,
+    "finished": false,
+    "scroll": 68,
+    "mapRows": 6,
+    "progress": -40,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43448",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 0,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 86,
+    "finished": false,
+    "scroll": 70,
+    "mapRows": 6,
+    "progress": -38,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43448",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 0,
+        "delay": 0,
+        "legStep": 0,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 87,
+    "finished": false,
+    "scroll": 72,
+    "mapRows": 6,
+    "progress": -36,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 1,
+        "delay": 1,
+        "legStep": 1,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 88,
+    "finished": false,
+    "scroll": 74,
+    "mapRows": 6,
+    "progress": -34,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 1,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 89,
+    "finished": false,
+    "scroll": 76,
+    "mapRows": 6,
+    "progress": -32,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x436c8",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 2,
+        "delay": 1,
+        "legStep": 2,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 90,
+    "finished": false,
+    "scroll": 78,
+    "mapRows": 6,
+    "progress": -30,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x436c8",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 2,
+        "delay": 0,
+        "legStep": 2,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 91,
+    "finished": false,
+    "scroll": 80,
+    "mapRows": 6,
+    "progress": -28,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 3,
+        "delay": 1,
+        "legStep": 3,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 92,
+    "finished": false,
+    "scroll": 82,
+    "mapRows": 6,
+    "progress": -26,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 3,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 93,
+    "finished": false,
+    "scroll": 84,
+    "mapRows": 6,
+    "progress": -24,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43448",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 4,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 94,
+    "finished": false,
+    "scroll": 86,
+    "mapRows": 6,
+    "progress": -22,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43448",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 0,
+        "delay": 0,
+        "legStep": 4,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 95,
+    "finished": false,
+    "scroll": 88,
+    "mapRows": 6,
+    "progress": -20,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 1,
+        "delay": 1,
+        "legStep": 5,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 96,
+    "finished": false,
+    "scroll": 90,
+    "mapRows": 6,
+    "progress": -18,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 5,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 97,
+    "finished": false,
+    "scroll": 92,
+    "mapRows": 6,
+    "progress": -16,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x436c8",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 2,
+        "delay": 1,
+        "legStep": 0,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 98,
+    "finished": false,
+    "scroll": 94,
+    "mapRows": 6,
+    "progress": -14,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x436c8",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 2,
+        "delay": 0,
+        "legStep": 0,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 99,
+    "finished": false,
+    "scroll": 96,
+    "mapRows": 6,
+    "progress": -12,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 3,
+        "delay": 1,
+        "legStep": 1,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 100,
+    "finished": false,
+    "scroll": 98,
+    "mapRows": 8,
+    "progress": -10,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 1,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 101,
+    "finished": false,
+    "scroll": 100,
+    "mapRows": 8,
+    "progress": -8,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43448",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 2,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 102,
+    "finished": false,
+    "scroll": 102,
+    "mapRows": 8,
+    "progress": -6,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43448",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 0,
+        "delay": 0,
+        "legStep": 2,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 103,
+    "finished": false,
+    "scroll": 104,
+    "mapRows": 8,
+    "progress": -4,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 1,
+        "delay": 1,
+        "legStep": 3,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 104,
+    "finished": false,
+    "scroll": 106,
+    "mapRows": 8,
+    "progress": -2,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 3,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 105,
+    "finished": false,
+    "scroll": 108,
+    "mapRows": 8,
+    "progress": 0,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x436c8",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 2,
+        "delay": 1,
+        "legStep": 4,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 106,
+    "finished": false,
+    "scroll": 110,
+    "mapRows": 8,
+    "progress": 2,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x436c8",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 2,
+        "delay": 0,
+        "legStep": 4,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 107,
+    "finished": false,
+    "scroll": 112,
+    "mapRows": 8,
+    "progress": 4,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 3,
+        "delay": 1,
+        "legStep": 5,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 108,
+    "finished": false,
+    "scroll": 114,
+    "mapRows": 8,
+    "progress": 6,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 5,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 109,
+    "finished": false,
+    "scroll": 116,
+    "mapRows": 8,
+    "progress": 8,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43448",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 0,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 110,
+    "finished": false,
+    "scroll": 118,
+    "mapRows": 8,
+    "progress": 10,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43448",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 0,
+        "delay": 0,
+        "legStep": 0,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 111,
+    "finished": false,
+    "scroll": 120,
+    "mapRows": 8,
+    "progress": 12,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 1,
+        "delay": 1,
+        "legStep": 1,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 112,
+    "finished": false,
+    "scroll": 122,
+    "mapRows": 8,
+    "progress": 14,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 1,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 113,
+    "finished": false,
+    "scroll": 124,
+    "mapRows": 8,
+    "progress": 16,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x436c8",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 2,
+        "delay": 1,
+        "legStep": 2,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 114,
+    "finished": false,
+    "scroll": 126,
+    "mapRows": 8,
+    "progress": 18,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x436c8",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 2,
+        "delay": 0,
+        "legStep": 2,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 115,
+    "finished": false,
+    "scroll": 128,
+    "mapRows": 8,
+    "progress": 20,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 3,
+        "delay": 1,
+        "legStep": 3,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 1,
+    "tick": 116,
+    "finished": true,
+    "scroll": 132,
+    "mapRows": 10,
+    "progress": 22,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 3,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 0,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -210,
+    "poses": [
+      {
+        "x": 120,
+        "y": 200,
+        "bob": "0x43588",
+        "legs": "0x47188",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 3,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 200,
+        "bob": "0x45108",
+        "legs": "0x47188",
+        "active": 1,
+        "step": 7,
+        "delay": 1,
+        "legStep": 0,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 1,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -208,
+    "poses": [
+      {
+        "x": 120,
+        "y": 198,
+        "bob": "0x43448",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 4,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 198,
+        "bob": "0x45108",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 7,
+        "delay": 0,
+        "legStep": 1,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 2,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -206,
+    "poses": [
+      {
+        "x": 120,
+        "y": 196,
+        "bob": "0x43448",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 0,
+        "delay": 0,
+        "legStep": 4,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 196,
+        "bob": "0x43948",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 8,
+        "delay": 1,
+        "legStep": 1,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 3,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -204,
+    "poses": [
+      {
+        "x": 120,
+        "y": 194,
+        "bob": "0x43588",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 1,
+        "delay": 1,
+        "legStep": 5,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 194,
+        "bob": "0x43948",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 8,
+        "delay": 0,
+        "legStep": 2,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 4,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -202,
+    "poses": [
+      {
+        "x": 120,
+        "y": 192,
+        "bob": "0x43588",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 5,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 192,
+        "bob": "0x431c8",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 9,
+        "delay": 1,
+        "legStep": 2,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 5,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -200,
+    "poses": [
+      {
+        "x": 120,
+        "y": 190,
+        "bob": "0x436c8",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 2,
+        "delay": 1,
+        "legStep": 0,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 190,
+        "bob": "0x431c8",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 9,
+        "delay": 0,
+        "legStep": 3,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 6,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -198,
+    "poses": [
+      {
+        "x": 120,
+        "y": 188,
+        "bob": "0x436c8",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 2,
+        "delay": 0,
+        "legStep": 0,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 188,
+        "bob": "0x43948",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 10,
+        "delay": 1,
+        "legStep": 3,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 7,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -196,
+    "poses": [
+      {
+        "x": 120,
+        "y": 186,
+        "bob": "0x43588",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 3,
+        "delay": 1,
+        "legStep": 1,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 186,
+        "bob": "0x43948",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 10,
+        "delay": 0,
+        "legStep": 4,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 8,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -194,
+    "poses": [
+      {
+        "x": 120,
+        "y": 184,
+        "bob": "0x43588",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 1,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 184,
+        "bob": "0x42cc8",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 11,
+        "delay": 1,
+        "legStep": 4,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 9,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -192,
+    "poses": [
+      {
+        "x": 120,
+        "y": 182,
+        "bob": "0x43448",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 2,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 182,
+        "bob": "0x42cc8",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 11,
+        "delay": 0,
+        "legStep": 5,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 10,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -190,
+    "poses": [
+      {
+        "x": 120,
+        "y": 180,
+        "bob": "0x43448",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 0,
+        "delay": 0,
+        "legStep": 2,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 180,
+        "bob": "0x44488",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 12,
+        "delay": 1,
+        "legStep": 5,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 11,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -188,
+    "poses": [
+      {
+        "x": 120,
+        "y": 178,
+        "bob": "0x43588",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 1,
+        "delay": 1,
+        "legStep": 3,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 178,
+        "bob": "0x44488",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 12,
+        "delay": 0,
+        "legStep": 0,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 12,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -186,
+    "poses": [
+      {
+        "x": 120,
+        "y": 176,
+        "bob": "0x43588",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 3,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 176,
+        "bob": "0x44fc8",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 0,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 13,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -184,
+    "poses": [
+      {
+        "x": 120,
+        "y": 174,
+        "bob": "0x436c8",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 2,
+        "delay": 1,
+        "legStep": 4,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 174,
+        "bob": "0x44fc8",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 0,
+        "delay": 0,
+        "legStep": 1,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 14,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -182,
+    "poses": [
+      {
+        "x": 120,
+        "y": 172,
+        "bob": "0x436c8",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 2,
+        "delay": 0,
+        "legStep": 4,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 172,
+        "bob": "0x45108",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 1,
+        "delay": 1,
+        "legStep": 1,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 15,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -180,
+    "poses": [
+      {
+        "x": 120,
+        "y": 170,
+        "bob": "0x43588",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 3,
+        "delay": 1,
+        "legStep": 5,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 170,
+        "bob": "0x45108",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 2,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 16,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -178,
+    "poses": [
+      {
+        "x": 120,
+        "y": 168,
+        "bob": "0x43588",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 5,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 168,
+        "bob": "0x45248",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 2,
+        "delay": 1,
+        "legStep": 2,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 17,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -176,
+    "poses": [
+      {
+        "x": 120,
+        "y": 166,
+        "bob": "0x43448",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 0,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 166,
+        "bob": "0x45248",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 2,
+        "delay": 0,
+        "legStep": 3,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 18,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -174,
+    "poses": [
+      {
+        "x": 120,
+        "y": 164,
+        "bob": "0x43448",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 0,
+        "delay": 0,
+        "legStep": 0,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 164,
+        "bob": "0x45108",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 3,
+        "delay": 1,
+        "legStep": 3,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 19,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -172,
+    "poses": [
+      {
+        "x": 120,
+        "y": 162,
+        "bob": "0x43588",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 1,
+        "delay": 1,
+        "legStep": 1,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 162,
+        "bob": "0x45108",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 4,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 20,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -170,
+    "poses": [
+      {
+        "x": 120,
+        "y": 160,
+        "bob": "0x43588",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 1,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 160,
+        "bob": "0x44fc8",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 4,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 21,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -168,
+    "poses": [
+      {
+        "x": 120,
+        "y": 158,
+        "bob": "0x436c8",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 2,
+        "delay": 1,
+        "legStep": 2,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 158,
+        "bob": "0x44fc8",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 0,
+        "delay": 0,
+        "legStep": 5,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 22,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -166,
+    "poses": [
+      {
+        "x": 120,
+        "y": 156,
+        "bob": "0x436c8",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 2,
+        "delay": 0,
+        "legStep": 2,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 156,
+        "bob": "0x45108",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 1,
+        "delay": 1,
+        "legStep": 5,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 23,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -164,
+    "poses": [
+      {
+        "x": 120,
+        "y": 154,
+        "bob": "0x43588",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 3,
+        "delay": 1,
+        "legStep": 3,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 154,
+        "bob": "0x45108",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 0,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 24,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -162,
+    "poses": [
+      {
+        "x": 120,
+        "y": 152,
+        "bob": "0x43588",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 3,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 152,
+        "bob": "0x45248",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 2,
+        "delay": 1,
+        "legStep": 0,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 25,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -160,
+    "poses": [
+      {
+        "x": 120,
+        "y": 150,
+        "bob": "0x43448",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 4,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 150,
+        "bob": "0x45248",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 2,
+        "delay": 0,
+        "legStep": 1,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 26,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -158,
+    "poses": [
+      {
+        "x": 120,
+        "y": 148,
+        "bob": "0x43448",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 0,
+        "delay": 0,
+        "legStep": 4,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 148,
+        "bob": "0x45108",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 3,
+        "delay": 1,
+        "legStep": 1,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 27,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -156,
+    "poses": [
+      {
+        "x": 120,
+        "y": 146,
+        "bob": "0x43588",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 1,
+        "delay": 1,
+        "legStep": 5,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 146,
+        "bob": "0x45108",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 2,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 28,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -154,
+    "poses": [
+      {
+        "x": 120,
+        "y": 144,
+        "bob": "0x43588",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 5,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 144,
+        "bob": "0x44fc8",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 2,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 29,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -152,
+    "poses": [
+      {
+        "x": 120,
+        "y": 142,
+        "bob": "0x436c8",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 2,
+        "delay": 1,
+        "legStep": 0,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 142,
+        "bob": "0x44fc8",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 0,
+        "delay": 0,
+        "legStep": 3,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 30,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -150,
+    "poses": [
+      {
+        "x": 120,
+        "y": 140,
+        "bob": "0x436c8",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 2,
+        "delay": 0,
+        "legStep": 0,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 140,
+        "bob": "0x45108",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 1,
+        "delay": 1,
+        "legStep": 3,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 31,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -148,
+    "poses": [
+      {
+        "x": 120,
+        "y": 138,
+        "bob": "0x43588",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 3,
+        "delay": 1,
+        "legStep": 1,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 138,
+        "bob": "0x45108",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 4,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 32,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -146,
+    "poses": [
+      {
+        "x": 120,
+        "y": 136,
+        "bob": "0x43588",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 1,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 136,
+        "bob": "0x45248",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 2,
+        "delay": 1,
+        "legStep": 4,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 33,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -144,
+    "poses": [
+      {
+        "x": 120,
+        "y": 134,
+        "bob": "0x43448",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 2,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 134,
+        "bob": "0x45248",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 2,
+        "delay": 0,
+        "legStep": 5,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 34,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -142,
+    "poses": [
+      {
+        "x": 120,
+        "y": 132,
+        "bob": "0x43448",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 0,
+        "delay": 0,
+        "legStep": 2,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 132,
+        "bob": "0x45108",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 3,
+        "delay": 1,
+        "legStep": 5,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 35,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -140,
+    "poses": [
+      {
+        "x": 120,
+        "y": 130,
+        "bob": "0x43588",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 1,
+        "delay": 1,
+        "legStep": 3,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 130,
+        "bob": "0x45108",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 0,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 36,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -138,
+    "poses": [
+      {
+        "x": 120,
+        "y": 128,
+        "bob": "0x43588",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 3,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 128,
+        "bob": "0x44fc8",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 0,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 37,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -136,
+    "poses": [
+      {
+        "x": 120,
+        "y": 126,
+        "bob": "0x436c8",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 2,
+        "delay": 1,
+        "legStep": 4,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 126,
+        "bob": "0x44fc8",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 0,
+        "delay": 0,
+        "legStep": 1,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 38,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -134,
+    "poses": [
+      {
+        "x": 120,
+        "y": 124,
+        "bob": "0x436c8",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 2,
+        "delay": 0,
+        "legStep": 4,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 124,
+        "bob": "0x45108",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 1,
+        "delay": 1,
+        "legStep": 1,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 39,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -132,
+    "poses": [
+      {
+        "x": 120,
+        "y": 122,
+        "bob": "0x43588",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 3,
+        "delay": 1,
+        "legStep": 5,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 122,
+        "bob": "0x45108",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 2,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 40,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -130,
+    "poses": [
+      {
+        "x": 120,
+        "y": 120,
+        "bob": "0x43588",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 5,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 120,
+        "bob": "0x45248",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 2,
+        "delay": 1,
+        "legStep": 2,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 41,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -128,
+    "poses": [
+      {
+        "x": 120,
+        "y": 118,
+        "bob": "0x43448",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 0,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 118,
+        "bob": "0x45248",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 2,
+        "delay": 0,
+        "legStep": 3,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 42,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -126,
+    "poses": [
+      {
+        "x": 120,
+        "y": 116,
+        "bob": "0x43448",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 0,
+        "delay": 0,
+        "legStep": 0,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 116,
+        "bob": "0x45108",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 3,
+        "delay": 1,
+        "legStep": 3,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 43,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -124,
+    "poses": [
+      {
+        "x": 120,
+        "y": 114,
+        "bob": "0x43588",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 1,
+        "delay": 1,
+        "legStep": 1,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 114,
+        "bob": "0x45108",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 4,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 44,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -122,
+    "poses": [
+      {
+        "x": 120,
+        "y": 112,
+        "bob": "0x43588",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 1,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 112,
+        "bob": "0x44fc8",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 4,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 45,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -120,
+    "poses": [
+      {
+        "x": 120,
+        "y": 110,
+        "bob": "0x436c8",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 2,
+        "delay": 1,
+        "legStep": 2,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 110,
+        "bob": "0x44fc8",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 0,
+        "delay": 0,
+        "legStep": 5,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 46,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -118,
+    "poses": [
+      {
+        "x": 120,
+        "y": 108,
+        "bob": "0x436c8",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 2,
+        "delay": 0,
+        "legStep": 2,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 108,
+        "bob": "0x45108",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 1,
+        "delay": 1,
+        "legStep": 5,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 47,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -116,
+    "poses": [
+      {
+        "x": 120,
+        "y": 106,
+        "bob": "0x43588",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 3,
+        "delay": 1,
+        "legStep": 3,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 106,
+        "bob": "0x45108",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 0,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 48,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -114,
+    "poses": [
+      {
+        "x": 120,
+        "y": 104,
+        "bob": "0x43588",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 3,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 104,
+        "bob": "0x45248",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 2,
+        "delay": 1,
+        "legStep": 0,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 49,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -112,
+    "poses": [
+      {
+        "x": 120,
+        "y": 102,
+        "bob": "0x43448",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 4,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 102,
+        "bob": "0x45248",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 2,
+        "delay": 0,
+        "legStep": 1,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 50,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -110,
+    "poses": [
+      {
+        "x": 120,
+        "y": 100,
+        "bob": "0x43448",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 0,
+        "delay": 0,
+        "legStep": 4,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 100,
+        "bob": "0x45108",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 3,
+        "delay": 1,
+        "legStep": 1,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 51,
+    "finished": false,
+    "scroll": 0,
+    "mapRows": 2,
+    "progress": -108,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 1,
+        "delay": 1,
+        "legStep": 5,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45108",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 2,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 52,
+    "finished": false,
+    "scroll": 2,
+    "mapRows": 2,
+    "progress": -106,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 5,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x44fc8",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 2,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 53,
+    "finished": false,
+    "scroll": 4,
+    "mapRows": 2,
+    "progress": -104,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x436c8",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 2,
+        "delay": 1,
+        "legStep": 0,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x44fc8",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 0,
+        "delay": 0,
+        "legStep": 3,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 54,
+    "finished": false,
+    "scroll": 6,
+    "mapRows": 2,
+    "progress": -102,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x436c8",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 2,
+        "delay": 0,
+        "legStep": 0,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45108",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 1,
+        "delay": 1,
+        "legStep": 3,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 55,
+    "finished": false,
+    "scroll": 8,
+    "mapRows": 2,
+    "progress": -100,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 3,
+        "delay": 1,
+        "legStep": 1,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45108",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 4,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 56,
+    "finished": false,
+    "scroll": 10,
+    "mapRows": 2,
+    "progress": -98,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 1,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45248",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 2,
+        "delay": 1,
+        "legStep": 4,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 57,
+    "finished": false,
+    "scroll": 12,
+    "mapRows": 2,
+    "progress": -96,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43448",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 2,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45248",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 2,
+        "delay": 0,
+        "legStep": 5,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 58,
+    "finished": false,
+    "scroll": 14,
+    "mapRows": 2,
+    "progress": -94,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43448",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 0,
+        "delay": 0,
+        "legStep": 2,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45108",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 3,
+        "delay": 1,
+        "legStep": 5,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 59,
+    "finished": false,
+    "scroll": 16,
+    "mapRows": 2,
+    "progress": -92,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 1,
+        "delay": 1,
+        "legStep": 3,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45108",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 0,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 60,
+    "finished": false,
+    "scroll": 18,
+    "mapRows": 2,
+    "progress": -90,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 3,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x44fc8",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 0,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 61,
+    "finished": false,
+    "scroll": 20,
+    "mapRows": 2,
+    "progress": -88,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x436c8",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 2,
+        "delay": 1,
+        "legStep": 4,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x44fc8",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 0,
+        "delay": 0,
+        "legStep": 1,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 62,
+    "finished": false,
+    "scroll": 22,
+    "mapRows": 2,
+    "progress": -86,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x436c8",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 2,
+        "delay": 0,
+        "legStep": 4,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45108",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 1,
+        "delay": 1,
+        "legStep": 1,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 63,
+    "finished": false,
+    "scroll": 24,
+    "mapRows": 2,
+    "progress": -84,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 3,
+        "delay": 1,
+        "legStep": 5,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45108",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 2,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 64,
+    "finished": false,
+    "scroll": 26,
+    "mapRows": 2,
+    "progress": -82,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 5,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45248",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 2,
+        "delay": 1,
+        "legStep": 2,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 65,
+    "finished": false,
+    "scroll": 28,
+    "mapRows": 2,
+    "progress": -80,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43448",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 0,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45248",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 2,
+        "delay": 0,
+        "legStep": 3,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 66,
+    "finished": false,
+    "scroll": 30,
+    "mapRows": 2,
+    "progress": -78,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43448",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 0,
+        "delay": 0,
+        "legStep": 0,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45108",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 3,
+        "delay": 1,
+        "legStep": 3,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 67,
+    "finished": false,
+    "scroll": 32,
+    "mapRows": 2,
+    "progress": -76,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 1,
+        "delay": 1,
+        "legStep": 1,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45108",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 4,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 68,
+    "finished": false,
+    "scroll": 34,
+    "mapRows": 4,
+    "progress": -74,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 1,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x44fc8",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 4,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 69,
+    "finished": false,
+    "scroll": 36,
+    "mapRows": 4,
+    "progress": -72,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x436c8",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 2,
+        "delay": 1,
+        "legStep": 2,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x44fc8",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 0,
+        "delay": 0,
+        "legStep": 5,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 70,
+    "finished": false,
+    "scroll": 38,
+    "mapRows": 4,
+    "progress": -70,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x436c8",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 2,
+        "delay": 0,
+        "legStep": 2,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45108",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 1,
+        "delay": 1,
+        "legStep": 5,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 71,
+    "finished": false,
+    "scroll": 40,
+    "mapRows": 4,
+    "progress": -68,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 3,
+        "delay": 1,
+        "legStep": 3,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45108",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 0,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 72,
+    "finished": false,
+    "scroll": 42,
+    "mapRows": 4,
+    "progress": -66,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 3,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45248",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 2,
+        "delay": 1,
+        "legStep": 0,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 73,
+    "finished": false,
+    "scroll": 44,
+    "mapRows": 4,
+    "progress": -64,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43448",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 4,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45248",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 2,
+        "delay": 0,
+        "legStep": 1,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 74,
+    "finished": false,
+    "scroll": 46,
+    "mapRows": 4,
+    "progress": -62,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43448",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 0,
+        "delay": 0,
+        "legStep": 4,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45108",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 3,
+        "delay": 1,
+        "legStep": 1,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 75,
+    "finished": false,
+    "scroll": 48,
+    "mapRows": 4,
+    "progress": -60,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 1,
+        "delay": 1,
+        "legStep": 5,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45108",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 2,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 76,
+    "finished": false,
+    "scroll": 50,
+    "mapRows": 4,
+    "progress": -58,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 5,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x44fc8",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 2,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 77,
+    "finished": false,
+    "scroll": 52,
+    "mapRows": 4,
+    "progress": -56,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x436c8",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 2,
+        "delay": 1,
+        "legStep": 0,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x44fc8",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 0,
+        "delay": 0,
+        "legStep": 3,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 78,
+    "finished": false,
+    "scroll": 54,
+    "mapRows": 4,
+    "progress": -54,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x436c8",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 2,
+        "delay": 0,
+        "legStep": 0,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45108",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 1,
+        "delay": 1,
+        "legStep": 3,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 79,
+    "finished": false,
+    "scroll": 56,
+    "mapRows": 4,
+    "progress": -52,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 3,
+        "delay": 1,
+        "legStep": 1,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45108",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 4,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 80,
+    "finished": false,
+    "scroll": 58,
+    "mapRows": 4,
+    "progress": -50,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 1,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45248",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 2,
+        "delay": 1,
+        "legStep": 4,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 81,
+    "finished": false,
+    "scroll": 60,
+    "mapRows": 4,
+    "progress": -48,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43448",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 2,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45248",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 2,
+        "delay": 0,
+        "legStep": 5,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 82,
+    "finished": false,
+    "scroll": 62,
+    "mapRows": 4,
+    "progress": -46,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43448",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 0,
+        "delay": 0,
+        "legStep": 2,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45108",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 3,
+        "delay": 1,
+        "legStep": 5,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 83,
+    "finished": false,
+    "scroll": 64,
+    "mapRows": 4,
+    "progress": -44,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 1,
+        "delay": 1,
+        "legStep": 3,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45108",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 0,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 84,
+    "finished": false,
+    "scroll": 66,
+    "mapRows": 6,
+    "progress": -42,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 3,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x44fc8",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 0,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 85,
+    "finished": false,
+    "scroll": 68,
+    "mapRows": 6,
+    "progress": -40,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x436c8",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 2,
+        "delay": 1,
+        "legStep": 4,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x44fc8",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 0,
+        "delay": 0,
+        "legStep": 1,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 86,
+    "finished": false,
+    "scroll": 70,
+    "mapRows": 6,
+    "progress": -38,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x436c8",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 2,
+        "delay": 0,
+        "legStep": 4,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45108",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 1,
+        "delay": 1,
+        "legStep": 1,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 87,
+    "finished": false,
+    "scroll": 72,
+    "mapRows": 6,
+    "progress": -36,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 3,
+        "delay": 1,
+        "legStep": 5,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45108",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 2,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 88,
+    "finished": false,
+    "scroll": 74,
+    "mapRows": 6,
+    "progress": -34,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 5,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45248",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 2,
+        "delay": 1,
+        "legStep": 2,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 89,
+    "finished": false,
+    "scroll": 76,
+    "mapRows": 6,
+    "progress": -32,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43448",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 0,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45248",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 2,
+        "delay": 0,
+        "legStep": 3,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 90,
+    "finished": false,
+    "scroll": 78,
+    "mapRows": 6,
+    "progress": -30,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43448",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 0,
+        "delay": 0,
+        "legStep": 0,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45108",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 3,
+        "delay": 1,
+        "legStep": 3,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 91,
+    "finished": false,
+    "scroll": 80,
+    "mapRows": 6,
+    "progress": -28,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 1,
+        "delay": 1,
+        "legStep": 1,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45108",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 4,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 92,
+    "finished": false,
+    "scroll": 82,
+    "mapRows": 6,
+    "progress": -26,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 1,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x44fc8",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 4,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 93,
+    "finished": false,
+    "scroll": 84,
+    "mapRows": 6,
+    "progress": -24,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x436c8",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 2,
+        "delay": 1,
+        "legStep": 2,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x44fc8",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 0,
+        "delay": 0,
+        "legStep": 5,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 94,
+    "finished": false,
+    "scroll": 86,
+    "mapRows": 6,
+    "progress": -22,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x436c8",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 2,
+        "delay": 0,
+        "legStep": 2,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45108",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 1,
+        "delay": 1,
+        "legStep": 5,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 95,
+    "finished": false,
+    "scroll": 88,
+    "mapRows": 6,
+    "progress": -20,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 3,
+        "delay": 1,
+        "legStep": 3,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45108",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 0,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 96,
+    "finished": false,
+    "scroll": 90,
+    "mapRows": 6,
+    "progress": -18,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 3,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45248",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 2,
+        "delay": 1,
+        "legStep": 0,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 97,
+    "finished": false,
+    "scroll": 92,
+    "mapRows": 6,
+    "progress": -16,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43448",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 4,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45248",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 2,
+        "delay": 0,
+        "legStep": 1,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 98,
+    "finished": false,
+    "scroll": 94,
+    "mapRows": 6,
+    "progress": -14,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43448",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 0,
+        "delay": 0,
+        "legStep": 4,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45108",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 3,
+        "delay": 1,
+        "legStep": 1,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 99,
+    "finished": false,
+    "scroll": 96,
+    "mapRows": 6,
+    "progress": -12,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 1,
+        "delay": 1,
+        "legStep": 5,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45108",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 2,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 100,
+    "finished": false,
+    "scroll": 98,
+    "mapRows": 8,
+    "progress": -10,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 5,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x44fc8",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 2,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 101,
+    "finished": false,
+    "scroll": 100,
+    "mapRows": 8,
+    "progress": -8,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x436c8",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 2,
+        "delay": 1,
+        "legStep": 0,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x44fc8",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 0,
+        "delay": 0,
+        "legStep": 3,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 102,
+    "finished": false,
+    "scroll": 102,
+    "mapRows": 8,
+    "progress": -6,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x436c8",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 2,
+        "delay": 0,
+        "legStep": 0,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45108",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 1,
+        "delay": 1,
+        "legStep": 3,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 103,
+    "finished": false,
+    "scroll": 104,
+    "mapRows": 8,
+    "progress": -4,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 3,
+        "delay": 1,
+        "legStep": 1,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45108",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 4,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 104,
+    "finished": false,
+    "scroll": 106,
+    "mapRows": 8,
+    "progress": -2,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 1,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45248",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 2,
+        "delay": 1,
+        "legStep": 4,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 105,
+    "finished": false,
+    "scroll": 108,
+    "mapRows": 8,
+    "progress": 0,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43448",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 2,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45248",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 2,
+        "delay": 0,
+        "legStep": 5,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 106,
+    "finished": false,
+    "scroll": 110,
+    "mapRows": 8,
+    "progress": 2,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43448",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 0,
+        "delay": 0,
+        "legStep": 2,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45108",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 3,
+        "delay": 1,
+        "legStep": 5,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 107,
+    "finished": false,
+    "scroll": 112,
+    "mapRows": 8,
+    "progress": 4,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 1,
+        "delay": 1,
+        "legStep": 3,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45108",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 0,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 108,
+    "finished": false,
+    "scroll": 114,
+    "mapRows": 8,
+    "progress": 6,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 3,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x44fc8",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 0,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 109,
+    "finished": false,
+    "scroll": 116,
+    "mapRows": 8,
+    "progress": 8,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x436c8",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 2,
+        "delay": 1,
+        "legStep": 4,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x44fc8",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 0,
+        "delay": 0,
+        "legStep": 1,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 110,
+    "finished": false,
+    "scroll": 118,
+    "mapRows": 8,
+    "progress": 10,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x436c8",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 2,
+        "delay": 0,
+        "legStep": 4,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45108",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 1,
+        "delay": 1,
+        "legStep": 1,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 111,
+    "finished": false,
+    "scroll": 120,
+    "mapRows": 8,
+    "progress": 12,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 3,
+        "delay": 1,
+        "legStep": 5,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45108",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 2,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 112,
+    "finished": false,
+    "scroll": 122,
+    "mapRows": 8,
+    "progress": 14,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46d28",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 5,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45248",
+        "legs": "0x46b48",
+        "active": 1,
+        "step": 2,
+        "delay": 1,
+        "legStep": 2,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 113,
+    "finished": false,
+    "scroll": 124,
+    "mapRows": 8,
+    "progress": 16,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43448",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 0,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45248",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 2,
+        "delay": 0,
+        "legStep": 3,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 114,
+    "finished": false,
+    "scroll": 126,
+    "mapRows": 8,
+    "progress": 18,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43448",
+        "legs": "0x46a08",
+        "active": 1,
+        "step": 0,
+        "delay": 0,
+        "legStep": 0,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45108",
+        "legs": "0x46be8",
+        "active": 1,
+        "step": 3,
+        "delay": 1,
+        "legStep": 3,
+        "legDelay": 0
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 115,
+    "finished": false,
+    "scroll": 128,
+    "mapRows": 8,
+    "progress": 20,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 1,
+        "delay": 1,
+        "legStep": 1,
+        "legDelay": 1
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x45108",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 3,
+        "delay": 0,
+        "legStep": 4,
+        "legDelay": 1
+      }
+    ]
+  },
+  {
+    "players": 2,
+    "tick": 116,
+    "finished": true,
+    "scroll": 132,
+    "mapRows": 10,
+    "progress": 22,
+    "poses": [
+      {
+        "x": 120,
+        "y": 98,
+        "bob": "0x43588",
+        "legs": "0x46aa8",
+        "active": 1,
+        "step": 1,
+        "delay": 0,
+        "legStep": 1,
+        "legDelay": 0
+      },
+      {
+        "x": 180,
+        "y": 98,
+        "bob": "0x44fc8",
+        "legs": "0x46c88",
+        "active": 1,
+        "step": 0,
+        "delay": 1,
+        "legStep": 4,
+        "legDelay": 0
+      }
+    ]
+  }
+]

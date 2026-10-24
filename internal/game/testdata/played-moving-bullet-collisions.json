@@ -1,0 +1,1589 @@
+[
+  {
+    "tick": 20,
+    "x": 120,
+    "y": 98,
+    "progress": 62,
+    "invulnerable": 0,
+    "direction": 16,
+    "shots": [
+      {
+        "x": 146,
+        "y": 6,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 60
+      }
+    ],
+    "dead": false,
+    "afterX": 120,
+    "afterProgress": 64
+  },
+  {
+    "tick": 21,
+    "x": 120,
+    "y": 98,
+    "progress": 64,
+    "invulnerable": 0,
+    "direction": 16,
+    "shots": [
+      {
+        "x": 142,
+        "y": 12,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 56
+      }
+    ],
+    "dead": false,
+    "afterX": 120,
+    "afterProgress": 66
+  },
+  {
+    "tick": 22,
+    "x": 120,
+    "y": 98,
+    "progress": 66,
+    "invulnerable": 0,
+    "direction": 16,
+    "shots": [
+      {
+        "x": 138,
+        "y": 18,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 52
+      }
+    ],
+    "dead": false,
+    "afterX": 120,
+    "afterProgress": 68
+  },
+  {
+    "tick": 23,
+    "x": 120,
+    "y": 98,
+    "progress": 68,
+    "invulnerable": 0,
+    "direction": 16,
+    "shots": [
+      {
+        "x": 134,
+        "y": 24,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 48
+      }
+    ],
+    "dead": false,
+    "afterX": 120,
+    "afterProgress": 70
+  },
+  {
+    "tick": 24,
+    "x": 120,
+    "y": 98,
+    "progress": 70,
+    "invulnerable": 0,
+    "direction": 16,
+    "shots": [
+      {
+        "x": 130,
+        "y": 30,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 44
+      }
+    ],
+    "dead": false,
+    "afterX": 120,
+    "afterProgress": 72
+  },
+  {
+    "tick": 25,
+    "x": 120,
+    "y": 98,
+    "progress": 72,
+    "invulnerable": 0,
+    "direction": 16,
+    "shots": [
+      {
+        "x": 126,
+        "y": 36,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 40
+      }
+    ],
+    "dead": false,
+    "afterX": 120,
+    "afterProgress": 74
+  },
+  {
+    "tick": 26,
+    "x": 120,
+    "y": 98,
+    "progress": 74,
+    "invulnerable": 0,
+    "direction": 16,
+    "shots": [
+      {
+        "x": 122,
+        "y": 42,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 36
+      }
+    ],
+    "dead": false,
+    "afterX": 120,
+    "afterProgress": 76
+  },
+  {
+    "tick": 27,
+    "x": 120,
+    "y": 98,
+    "progress": 76,
+    "invulnerable": 0,
+    "direction": 16,
+    "shots": [
+      {
+        "x": 118,
+        "y": 48,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 32
+      },
+      {
+        "x": 146,
+        "y": 20,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 60
+      }
+    ],
+    "dead": false,
+    "afterX": 120,
+    "afterProgress": 78
+  },
+  {
+    "tick": 29,
+    "x": 122,
+    "y": 98,
+    "progress": 80,
+    "invulnerable": 0,
+    "direction": 80,
+    "shots": [
+      {
+        "x": 110,
+        "y": 60,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 24
+      },
+      {
+        "x": 138,
+        "y": 32,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 52
+      }
+    ],
+    "dead": false,
+    "afterX": 120,
+    "afterProgress": 82
+  },
+  {
+    "tick": 31,
+    "x": 122,
+    "y": 98,
+    "progress": 84,
+    "invulnerable": 0,
+    "direction": 80,
+    "shots": [
+      {
+        "x": 102,
+        "y": 72,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 16
+      },
+      {
+        "x": 130,
+        "y": 44,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 44
+      }
+    ],
+    "dead": false,
+    "afterX": 120,
+    "afterProgress": 86
+  },
+  {
+    "tick": 33,
+    "x": 122,
+    "y": 98,
+    "progress": 88,
+    "invulnerable": 0,
+    "direction": 80,
+    "shots": [
+      {
+        "x": 94,
+        "y": 84,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 8
+      },
+      {
+        "x": 122,
+        "y": 56,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 36
+      }
+    ],
+    "dead": false,
+    "afterX": 120,
+    "afterProgress": 90
+  },
+  {
+    "tick": 34,
+    "x": 120,
+    "y": 98,
+    "progress": 90,
+    "invulnerable": 0,
+    "direction": 16,
+    "shots": [
+      {
+        "x": 90,
+        "y": 90,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 4
+      },
+      {
+        "x": 118,
+        "y": 62,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 32
+      }
+    ],
+    "dead": false,
+    "afterX": 120,
+    "afterProgress": 92
+  },
+  {
+    "tick": 35,
+    "x": 120,
+    "y": 98,
+    "progress": 92,
+    "invulnerable": 0,
+    "direction": 16,
+    "shots": [
+      {
+        "x": 114,
+        "y": 68,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 28
+      }
+    ],
+    "dead": false,
+    "afterX": 120,
+    "afterProgress": 94
+  },
+  {
+    "tick": 36,
+    "x": 120,
+    "y": 98,
+    "progress": 94,
+    "invulnerable": 0,
+    "direction": 16,
+    "shots": [
+      {
+        "x": 110,
+        "y": 74,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 24
+      }
+    ],
+    "dead": false,
+    "afterX": 120,
+    "afterProgress": 96
+  },
+  {
+    "tick": 37,
+    "x": 120,
+    "y": 98,
+    "progress": 96,
+    "invulnerable": 0,
+    "direction": 16,
+    "shots": [
+      {
+        "x": 106,
+        "y": 80,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 20
+      }
+    ],
+    "dead": false,
+    "afterX": 120,
+    "afterProgress": 98
+  },
+  {
+    "tick": 38,
+    "x": 120,
+    "y": 98,
+    "progress": 98,
+    "invulnerable": 0,
+    "direction": 16,
+    "shots": [
+      {
+        "x": 102,
+        "y": 86,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 16
+      }
+    ],
+    "dead": false,
+    "afterX": 120,
+    "afterProgress": 100
+  },
+  {
+    "tick": 39,
+    "x": 120,
+    "y": 98,
+    "progress": 100,
+    "invulnerable": 0,
+    "direction": 16,
+    "shots": [
+      {
+        "x": 182,
+        "y": 48,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 56
+      },
+      {
+        "x": 98,
+        "y": 92,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 12
+      }
+    ],
+    "dead": false,
+    "afterX": 120,
+    "afterProgress": 102
+  },
+  {
+    "tick": 40,
+    "x": 120,
+    "y": 98,
+    "progress": 102,
+    "invulnerable": 0,
+    "direction": 16,
+    "shots": [
+      {
+        "x": 178,
+        "y": 54,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 52
+      },
+      {
+        "x": 94,
+        "y": 98,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 8
+      }
+    ],
+    "dead": false,
+    "afterX": 120,
+    "afterProgress": 104
+  },
+  {
+    "tick": 42,
+    "x": 118,
+    "y": 98,
+    "progress": 106,
+    "invulnerable": 0,
+    "direction": 144,
+    "shots": [
+      {
+        "x": 170,
+        "y": 66,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 44
+      }
+    ],
+    "dead": false,
+    "afterX": 120,
+    "afterProgress": 108
+  },
+  {
+    "tick": 43,
+    "x": 120,
+    "y": 98,
+    "progress": 108,
+    "invulnerable": 0,
+    "direction": 16,
+    "shots": [
+      {
+        "x": 166,
+        "y": 72,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 40
+      }
+    ],
+    "dead": false,
+    "afterX": 120,
+    "afterProgress": 110
+  },
+  {
+    "tick": 44,
+    "x": 120,
+    "y": 98,
+    "progress": 110,
+    "invulnerable": 0,
+    "direction": 16,
+    "shots": [
+      {
+        "x": 162,
+        "y": 78,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 36
+      }
+    ],
+    "dead": false,
+    "afterX": 120,
+    "afterProgress": 112
+  },
+  {
+    "tick": 45,
+    "x": 120,
+    "y": 98,
+    "progress": 112,
+    "invulnerable": 0,
+    "direction": 16,
+    "shots": [
+      {
+        "x": 158,
+        "y": 84,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 32
+      }
+    ],
+    "dead": false,
+    "afterX": 120,
+    "afterProgress": 114
+  },
+  {
+    "tick": 46,
+    "x": 120,
+    "y": 98,
+    "progress": 114,
+    "invulnerable": 0,
+    "direction": 16,
+    "shots": [
+      {
+        "x": 154,
+        "y": 90,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 28
+      }
+    ],
+    "dead": false,
+    "afterX": 120,
+    "afterProgress": 116
+  },
+  {
+    "tick": 47,
+    "x": 120,
+    "y": 98,
+    "progress": 116,
+    "invulnerable": 0,
+    "direction": 16,
+    "shots": [
+      {
+        "x": 150,
+        "y": 96,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 24
+      }
+    ],
+    "dead": false,
+    "afterX": 120,
+    "afterProgress": 118
+  },
+  {
+    "tick": 48,
+    "x": 120,
+    "y": 98,
+    "progress": 118,
+    "invulnerable": 0,
+    "direction": 80,
+    "shots": [
+      {
+        "x": 146,
+        "y": 102,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 20
+      }
+    ],
+    "dead": false,
+    "afterX": 118,
+    "afterProgress": 120
+  },
+  {
+    "tick": 49,
+    "x": 118,
+    "y": 98,
+    "progress": 120,
+    "invulnerable": 0,
+    "direction": 80,
+    "shots": [
+      {
+        "x": 142,
+        "y": 108,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 16
+      },
+      {
+        "x": 146,
+        "y": 64,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 60
+      }
+    ],
+    "dead": false,
+    "afterX": 116,
+    "afterProgress": 122
+  },
+  {
+    "tick": 50,
+    "x": 116,
+    "y": 98,
+    "progress": 122,
+    "invulnerable": 0,
+    "direction": 80,
+    "shots": [
+      {
+        "x": 138,
+        "y": 114,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 12
+      },
+      {
+        "x": 142,
+        "y": 70,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 56
+      }
+    ],
+    "dead": false,
+    "afterX": 114,
+    "afterProgress": 124
+  },
+  {
+    "tick": 51,
+    "x": 114,
+    "y": 98,
+    "progress": 124,
+    "invulnerable": 0,
+    "direction": 144,
+    "shots": [
+      {
+        "x": 134,
+        "y": 120,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 8
+      },
+      {
+        "x": 138,
+        "y": 76,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 52
+      }
+    ],
+    "dead": false,
+    "afterX": 116,
+    "afterProgress": 126
+  },
+  {
+    "tick": 52,
+    "x": 116,
+    "y": 98,
+    "progress": 126,
+    "invulnerable": 0,
+    "direction": 144,
+    "shots": [
+      {
+        "x": 130,
+        "y": 126,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 4
+      },
+      {
+        "x": 134,
+        "y": 82,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 48
+      }
+    ],
+    "dead": false,
+    "afterX": 118,
+    "afterProgress": 128
+  },
+  {
+    "tick": 53,
+    "x": 118,
+    "y": 98,
+    "progress": 128,
+    "invulnerable": 0,
+    "direction": 160,
+    "shots": [
+      {
+        "x": 130,
+        "y": 88,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 44
+      }
+    ],
+    "dead": false,
+    "afterX": 120,
+    "afterProgress": 126
+  },
+  {
+    "tick": 54,
+    "x": 120,
+    "y": 100,
+    "progress": 126,
+    "invulnerable": 0,
+    "direction": 160,
+    "shots": [
+      {
+        "x": 126,
+        "y": 92,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 40
+      }
+    ],
+    "dead": false,
+    "afterX": 122,
+    "afterProgress": 124
+  },
+  {
+    "tick": 55,
+    "x": 122,
+    "y": 102,
+    "progress": 124,
+    "invulnerable": 0,
+    "direction": 160,
+    "shots": [
+      {
+        "x": 122,
+        "y": 96,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 36
+      }
+    ],
+    "dead": true,
+    "afterX": 124,
+    "afterProgress": 122
+  },
+  {
+    "tick": 86,
+    "x": 146,
+    "y": 166,
+    "progress": 60,
+    "invulnerable": 69,
+    "direction": 80,
+    "shots": [
+      {
+        "x": 146,
+        "y": 72,
+        "vx": 0,
+        "vy": 4,
+        "remaining": 60
+      }
+    ],
+    "dead": false,
+    "afterX": 144,
+    "afterProgress": 62
+  },
+  {
+    "tick": 87,
+    "x": 144,
+    "y": 164,
+    "progress": 62,
+    "invulnerable": 68,
+    "direction": 80,
+    "shots": [
+      {
+        "x": 146,
+        "y": 76,
+        "vx": 0,
+        "vy": 4,
+        "remaining": 56
+      }
+    ],
+    "dead": false,
+    "afterX": 142,
+    "afterProgress": 64
+  },
+  {
+    "tick": 88,
+    "x": 142,
+    "y": 162,
+    "progress": 64,
+    "invulnerable": 67,
+    "direction": 80,
+    "shots": [
+      {
+        "x": 146,
+        "y": 80,
+        "vx": 0,
+        "vy": 4,
+        "remaining": 52
+      }
+    ],
+    "dead": false,
+    "afterX": 140,
+    "afterProgress": 66
+  },
+  {
+    "tick": 89,
+    "x": 140,
+    "y": 160,
+    "progress": 66,
+    "invulnerable": 66,
+    "direction": 80,
+    "shots": [
+      {
+        "x": 146,
+        "y": 84,
+        "vx": 0,
+        "vy": 4,
+        "remaining": 48
+      }
+    ],
+    "dead": false,
+    "afterX": 138,
+    "afterProgress": 68
+  },
+  {
+    "tick": 90,
+    "x": 138,
+    "y": 158,
+    "progress": 68,
+    "invulnerable": 65,
+    "direction": 80,
+    "shots": [
+      {
+        "x": 146,
+        "y": 88,
+        "vx": 0,
+        "vy": 4,
+        "remaining": 44
+      }
+    ],
+    "dead": false,
+    "afterX": 136,
+    "afterProgress": 70
+  },
+  {
+    "tick": 91,
+    "x": 136,
+    "y": 156,
+    "progress": 70,
+    "invulnerable": 64,
+    "direction": 80,
+    "shots": [
+      {
+        "x": 146,
+        "y": 92,
+        "vx": 0,
+        "vy": 4,
+        "remaining": 40
+      }
+    ],
+    "dead": false,
+    "afterX": 134,
+    "afterProgress": 72
+  },
+  {
+    "tick": 92,
+    "x": 134,
+    "y": 154,
+    "progress": 72,
+    "invulnerable": 63,
+    "direction": 80,
+    "shots": [
+      {
+        "x": 146,
+        "y": 96,
+        "vx": 0,
+        "vy": 4,
+        "remaining": 36
+      }
+    ],
+    "dead": false,
+    "afterX": 132,
+    "afterProgress": 74
+  },
+  {
+    "tick": 93,
+    "x": 132,
+    "y": 152,
+    "progress": 74,
+    "invulnerable": 62,
+    "direction": 80,
+    "shots": [
+      {
+        "x": 146,
+        "y": 100,
+        "vx": 0,
+        "vy": 4,
+        "remaining": 32
+      }
+    ],
+    "dead": false,
+    "afterX": 130,
+    "afterProgress": 76
+  },
+  {
+    "tick": 94,
+    "x": 130,
+    "y": 150,
+    "progress": 76,
+    "invulnerable": 61,
+    "direction": 80,
+    "shots": [
+      {
+        "x": 146,
+        "y": 104,
+        "vx": 0,
+        "vy": 4,
+        "remaining": 28
+      }
+    ],
+    "dead": false,
+    "afterX": 128,
+    "afterProgress": 78
+  },
+  {
+    "tick": 95,
+    "x": 128,
+    "y": 148,
+    "progress": 78,
+    "invulnerable": 60,
+    "direction": 80,
+    "shots": [
+      {
+        "x": 146,
+        "y": 108,
+        "vx": 0,
+        "vy": 4,
+        "remaining": 24
+      }
+    ],
+    "dead": false,
+    "afterX": 126,
+    "afterProgress": 80
+  },
+  {
+    "tick": 96,
+    "x": 126,
+    "y": 146,
+    "progress": 80,
+    "invulnerable": 59,
+    "direction": 80,
+    "shots": [
+      {
+        "x": 146,
+        "y": 112,
+        "vx": 0,
+        "vy": 4,
+        "remaining": 20
+      }
+    ],
+    "dead": false,
+    "afterX": 124,
+    "afterProgress": 82
+  },
+  {
+    "tick": 97,
+    "x": 124,
+    "y": 144,
+    "progress": 82,
+    "invulnerable": 58,
+    "direction": 80,
+    "shots": [
+      {
+        "x": 146,
+        "y": 116,
+        "vx": 0,
+        "vy": 4,
+        "remaining": 16
+      }
+    ],
+    "dead": false,
+    "afterX": 122,
+    "afterProgress": 84
+  },
+  {
+    "tick": 98,
+    "x": 122,
+    "y": 142,
+    "progress": 84,
+    "invulnerable": 57,
+    "direction": 80,
+    "shots": [
+      {
+        "x": 146,
+        "y": 120,
+        "vx": 0,
+        "vy": 4,
+        "remaining": 12
+      }
+    ],
+    "dead": false,
+    "afterX": 120,
+    "afterProgress": 86
+  },
+  {
+    "tick": 99,
+    "x": 120,
+    "y": 140,
+    "progress": 86,
+    "invulnerable": 56,
+    "direction": 80,
+    "shots": [
+      {
+        "x": 146,
+        "y": 124,
+        "vx": 0,
+        "vy": 4,
+        "remaining": 8
+      }
+    ],
+    "dead": false,
+    "afterX": 118,
+    "afterProgress": 88
+  },
+  {
+    "tick": 100,
+    "x": 118,
+    "y": 138,
+    "progress": 88,
+    "invulnerable": 55,
+    "direction": 80,
+    "shots": [
+      {
+        "x": 146,
+        "y": 128,
+        "vx": 0,
+        "vy": 4,
+        "remaining": 4
+      }
+    ],
+    "dead": false,
+    "afterX": 116,
+    "afterProgress": 90
+  },
+  {
+    "tick": 148,
+    "x": 94,
+    "y": 98,
+    "progress": 170,
+    "invulnerable": 7,
+    "direction": 16,
+    "shots": [
+      {
+        "x": 146,
+        "y": 114,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 60
+      }
+    ],
+    "dead": false,
+    "afterX": 94,
+    "afterProgress": 172
+  },
+  {
+    "tick": 149,
+    "x": 94,
+    "y": 98,
+    "progress": 172,
+    "invulnerable": 6,
+    "direction": 16,
+    "shots": [
+      {
+        "x": 142,
+        "y": 120,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 56
+      }
+    ],
+    "dead": false,
+    "afterX": 94,
+    "afterProgress": 174
+  },
+  {
+    "tick": 150,
+    "x": 94,
+    "y": 98,
+    "progress": 174,
+    "invulnerable": 5,
+    "direction": 16,
+    "shots": [
+      {
+        "x": 138,
+        "y": 126,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 52
+      }
+    ],
+    "dead": false,
+    "afterX": 94,
+    "afterProgress": 176
+  },
+  {
+    "tick": 151,
+    "x": 94,
+    "y": 98,
+    "progress": 176,
+    "invulnerable": 4,
+    "direction": 16,
+    "shots": [
+      {
+        "x": 134,
+        "y": 132,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 48
+      }
+    ],
+    "dead": false,
+    "afterX": 94,
+    "afterProgress": 178
+  },
+  {
+    "tick": 152,
+    "x": 94,
+    "y": 98,
+    "progress": 178,
+    "invulnerable": 3,
+    "direction": 16,
+    "shots": [
+      {
+        "x": 130,
+        "y": 138,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 44
+      }
+    ],
+    "dead": false,
+    "afterX": 94,
+    "afterProgress": 180
+  },
+  {
+    "tick": 153,
+    "x": 94,
+    "y": 98,
+    "progress": 180,
+    "invulnerable": 2,
+    "direction": 16,
+    "shots": [
+      {
+        "x": 126,
+        "y": 144,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 40
+      },
+      {
+        "x": 120,
+        "y": 18,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 56
+      }
+    ],
+    "dead": false,
+    "afterX": 94,
+    "afterProgress": 182
+  },
+  {
+    "tick": 154,
+    "x": 94,
+    "y": 98,
+    "progress": 182,
+    "invulnerable": 1,
+    "direction": 16,
+    "shots": [
+      {
+        "x": 122,
+        "y": 150,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 36
+      },
+      {
+        "x": 116,
+        "y": 24,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 52
+      }
+    ],
+    "dead": false,
+    "afterX": 94,
+    "afterProgress": 184
+  },
+  {
+    "tick": 155,
+    "x": 94,
+    "y": 98,
+    "progress": 184,
+    "invulnerable": 0,
+    "direction": 16,
+    "shots": [
+      {
+        "x": 118,
+        "y": 156,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 32
+      },
+      {
+        "x": 112,
+        "y": 30,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 48
+      }
+    ],
+    "dead": false,
+    "afterX": 94,
+    "afterProgress": 186
+  },
+  {
+    "tick": 156,
+    "x": 94,
+    "y": 98,
+    "progress": 186,
+    "invulnerable": 0,
+    "direction": 16,
+    "shots": [
+      {
+        "x": 114,
+        "y": 162,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 28
+      },
+      {
+        "x": 108,
+        "y": 36,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 44
+      }
+    ],
+    "dead": false,
+    "afterX": 94,
+    "afterProgress": 188
+  },
+  {
+    "tick": 157,
+    "x": 94,
+    "y": 98,
+    "progress": 188,
+    "invulnerable": 0,
+    "direction": 16,
+    "shots": [
+      {
+        "x": 110,
+        "y": 168,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 24
+      },
+      {
+        "x": 104,
+        "y": 42,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 40
+      }
+    ],
+    "dead": false,
+    "afterX": 94,
+    "afterProgress": 190
+  },
+  {
+    "tick": 158,
+    "x": 94,
+    "y": 98,
+    "progress": 190,
+    "invulnerable": 0,
+    "direction": 16,
+    "shots": [
+      {
+        "x": 106,
+        "y": 174,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 20
+      },
+      {
+        "x": 100,
+        "y": 48,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 36
+      }
+    ],
+    "dead": false,
+    "afterX": 94,
+    "afterProgress": 192
+  },
+  {
+    "tick": 209,
+    "x": 90,
+    "y": 98,
+    "progress": 272,
+    "invulnerable": 0,
+    "direction": 80,
+    "shots": [
+      {
+        "x": 128,
+        "y": 177,
+        "vx": 0,
+        "vy": 4,
+        "remaining": 28
+      },
+      {
+        "x": 104,
+        "y": 169,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 36
+      },
+      {
+        "x": 112,
+        "y": 106,
+        "vx": -4,
+        "vy": 0,
+        "remaining": 48
+      }
+    ],
+    "dead": false,
+    "afterX": 88,
+    "afterProgress": 274
+  },
+  {
+    "tick": 238,
+    "x": 158,
+    "y": 178,
+    "progress": 194,
+    "invulnerable": 72,
+    "direction": 80,
+    "shots": [
+      {
+        "x": 158,
+        "y": 100,
+        "vx": 0,
+        "vy": 4,
+        "remaining": 36
+      },
+      {
+        "x": 148,
+        "y": 207,
+        "vx": 0,
+        "vy": 4,
+        "remaining": 20
+      }
+    ],
+    "dead": false,
+    "afterX": 156,
+    "afterProgress": 196
+  },
+  {
+    "tick": 239,
+    "x": 156,
+    "y": 176,
+    "progress": 196,
+    "invulnerable": 71,
+    "direction": 80,
+    "shots": [
+      {
+        "x": 158,
+        "y": 104,
+        "vx": 0,
+        "vy": 4,
+        "remaining": 32
+      },
+      {
+        "x": 148,
+        "y": 211,
+        "vx": 0,
+        "vy": 4,
+        "remaining": 16
+      }
+    ],
+    "dead": false,
+    "afterX": 154,
+    "afterProgress": 198
+  },
+  {
+    "tick": 257,
+    "x": 126,
+    "y": 140,
+    "progress": 232,
+    "invulnerable": 53,
+    "direction": 80,
+    "shots": [
+      {
+        "x": 146,
+        "y": 222,
+        "vx": 0,
+        "vy": 4,
+        "remaining": 56
+      }
+    ],
+    "dead": false,
+    "afterX": 124,
+    "afterProgress": 234
+  },
+  {
+    "tick": 258,
+    "x": 124,
+    "y": 138,
+    "progress": 234,
+    "invulnerable": 52,
+    "direction": 80,
+    "shots": [
+      {
+        "x": 146,
+        "y": 226,
+        "vx": 0,
+        "vy": 4,
+        "remaining": 52
+      }
+    ],
+    "dead": false,
+    "afterX": 122,
+    "afterProgress": 236
+  },
+  {
+    "tick": 260,
+    "x": 124,
+    "y": 134,
+    "progress": 238,
+    "invulnerable": 50,
+    "direction": 80,
+    "shots": [
+      {
+        "x": 146,
+        "y": 234,
+        "vx": 0,
+        "vy": 4,
+        "remaining": 44
+      }
+    ],
+    "dead": false,
+    "afterX": 122,
+    "afterProgress": 240
+  },
+  {
+    "tick": 284,
+    "x": 94,
+    "y": 98,
+    "progress": 286,
+    "invulnerable": 26,
+    "direction": 16,
+    "shots": [
+      {
+        "x": 204,
+        "y": 200,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 56
+      }
+    ],
+    "dead": false,
+    "afterX": 94,
+    "afterProgress": 288
+  },
+  {
+    "tick": 285,
+    "x": 94,
+    "y": 98,
+    "progress": 288,
+    "invulnerable": 25,
+    "direction": 16,
+    "shots": [
+      {
+        "x": 200,
+        "y": 206,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 52
+      }
+    ],
+    "dead": false,
+    "afterX": 94,
+    "afterProgress": 290
+  },
+  {
+    "tick": 286,
+    "x": 94,
+    "y": 98,
+    "progress": 290,
+    "invulnerable": 24,
+    "direction": 16,
+    "shots": [
+      {
+        "x": 196,
+        "y": 212,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 48
+      }
+    ],
+    "dead": false,
+    "afterX": 94,
+    "afterProgress": 292
+  },
+  {
+    "tick": 287,
+    "x": 94,
+    "y": 98,
+    "progress": 292,
+    "invulnerable": 23,
+    "direction": 16,
+    "shots": [
+      {
+        "x": 192,
+        "y": 218,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 44
+      }
+    ],
+    "dead": false,
+    "afterX": 94,
+    "afterProgress": 294
+  },
+  {
+    "tick": 288,
+    "x": 94,
+    "y": 98,
+    "progress": 294,
+    "invulnerable": 22,
+    "direction": 16,
+    "shots": [
+      {
+        "x": 188,
+        "y": 224,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 40
+      }
+    ],
+    "dead": false,
+    "afterX": 94,
+    "afterProgress": 296
+  },
+  {
+    "tick": 289,
+    "x": 94,
+    "y": 98,
+    "progress": 296,
+    "invulnerable": 21,
+    "direction": 16,
+    "shots": [
+      {
+        "x": 184,
+        "y": 230,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 36
+      }
+    ],
+    "dead": false,
+    "afterX": 94,
+    "afterProgress": 298
+  },
+  {
+    "tick": 290,
+    "x": 94,
+    "y": 98,
+    "progress": 298,
+    "invulnerable": 20,
+    "direction": 16,
+    "shots": [
+      {
+        "x": 180,
+        "y": 236,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 32
+      }
+    ],
+    "dead": false,
+    "afterX": 94,
+    "afterProgress": 300
+  },
+  {
+    "tick": 303,
+    "x": 94,
+    "y": 98,
+    "progress": 324,
+    "invulnerable": 7,
+    "direction": 16,
+    "shots": [
+      {
+        "x": 204,
+        "y": 238,
+        "vx": -4,
+        "vy": 4,
+        "remaining": 56
+      }
+    ],
+    "dead": false,
+    "afterX": 94,
+    "afterProgress": 326
+  }
+]

@@ -1,0 +1,1055 @@
+{
+  "sourceInputSHA256": "a427db971cd493a4b82abeb33a3d739f825632058c5cf30b0f3d693ce2a9e2d9",
+  "sourceCodeSHA256": "dfeed28c67f9c51e3e43b2defd4b9fb62853916c80bb3e24583ac1baec96c243",
+  "sourceRAMSHA256": {
+    "fall-4431.bin": "bb90f844bf8bb170bbdd32bea5cd9cef1e73b049e810ac9222757cdc29d947ce",
+    "played-4450.bin": "b823cf2fcd261390a50841d751e9234802236a152be5a1f0fcc9fa9a8703a85e",
+    "fall-10081.bin": "096ccc296f9622cc01dddff91a2f694cb841c70d023aa3300c85a4fcde250da2",
+    "played-10100.bin": "70440929cceec9d1803c14f47f629d053e19d8cec2def4c21bf89011a3c71d73",
+    "fall-10365.bin": "5ec24e980dde470fe46e83984235d676dca67e4c82821696d301e327f652b925",
+    "played-10375.bin": "d6c048298298775052732088d434f5aee445b0ac844e84ad8a01b18535756351",
+    "fall-11585.bin": "63dca16a2f5ced6d123daa57df623be86b74049de91ad2911dd67666d4466e47",
+    "played-11600.bin": "c0af35d3e47851c75811acee1c992c67c5564ff6d8680c640509fafd93d7060f",
+    "played-3975.bin": "3c1029c9ad4bd7cf1a8da9d6a62c215292d1b28961f6e016fabd4517fcf39819",
+    "played-4350.bin": "2190f126d179d1f620b19b7d53de9098f4c2481ad7b4b9aa8847fd689a993c17",
+    "played-11775.bin": "07f0988c218c6b58b3345760307c468e0c0000271d4a1c4bc958b169d552e0e8",
+    "played-12475.bin": "a6165229b4c459a2a13b3fdb51001f328e99800839cac35b253525e096e8c6d8",
+    "played-12500.bin": "2434ce95af2d7cd39fab97ebe6da1b50738f05bd7aa5cfbe809d8ecc9639486a",
+    "played-12525.bin": "86259f4a24124fd42800ce82afd2fdf103f1bd5b08673a1fd106b9632d3a0da3",
+    "played-12550.bin": "48bbeeff9fcd0ddf9b5301536277b63d15bf35234e94521dd6a6742b1addc78f"
+  },
+  "falls": [
+    {
+      "startTick": 4431,
+      "start": {
+        "camera": 8954,
+        "x": 134,
+        "y": 106,
+        "progress": 5936,
+        "dead": 1,
+        "fall": 23,
+        "protection": 99,
+        "blink": 1,
+        "active": 1,
+        "upper": 294408,
+        "lower": 303688,
+        "upperStep": 1,
+        "upperDelay": 1,
+        "lowerStep": 1,
+        "lowerDelay": 1,
+        "lives": 5,
+        "ammo": 70,
+        "grenades": 43,
+        "wet": true
+      },
+      "sampleTick": 4450,
+      "sample": {
+        "camera": 8954,
+        "x": 134,
+        "y": 106,
+        "progress": 5936,
+        "dead": 1,
+        "fall": 4,
+        "protection": 80,
+        "blink": 1,
+        "active": 1,
+        "upper": 297288,
+        "lower": 303528,
+        "upperStep": 10,
+        "upperDelay": 0,
+        "lowerStep": 10,
+        "lowerDelay": 0,
+        "lives": 5,
+        "ammo": 70,
+        "grenades": 43,
+        "wet": true
+      },
+      "respawnTick": 4454,
+      "respawn": {
+        "x": 160,
+        "y": 180,
+        "progress": 5862,
+        "lives": 4,
+        "dead": false,
+        "ammunition": 99,
+        "grenades": 50
+      },
+      "controlsWhileFalling": [
+        {
+          "tick": 4431,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 4432,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 4433,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 4434,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 4435,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 4436,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 4437,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 4438,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 4439,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 4440,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 4441,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 4442,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 4443,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 4444,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 4445,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 4446,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 4447,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 4448,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 4449,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 4450,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 4451,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 4452,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 4453,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 4454,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        }
+      ]
+    },
+    {
+      "startTick": 10081,
+      "start": {
+        "camera": 3310,
+        "x": 179,
+        "y": 125,
+        "progress": 11561,
+        "dead": 1,
+        "fall": 23,
+        "protection": 99,
+        "blink": 2,
+        "active": 1,
+        "upper": 294408,
+        "lower": 301928,
+        "upperStep": 1,
+        "upperDelay": 1,
+        "lowerStep": 1,
+        "lowerDelay": 1,
+        "lives": 4,
+        "ammo": 94,
+        "grenades": 97,
+        "wet": false
+      },
+      "sampleTick": 10100,
+      "sample": {
+        "camera": 3310,
+        "x": 179,
+        "y": 125,
+        "progress": 11561,
+        "dead": 1,
+        "fall": 4,
+        "protection": 80,
+        "blink": 2,
+        "active": 1,
+        "upper": 297288,
+        "lower": 303368,
+        "upperStep": 10,
+        "upperDelay": 0,
+        "lowerStep": 10,
+        "lowerDelay": 0,
+        "lives": 4,
+        "ammo": 94,
+        "grenades": 97,
+        "wet": false
+      },
+      "respawnTick": 10104,
+      "respawn": {
+        "x": 160,
+        "y": 180,
+        "progress": 11506,
+        "lives": 3,
+        "dead": false,
+        "ammunition": 99,
+        "grenades": 50
+      },
+      "controlsWhileFalling": [
+        {
+          "tick": 10081,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10082,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10083,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10084,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10085,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10086,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10087,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10088,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10089,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10090,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10091,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10092,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10093,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10094,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10095,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10096,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10097,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10098,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10099,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10100,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10101,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10102,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10103,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10104,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        }
+      ]
+    },
+    {
+      "startTick": 10365,
+      "start": {
+        "camera": 3070,
+        "x": 152,
+        "y": 98,
+        "progress": 11828,
+        "dead": 1,
+        "fall": 23,
+        "protection": 99,
+        "blink": 1,
+        "active": 1,
+        "upper": 294408,
+        "lower": 301928,
+        "upperStep": 1,
+        "upperDelay": 1,
+        "lowerStep": 1,
+        "lowerDelay": 1,
+        "lives": 3,
+        "ammo": 74,
+        "grenades": 47,
+        "wet": false
+      },
+      "sampleTick": 10375,
+      "sample": {
+        "camera": 3070,
+        "x": 152,
+        "y": 98,
+        "progress": 11828,
+        "dead": 1,
+        "fall": 13,
+        "protection": 89,
+        "blink": 1,
+        "active": 1,
+        "upper": 296008,
+        "lower": 302728,
+        "upperStep": 6,
+        "upperDelay": 1,
+        "lowerStep": 6,
+        "lowerDelay": 1,
+        "lives": 3,
+        "ammo": 74,
+        "grenades": 47,
+        "wet": false
+      },
+      "respawnTick": 10388,
+      "respawn": {
+        "x": 160,
+        "y": 180,
+        "progress": 11746,
+        "lives": 2,
+        "dead": false,
+        "ammunition": 99,
+        "grenades": 50
+      },
+      "controlsWhileFalling": [
+        {
+          "tick": 10365,
+          "direction": 0,
+          "fire": false,
+          "key": 32
+        },
+        {
+          "tick": 10366,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10367,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10368,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10369,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10370,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10371,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10372,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10373,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10374,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10375,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10376,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10377,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10378,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10379,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10380,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10381,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10382,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10383,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10384,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10385,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10386,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10387,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 10388,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        }
+      ]
+    },
+    {
+      "startTick": 11585,
+      "start": {
+        "camera": 1458,
+        "x": 176,
+        "y": 98,
+        "progress": 13440,
+        "dead": 1,
+        "fall": 23,
+        "protection": 99,
+        "blink": 2,
+        "active": 1,
+        "upper": 294408,
+        "lower": 301928,
+        "upperStep": 1,
+        "upperDelay": 1,
+        "lowerStep": 1,
+        "lowerDelay": 1,
+        "lives": 2,
+        "ammo": 49,
+        "grenades": 41,
+        "wet": false
+      },
+      "sampleTick": 11600,
+      "sample": {
+        "camera": 1458,
+        "x": 176,
+        "y": 98,
+        "progress": 13440,
+        "dead": 1,
+        "fall": 8,
+        "protection": 84,
+        "blink": 2,
+        "active": 1,
+        "upper": 296648,
+        "lower": 303048,
+        "upperStep": 8,
+        "upperDelay": 0,
+        "lowerStep": 8,
+        "lowerDelay": 0,
+        "lives": 2,
+        "ammo": 49,
+        "grenades": 41,
+        "wet": false
+      },
+      "respawnTick": 11608,
+      "respawn": {
+        "x": 160,
+        "y": 180,
+        "progress": 13358,
+        "lives": 1,
+        "dead": false,
+        "ammunition": 99,
+        "grenades": 50
+      },
+      "controlsWhileFalling": [
+        {
+          "tick": 11585,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 11586,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 11587,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 11588,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 11589,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 11590,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 11591,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 11592,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 11593,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 11594,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 11595,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 11596,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 11597,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 11598,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 11599,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 11600,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 11601,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 11602,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 11603,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 11604,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 11605,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 11606,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 11607,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        },
+        {
+          "tick": 11608,
+          "direction": 0,
+          "fire": false,
+          "key": 0
+        }
+      ]
+    }
+  ],
+  "helicopterFreshShots": [
+    {
+      "tick": 3975,
+      "camera": 9306,
+      "phase": 1,
+      "heliRawX": 102,
+      "heliRawY": -6,
+      "active": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "shotSlot": 1,
+      "shotRawX": 118,
+      "shotRawY": -6,
+      "vx": 0,
+      "vy": 4,
+      "sourceLife": 60,
+      "directionChoice": 6,
+      "controlledGateChoice": 0,
+      "qualification": "The source RAM records a fresh complete-frame muzzle/lifetime. The diagnostic chooses valid gate/vector inputs matching that observed shot; its full prior world and actual random words are not reconstructed."
+    },
+    {
+      "tick": 4350,
+      "camera": 9006,
+      "phase": 2,
+      "heliRawX": 232,
+      "heliRawY": 22,
+      "active": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "shotSlot": 1,
+      "shotRawX": 248,
+      "shotRawY": 22,
+      "vx": 4,
+      "vy": -4,
+      "sourceLife": 60,
+      "directionChoice": 2,
+      "controlledGateChoice": 0,
+      "qualification": "The source RAM records a fresh complete-frame muzzle/lifetime. The diagnostic chooses valid gate/vector inputs matching that observed shot; its full prior world and actual random words are not reconstructed."
+    },
+    {
+      "tick": 11775,
+      "camera": 1310,
+      "phase": 2,
+      "heliRawX": 232,
+      "heliRawY": 172,
+      "active": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "shotSlot": 4,
+      "shotRawX": 248,
+      "shotRawY": 172,
+      "vx": 4,
+      "vy": 0,
+      "sourceLife": 60,
+      "directionChoice": 4,
+      "controlledGateChoice": 0,
+      "qualification": "The source RAM records a fresh complete-frame muzzle/lifetime. The diagnostic chooses valid gate/vector inputs matching that observed shot; its full prior world and actual random words are not reconstructed."
+    }
+  ],
+  "redDeathDuringFinal": [
+    {
+      "tick": 12475,
+      "ending": 0,
+      "final": 1,
+      "camera": 364,
+      "enemy": {
+        "slot": 16,
+        "x": 182,
+        "y": 60,
+        "active": true,
+        "dead": 1,
+        "fall": 7,
+        "upper": 344648,
+        "lower": 349448,
+        "upperStep": 5,
+        "upperDelay": 1,
+        "lowerStep": 5,
+        "lowerDelay": 1
+      }
+    },
+    {
+      "tick": 12500,
+      "ending": 0,
+      "final": 1,
+      "camera": 342,
+      "enemy": {
+        "slot": 16,
+        "x": 182,
+        "y": 82,
+        "active": false,
+        "dead": 0,
+        "fall": 0,
+        "upper": 343048,
+        "lower": 347368,
+        "upperStep": 0,
+        "upperDelay": 1,
+        "lowerStep": 0,
+        "lowerDelay": 1
+      }
+    }
+  ],
+  "hiddenDeathCarriersAfterFinal": [
+    {
+      "tick": 12500,
+      "ending": 0,
+      "final": 1,
+      "camera": 342,
+      "enemies": [
+        {
+          "slot": 12,
+          "x": 160,
+          "y": 2,
+          "active": true,
+          "dead": 0,
+          "fall": 0,
+          "upper": 420808,
+          "lower": 0,
+          "upperStep": 0,
+          "upperDelay": 1,
+          "lowerStep": 0,
+          "lowerDelay": 1
+        },
+        {
+          "slot": 13,
+          "x": 192,
+          "y": 2,
+          "active": true,
+          "dead": 0,
+          "fall": 0,
+          "upper": 421288,
+          "lower": 0,
+          "upperStep": 0,
+          "upperDelay": 1,
+          "lowerStep": 0,
+          "lowerDelay": 1
+        }
+      ]
+    },
+    {
+      "tick": 12525,
+      "ending": 0,
+      "final": 0,
+      "camera": 322,
+      "enemies": [
+        {
+          "slot": 12,
+          "x": 160,
+          "y": 11,
+          "active": false,
+          "dead": 1,
+          "fall": 5,
+          "upper": 327688,
+          "lower": 329288,
+          "upperStep": 6,
+          "upperDelay": 1,
+          "lowerStep": 6,
+          "lowerDelay": 1
+        },
+        {
+          "slot": 13,
+          "x": 192,
+          "y": 11,
+          "active": false,
+          "dead": 1,
+          "fall": 5,
+          "upper": 327688,
+          "lower": 329288,
+          "upperStep": 6,
+          "upperDelay": 1,
+          "lowerStep": 6,
+          "lowerDelay": 1
+        }
+      ]
+    },
+    {
+      "tick": 12550,
+      "ending": 0,
+      "final": 0,
+      "camera": 272,
+      "enemies": [
+        {
+          "slot": 12,
+          "x": 160,
+          "y": 57,
+          "active": false,
+          "dead": 0,
+          "fall": 0,
+          "upper": 325768,
+          "lower": 330088,
+          "upperStep": 0,
+          "upperDelay": 1,
+          "lowerStep": 0,
+          "lowerDelay": 1
+        },
+        {
+          "slot": 13,
+          "x": 192,
+          "y": 57,
+          "active": false,
+          "dead": 0,
+          "fall": 0,
+          "upper": 325768,
+          "lower": 330088,
+          "upperStep": 0,
+          "upperDelay": 1,
+          "lowerStep": 0,
+          "lowerDelay": 1
+        }
+      ]
+    }
+  ],
+  "scope": "Independent existing Source22 observations. No newly recorded source execution, complete long entropy trace, source physical-state import into production, or claim of full replay equality. Isolated diagnostic fixtures may supply the displayed starting semantic state."
+}
